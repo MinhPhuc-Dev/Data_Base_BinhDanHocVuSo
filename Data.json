@@ -478,5 +478,39 @@
       "optionText": "2. Kiến thức và kỹ năng cần thiết để sử dụng AI một cách thông minh, có trách nhiệm và hiệu quả"
     },
     "updatedAt": "2025-11-15T17:21:05.855Z"
+  },
+  "Đến năm 2030, mục tiêu kinh tế số của Việt Nam là chiếm bao nhiêu % GDP?": {
+    "questionId": 1763227267085,
+    "questionText": "Đến năm 2030, mục tiêu kinh tế số của Việt Nam là chiếm bao nhiêu % GDP?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "20%",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "30%",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "25%",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "40%",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. 25%"
+    },
+    "updatedAt": "2025-11-15T17:21:08.249Z"
   }
 }
