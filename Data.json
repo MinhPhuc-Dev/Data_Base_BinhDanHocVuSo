@@ -66,5 +66,49 @@
       "optionText": "2. DALL·E hoặc Canva AI"
     },
     "updatedAt": "2025-11-15T16:48:56.188Z"
+  },
+  "Mục tiêu chính của việc tích hợp dữ liệu để tạo ra nội dung là gì?": {
+    "questionId": 2391,
+    "questionText": "Mục tiêu chính của việc tích hợp dữ liệu để tạo ra nội dung là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Phải sử dụng tất cả các công cụ AI hiện đại",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tạo nội dung đầy đủ, hấp dẫn và dễ tiếp nhận",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ đơn thuần cung cấp thông tin",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ tập trung vào hình ảnh chất lượng cao",
+        "DisplayOrder": 4
+      },
+      {
+        "OptionID": 5,
+        "OptionText": "Câu trước",
+        "DisplayOrder": 5
+      },
+      {
+        "OptionID": 6,
+        "OptionText": "Câu tiếp theo",
+        "DisplayOrder": 6
+      }
+    ],
+    "answer": {
+      "optionText": "2. Tạo nội dung đầy đủ, hấp dẫn và dễ tiếp nhận"
+    },
+    "updatedAt": "2025-11-15T16:56:10.663Z"
   }
 }
