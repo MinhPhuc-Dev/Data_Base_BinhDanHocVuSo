@@ -202,5 +202,41 @@
       "optionText": "2. Thuật toán khóa không đối xứng"
     },
     "updatedAt": "2025-11-15T17:18:59.303Z"
+  },
+  "Khi thao tác trên Cổng dịch vụ công, kết quả xử lý hồ sơ (BƯỚC 4) có thể được nhận bằng hình thức nào?": {
+    "questionId": 1763227140865,
+    "questionText": "Khi thao tác trên Cổng dịch vụ công, kết quả xử lý hồ sơ (BƯỚC 4) có thể được nhận bằng hình thức nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ nhận trực tiếp tại cơ quan",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ nhận qua dịch vụ bưu chính",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ nhận qua ứng dụng VNeID",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Điện tử hoặc qua dịch vụ bưu chính",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Điện tử hoặc qua dịch vụ bưu chính",
+      "optionId": 4,
+      "displayOrder": 4
+    },
+    "updatedAt": "2025-11-15T17:19:02.023Z"
   }
 }
