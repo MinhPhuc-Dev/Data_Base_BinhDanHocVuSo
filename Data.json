@@ -1370,5 +1370,39 @@
       "optionText": "2. \"Nội dung này có mang lại giá trị tích cực không?\""
     },
     "updatedAt": "2025-11-15T17:26:04.593Z"
+  },
+  "Nguyên tắc an toàn đầu tiên được chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI) yêu cầu khi sử dụng mọi thông tin do AI cung cấp là gì?": {
+    "questionId": 1763227567114,
+    "questionText": "Nguyên tắc an toàn đầu tiên được chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI) yêu cầu khi sử dụng mọi thông tin do AI cung cấp là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ dùng AI cho mục đích học tập",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Coi AI là người thay thế khả năng tự đánh giá",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tuyệt đối không chia sẻ dữ liệu cá nhân",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Luôn kiểm tra lại tính chính xác (Kiểm chứng)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Luôn kiểm tra lại tính chính xác (Kiểm chứng)"
+    },
+    "updatedAt": "2025-11-15T17:26:09.089Z"
   }
 }
