@@ -444,5 +444,39 @@
       "optionText": "3. Tất cả đáp án đều đúng"
     },
     "updatedAt": "2025-11-15T17:21:03.341Z"
+  },
+  "Câu nói: \"AI không phải là giải pháp cho mọi vấn đề, nhưng nó là một công cụ mạnh mẽ có thể giúp chúng ta giải quyết nhiều vấn đề hơn bao giờ hết\" hàm ý rằng để sử dụng AI hiệu quả, con người cần phải trang bị những gì?": {
+    "questionId": 1763227264356,
+    "questionText": "Câu nói: \"AI không phải là giải pháp cho mọi vấn đề, nhưng nó là một công cụ mạnh mẽ có thể giúp chúng ta giải quyết nhiều vấn đề hơn bao giờ hết\" hàm ý rằng để sử dụng AI hiệu quả, con người cần phải trang bị những gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Khả năng để AI thay thế hoàn toàn công việc của mình",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Kiến thức và kỹ năng cần thiết để sử dụng AI một cách thông minh, có trách nhiệm và hiệu quả",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ cần khả năng tài chính để mua các công cụ AI đắt tiền",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ cần kỹ năng lập trình và toán học cao cấp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Kiến thức và kỹ năng cần thiết để sử dụng AI một cách thông minh, có trách nhiệm và hiệu quả"
+    },
+    "updatedAt": "2025-11-15T17:21:05.855Z"
   }
 }
