@@ -1198,5 +1198,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-15T17:25:48.040Z"
+  },
+  "Nền tảng mạng xã hội nào được mô tả là hàng đầu của Việt Nam, chủ yếu dùng để nhắn tin và gọi điện miễn phí, đồng thời tích hợp các tiện ích thanh toán và dịch vụ công?": {
+    "questionId": 1763227549460,
+    "questionText": "Nền tảng mạng xã hội nào được mô tả là hàng đầu của Việt Nam, chủ yếu dùng để nhắn tin và gọi điện miễn phí, đồng thời tích hợp các tiện ích thanh toán và dịch vụ công?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Facebook",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Zalo",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gmail",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "YouTube",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Zalo"
+    },
+    "updatedAt": "2025-11-15T17:25:51.681Z"
   }
 }
