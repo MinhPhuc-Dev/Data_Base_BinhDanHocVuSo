@@ -582,5 +582,39 @@
       "displayOrder": 4
     },
     "updatedAt": "2025-11-15T17:23:03.596Z"
+  },
+  "Microsoft Excel có những chức năng chính nào?": {
+    "questionId": 1763227384891,
+    "questionText": "Microsoft Excel có những chức năng chính nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thiết kế slide chuyên nghiệp và chèn video",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mở và giải nén các tệp tin nén",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gõ tiếng Việt có dấu một cách dễ dàng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tạo bảng tính, thực hiện các phép tính phức tạp, phân tích và xử lý dữ liệu",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Tạo bảng tính, thực hiện các phép tính phức tạp, phân tích và xử lý dữ liệu"
+    },
+    "updatedAt": "2025-11-15T17:23:06.683Z"
   }
 }
