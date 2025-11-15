@@ -238,5 +238,39 @@
       "displayOrder": 4
     },
     "updatedAt": "2025-11-15T17:19:02.023Z"
+  },
+  "Trợ lý ảo như ChatGPT, Siri hay Google Assistant có thể hỗ trợ người dùng trong học tập bằng cách nào?": {
+    "questionId": 1763227143157,
+    "questionText": "Trợ lý ảo như ChatGPT, Siri hay Google Assistant có thể hỗ trợ người dùng trong học tập bằng cách nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Khám bệnh",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Giao hàng tận nhà",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cung cấp tiền mặt",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tóm tắt tài liệu dài thành ý chính dễ nhớ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Tóm tắt tài liệu dài thành ý chính dễ nhớ"
+    },
+    "updatedAt": "2025-11-15T17:19:04.541Z"
   }
 }
