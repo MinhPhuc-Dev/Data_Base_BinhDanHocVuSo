@@ -1162,5 +1162,41 @@
       "optionText": "2. Người chỉnh sửa"
     },
     "updatedAt": "2025-11-15T17:25:45.026Z"
+  },
+  "Quản lý dữ liệu tốt giúp ích gì trong việc sử dụng bộ nhớ và chi phí lưu trữ?": {
+    "questionId": 1763227546493,
+    "questionText": "Quản lý dữ liệu tốt giúp ích gì trong việc sử dụng bộ nhớ và chi phí lưu trữ?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giúp tăng chi phí lưu trữ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Không liên quan đến bộ nhớ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giúp tối ưu bộ nhớ, chi phí lưu trữ",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giúp bộ nhớ bị đầy nhanh hơn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Giúp tối ưu bộ nhớ, chi phí lưu trữ",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-15T17:25:48.040Z"
   }
 }
