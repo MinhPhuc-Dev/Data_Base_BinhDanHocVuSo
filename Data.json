@@ -924,5 +924,39 @@
       "optionText": "2. Khả năng của máy móc mô phỏng trí tuệ con người."
     },
     "updatedAt": "2025-11-15T17:25:17.732Z"
+  },
+  "Đặc điểm của từ khóa tìm kiếm giúp dễ ra kết quả như ý là gì?": {
+    "questionId": 1763227519179,
+    "questionText": "Đặc điểm của từ khóa tìm kiếm giúp dễ ra kết quả như ý là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Dài dòng, chung chung, nhiều chi tiết",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Có sử dụng dấu câu phức tạp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Dùng tiếng lóng hoặc từ viết tắt",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ngắn gọn, cụ thể, trọng tâm",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Ngắn gọn, cụ thể, trọng tâm"
+    },
+    "updatedAt": "2025-11-15T17:25:21.240Z"
   }
 }
