@@ -1128,5 +1128,39 @@
       "optionText": "4. Beautiful.ai, Tome hoặc Gamma"
     },
     "updatedAt": "2025-11-15T17:25:42.011Z"
+  },
+  "Khi soạn thảo văn bản trên Google Docs, quyền truy cập nào cho phép người dùng được sử dụng toàn bộ quyền như căn lề, in đậm, và chỉnh sửa nội dung?": {
+    "questionId": 1763227543477,
+    "questionText": "Khi soạn thảo văn bản trên Google Docs, quyền truy cập nào cho phép người dùng được sử dụng toàn bộ quyền như căn lề, in đậm, và chỉnh sửa nội dung?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Người xem",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Người chỉnh sửa",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Người nhận xét",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Người đọc",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Người chỉnh sửa"
+    },
+    "updatedAt": "2025-11-15T17:25:45.026Z"
   }
 }
