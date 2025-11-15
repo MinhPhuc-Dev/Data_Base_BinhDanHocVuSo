@@ -168,5 +168,39 @@
       "optionText": "1. Giấy tờ quan trọng đã scan (CMND, hộ chiếu, bằng cấp...)"
     },
     "updatedAt": "2025-11-15T17:17:57.823Z"
+  },
+  "Chữ ký số là chữ ký điện tử sử dụng thuật toán nào?": {
+    "questionId": 1763227137280,
+    "questionText": "Chữ ký số là chữ ký điện tử sử dụng thuật toán nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thuật toán mã hóa AES",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thuật toán khóa không đối xứng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thuật toán khóa đơn nhất",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thuật toán khóa đối xứng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Thuật toán khóa không đối xứng"
+    },
+    "updatedAt": "2025-11-15T17:18:59.303Z"
   }
 }
