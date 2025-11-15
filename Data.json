@@ -1574,5 +1574,39 @@
       "optionText": "1. Microsoft Photos"
     },
     "updatedAt": "2025-11-15T17:26:28.956Z"
+  },
+  "Một ví dụ điển hình của chuyển đổi số trong nông nghiệp là gì?": {
+    "questionId": 1763227590841,
+    "questionText": "Một ví dụ điển hình của chuyển đổi số trong nông nghiệp là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Trồng cây truyền thống",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Bán nông sản qua sàn thương mại điện tử",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tăng diện tích đất canh tác",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bán nông sản qua chợ truyền thống",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Bán nông sản qua sàn thương mại điện tử"
+    },
+    "updatedAt": "2025-11-15T17:26:33.442Z"
   }
 }
