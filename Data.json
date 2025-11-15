@@ -342,5 +342,39 @@
       "displayOrder": 4
     },
     "updatedAt": "2025-11-15T17:19:10.880Z"
+  },
+  "Khi sử dụng AI để phát hiện dấu hiệu bệnh đạo ôn trên lá lúa bằng cách chụp ảnh, AI đang áp dụng nhánh công nghệ nào?": {
+    "questionId": 1763227254894,
+    "questionText": "Khi sử dụng AI để phát hiện dấu hiệu bệnh đạo ôn trên lá lúa bằng cách chụp ảnh, AI đang áp dụng nhánh công nghệ nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thị giác máy tính",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Học tăng cường",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Xử lý Ngôn ngữ Tự nhiên",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Lập trình thủ công",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Thị giác máy tính"
+    },
+    "updatedAt": "2025-11-15T17:20:57.267Z"
   }
 }
