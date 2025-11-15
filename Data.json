@@ -1676,5 +1676,39 @@
       "optionText": "1. Nút Start → Biểu tượng Power → Shut down"
     },
     "updatedAt": "2025-11-15T17:26:40.851Z"
+  },
+  "Để thực hiện tìm kiếm bằng giọng nói, bạn cần nhấn vào biểu tượng nào?": {
+    "questionId": 1763227603477,
+    "questionText": "Để thực hiện tìm kiếm bằng giọng nói, bạn cần nhấn vào biểu tượng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Biểu tượng micro",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Biểu tượng hình kính lúp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Biểu tượng hình mũi tên",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Biểu tượng hình chiếc máy ảnh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Biểu tượng micro"
+    },
+    "updatedAt": "2025-11-15T17:26:45.525Z"
   }
 }
