@@ -1472,5 +1472,39 @@
       "optionText": "2. Số CMND/CCCD hoặc Số tài khoản ngân hàng"
     },
     "updatedAt": "2025-11-15T17:26:16.768Z"
+  },
+  "Mục tiêu của buổi học là giúp người học biết sử dụng các ứng dụng phổ biến và đặc biệt là biết khai thác những công cụ thông minh nào để hỗ trợ đời sống và công việc hàng ngày?": {
+    "questionId": 1763227578711,
+    "questionText": "Mục tiêu của buổi học là giúp người học biết sử dụng các ứng dụng phổ biến và đặc biệt là biết khai thác những công cụ thông minh nào để hỗ trợ đời sống và công việc hàng ngày?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hệ thống quản lý học tập LMS",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ứng dụng khám bệnh từ xa",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thương mại điện tử và Ngân hàng số",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chatbot và trợ lý ảo",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Chatbot và trợ lý ảo"
+    },
+    "updatedAt": "2025-11-15T17:26:20.656Z"
   }
 }
