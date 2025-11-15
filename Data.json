@@ -1438,5 +1438,39 @@
       "optionText": "3. Phân tích hình ảnh X-quang, CT và MRI"
     },
     "updatedAt": "2025-11-15T17:26:13.115Z"
+  },
+  "Nội dung nào sau đây là một trong những loại thông tin cá nhân nhạy cảm tuyệt đối không nên chia sẻ?": {
+    "questionId": 1763227574602,
+    "questionText": "Nội dung nào sau đây là một trong những loại thông tin cá nhân nhạy cảm tuyệt đối không nên chia sẻ?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ảnh hoạt động ngoại khóa",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Số CMND/CCCD hoặc Số tài khoản ngân hàng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tài liệu tham khảo cho công việc",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bài giảng, tutorial hướng dẫn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Số CMND/CCCD hoặc Số tài khoản ngân hàng"
+    },
+    "updatedAt": "2025-11-15T17:26:16.768Z"
   }
 }
