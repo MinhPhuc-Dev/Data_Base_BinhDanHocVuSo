@@ -306,5 +306,41 @@
       "optionText": "3. Đặt mật khẩu, giới hạn thời gian truy cập, và chỉ cấp quyền xem (không cho phép tải về)"
     },
     "updatedAt": "2025-11-15T17:19:07.533Z"
+  },
+  "Bộ Quy tắc Ứng xử trên mạng xã hội được ban hành theo Quyết định số bao nhiêu của Bộ Thông tin và Truyền thông?": {
+    "questionId": 1763227149314,
+    "questionText": "Bộ Quy tắc Ứng xử trên mạng xã hội được ban hành theo Quyết định số bao nhiêu của Bộ Thông tin và Truyền thông?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Quyết định số 91/2015/QH13",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Quyết định số 47/2020/NĐ-CP",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Quyết định số 01/2024/QĐ-BTTTT",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Quyết định số 874/QĐ-BTTTT",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Quyết định số 874/QĐ-BTTTT",
+      "optionId": 4,
+      "displayOrder": 4
+    },
+    "updatedAt": "2025-11-15T17:19:10.880Z"
   }
 }
