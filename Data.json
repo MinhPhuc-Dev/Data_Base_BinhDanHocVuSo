@@ -66,5 +66,39 @@
       "optionText": "4. Dữ liệu đã qua xử lý, có ý nghĩa"
     },
     "updatedAt": "2025-11-15T17:17:49.089Z"
+  },
+  "Theo định nghĩa được nêu ở nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số, Dữ liệu là gì?": {
+    "questionId": 1763227070071,
+    "questionText": "Theo định nghĩa được nêu ở nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số, Dữ liệu là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tài sản số có thể bị đánh cắp",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dữ liệu đã qua xử lý, có ý nghĩa",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thông tin bí mật",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự khác",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự khác"
+    },
+    "updatedAt": "2025-11-15T17:17:51.251Z"
   }
 }
