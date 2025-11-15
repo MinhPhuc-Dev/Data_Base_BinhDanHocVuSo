@@ -1506,5 +1506,39 @@
       "optionText": "4. Chatbot và trợ lý ảo"
     },
     "updatedAt": "2025-11-15T17:26:20.656Z"
+  },
+  "Hai dịch vụ email phổ biến và dễ sử dụng được nhắc đến trong chuyên đề 4: Giao tiếp và hợp tác trên môi trường số là gì?": {
+    "questionId": 1763227582196,
+    "questionText": "Hai dịch vụ email phổ biến và dễ sử dụng được nhắc đến trong chuyên đề 4: Giao tiếp và hợp tác trên môi trường số là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Yahoo Mail và Hotmail",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "ProtonMail và Zoho Mail",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gmail và Outlook",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Apple Mail và Microsoft Teams",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Gmail và Outlook"
+    },
+    "updatedAt": "2025-11-15T17:26:24.871Z"
   }
 }
