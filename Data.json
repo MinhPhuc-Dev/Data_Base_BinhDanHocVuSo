@@ -684,5 +684,39 @@
       "optionText": "3. Microsoft Word, Microsoft Excel, Microsoft PowerPoint"
     },
     "updatedAt": "2025-11-15T17:23:12.589Z"
+  },
+  "Tích hợp dữ liệu được chuyên đề 5: Sáng tạo nội dung số định nghĩa là vượt ra ngoài việc chỉ trình bày thông tin đơn thuần, mà còn là việc dệt nên điều gì cho người tiếp nhận?": {
+    "questionId": 1763227440805,
+    "questionText": "Tích hợp dữ liệu được chuyên đề 5: Sáng tạo nội dung số định nghĩa là vượt ra ngoài việc chỉ trình bày thông tin đơn thuần, mà còn là việc dệt nên điều gì cho người tiếp nhận?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Một công cụ AI mới",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Một đoạn nhạc nền bắt tai",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Một bản báo cáo kỹ thuật",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Một câu chuyện, một trải nghiệm",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Một câu chuyện, một trải nghiệm"
+    },
+    "updatedAt": "2025-11-15T17:24:04.579Z"
   }
 }
