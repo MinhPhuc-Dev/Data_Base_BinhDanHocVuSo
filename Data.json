@@ -32,5 +32,39 @@
       "optionText": "4. Các trang báo chính thống, trang .gov, .org có uy tín"
     },
     "updatedAt": "2025-11-15T17:17:45.977Z"
+  },
+  "Theo nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số, Thông tin được định nghĩa là gì?": {
+    "questionId": 1763227067599,
+    "questionText": "Theo nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số, Thông tin được định nghĩa là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Mật khẩu và các biện pháp bảo mật",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dữ liệu chưa được sắp xếp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Các tệp tin trùng lặp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Dữ liệu đã qua xử lý, có ý nghĩa",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Dữ liệu đã qua xử lý, có ý nghĩa"
+    },
+    "updatedAt": "2025-11-15T17:17:49.089Z"
   }
 }
