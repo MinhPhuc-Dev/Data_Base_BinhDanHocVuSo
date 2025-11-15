@@ -546,5 +546,41 @@
       "optionText": "1. CPU - Bộ xử lý trung tâm"
     },
     "updatedAt": "2025-11-15T17:23:01.062Z"
+  },
+  "Để hiển thị thông tin và hình ảnh sắc nét và rõ ràng hơn, màn hình máy tính cần có đặc điểm gì?": {
+    "questionId": 1763227382316,
+    "questionText": "Để hiển thị thông tin và hình ảnh sắc nét và rõ ràng hơn, màn hình máy tính cần có đặc điểm gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Khả năng cảm ứng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Kích thước lớn hơn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Độ sáng cao hơn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Độ phân giải càng cao (Full HD hoặc 4K)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Độ phân giải càng cao (Full HD hoặc 4K)",
+      "optionId": 4,
+      "displayOrder": 4
+    },
+    "updatedAt": "2025-11-15T17:23:03.596Z"
   }
 }
