@@ -1,1 +1,36 @@
-{}
+{
+  "Khi kiểm chứng thông tin, chúng ta nên ưu tiên loại nguồn tin nào?": {
+    "questionId": 1763227063193,
+    "questionText": "Khi kiểm chứng thông tin, chúng ta nên ưu tiên loại nguồn tin nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Các trang mạng xã hội",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Các trang quảng cáo sản phẩm",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Các trang cá nhân có nhiều người theo dõi",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Các trang báo chính thống, trang .gov, .org có uy tín",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Các trang báo chính thống, trang .gov, .org có uy tín"
+    },
+    "updatedAt": "2025-11-15T17:17:45.977Z"
+  }
+}
