@@ -1540,5 +1540,39 @@
       "optionText": "3. Gmail và Outlook"
     },
     "updatedAt": "2025-11-15T17:26:24.871Z"
+  },
+  "Công cụ nào là ứng dụng mặc định trên Windows giúp quản lý, xem, cắt, xoay và chỉnh sửa ảnh/video một cách tiện lợi?": {
+    "questionId": 1763227586747,
+    "questionText": "Công cụ nào là ứng dụng mặc định trên Windows giúp quản lý, xem, cắt, xoay và chỉnh sửa ảnh/video một cách tiện lợi?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Microsoft Photos",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Microsoft Word",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Unikey",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "PDF X",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Microsoft Photos"
+    },
+    "updatedAt": "2025-11-15T17:26:28.956Z"
   }
 }
