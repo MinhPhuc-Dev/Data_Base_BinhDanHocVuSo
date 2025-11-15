@@ -1302,5 +1302,39 @@
       "optionText": "2. Kết hợp đa dạng các dạng dữ liệu và tận dụng AI để sáng tạo nội dung"
     },
     "updatedAt": "2025-11-15T17:25:58.251Z"
+  },
+  "Trong cài đặt hệ thống Windows, múi giờ chuẩn nào của Việt Nam được nhắc đến trong tài liệu?": {
+    "questionId": 1763227559706,
+    "questionText": "Trong cài đặt hệ thống Windows, múi giờ chuẩn nào của Việt Nam được nhắc đến trong tài liệu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "UTC+07:00",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "UTC+05:00",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "UTC+09:00",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "UTC+08:00",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. UTC+07:00"
+    },
+    "updatedAt": "2025-11-15T17:26:01.200Z"
   }
 }
