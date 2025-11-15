@@ -958,5 +958,39 @@
       "optionText": "4. Ngắn gọn, cụ thể, trọng tâm"
     },
     "updatedAt": "2025-11-15T17:25:21.240Z"
+  },
+  "Trợ lý AI nào được nhắc đến trong nội dung ở chuyên đề 3: Khai thác thông tin và dữ liệu số là AI của Google, có thể trò chuyện tự nhiên như người thật?": {
+    "questionId": 1763227523182,
+    "questionText": "Trợ lý AI nào được nhắc đến trong nội dung ở chuyên đề 3: Khai thác thông tin và dữ liệu số là AI của Google, có thể trò chuyện tự nhiên như người thật?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bing AI",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Google Gemini",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "ChatGPT",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Microsoft Copilot",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Google Gemini"
+    },
+    "updatedAt": "2025-11-15T17:25:25.490Z"
   }
 }
