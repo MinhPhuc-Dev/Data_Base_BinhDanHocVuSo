@@ -890,5 +890,39 @@
       "optionText": "4. Giữ máy thật ổn định và quay theo chiều ngang"
     },
     "updatedAt": "2025-11-15T17:25:14.288Z"
+  },
+  "Khái niệm ngắn gọn về Trí tuệ Nhân tạo (AI) được nêu trong chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI) là gì?": {
+    "questionId": 1763227515622,
+    "questionText": "Khái niệm ngắn gọn về Trí tuệ Nhân tạo (AI) được nêu trong chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI) là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Robot có khả năng giao tiếp và di chuyển",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Khả năng của máy móc mô phỏng trí tuệ con người",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Công nghệ lập trình giải quyết vấn đề phức tạp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Hệ thống thu thập và lưu trữ dữ liệu lớn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Khả năng của máy móc mô phỏng trí tuệ con người."
+    },
+    "updatedAt": "2025-11-15T17:25:17.732Z"
   }
 }
