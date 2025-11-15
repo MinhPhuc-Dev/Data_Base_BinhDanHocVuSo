@@ -754,5 +754,39 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-15T17:24:07.792Z"
+  },
+  "Trong lĩnh vực báo chí điện tử hiện nay, một bài báo thường đi kèm với những yếu tố nào sau đây để cung cấp cái nhìn đa chiều cho độc giả?": {
+    "questionId": 1763227449448,
+    "questionText": "Trong lĩnh vực báo chí điện tử hiện nay, một bài báo thường đi kèm với những yếu tố nào sau đây để cung cấp cái nhìn đa chiều cho độc giả?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ảnh chất lượng cao, các đoạn clip phỏng vấn, biểu đồ tương tác và đường dẫn tham khảo",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Các ứng dụng trò chơi",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ có văn bản và email",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ có âm thanh và nhạc nền",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Ảnh chất lượng cao, các đoạn clip phỏng vấn, biểu đồ tương tác và đường dẫn tham khảo"
+    },
+    "updatedAt": "2025-11-15T17:24:11.528Z"
   }
 }
