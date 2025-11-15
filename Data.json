@@ -1060,5 +1060,39 @@
       "optionText": "1. Cho phép người dân và doanh nghiệp thực hiện các thủ tục hành chính, tra cứu thông tin, nộp hồ sơ và thanh toán phí trực tuyến"
     },
     "updatedAt": "2025-11-15T17:25:34.158Z"
+  },
+  "Khi quay video, ở nội dung chuyên đề 5: Sáng tạo nội dung số đã khuyến cáo rằng điện thoại hiện đại đều tích hợp camera chất lượng cao, cho phép quay video ở những định dạng nào?": {
+    "questionId": 1763227537213,
+    "questionText": "Khi quay video, ở nội dung chuyên đề 5: Sáng tạo nội dung số đã khuyến cáo rằng điện thoại hiện đại đều tích hợp camera chất lượng cao, cho phép quay video ở những định dạng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "SD hoặc HD",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Full HD hoặc 4K",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "VGA hoặc Full HD",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "8K hoặc 16K",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Full HD hoặc 4K"
+    },
+    "updatedAt": "2025-11-15T17:25:38.455Z"
   }
 }
