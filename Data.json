@@ -410,5 +410,39 @@
       "optionText": "1. Tăng chi phí vận hành"
     },
     "updatedAt": "2025-11-15T17:21:00.275Z"
+  },
+  "Đâu là ứng dụng của Trí tuệ Nhân tạo (AI) trong đời sống?": {
+    "questionId": 1763227261510,
+    "questionText": "Đâu là ứng dụng của Trí tuệ Nhân tạo (AI) trong đời sống?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Gợi ý nhạc, phim thuộc thể loại ưa thích, xu hướng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mở khóa điện thoại bằng khuôn mặt",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tất cả đáp án đều đúng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Trợ lý ảo",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Tất cả đáp án đều đúng"
+    },
+    "updatedAt": "2025-11-15T17:21:03.341Z"
   }
 }
