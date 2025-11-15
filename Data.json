@@ -1268,5 +1268,39 @@
       "displayOrder": 1
     },
     "updatedAt": "2025-11-15T17:25:54.549Z"
+  },
+  "Hai yêu cầu cốt lõi cần đạt được sau khi hoàn thành chuyên đề 5: Sáng tạo nội dung số là gì?": {
+    "questionId": 1763227556022,
+    "questionText": "Hai yêu cầu cốt lõi cần đạt được sau khi hoàn thành chuyên đề 5: Sáng tạo nội dung số là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ cần biết dùng Canva và chỉ cần biết dùng ChatGPT",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Kết hợp đa dạng các dạng dữ liệu và tận dụng AI để sáng tạo nội dung",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Viết văn bản nhanh và dựng phim chuyên nghiệp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thành thạo lập trình và giỏi tiếng Anh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Kết hợp đa dạng các dạng dữ liệu và tận dụng AI để sáng tạo nội dung"
+    },
+    "updatedAt": "2025-11-15T17:25:58.251Z"
   }
 }
