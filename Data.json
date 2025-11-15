@@ -616,5 +616,39 @@
       "optionText": "4. Tạo bảng tính, thực hiện các phép tính phức tạp, phân tích và xử lý dữ liệu"
     },
     "updatedAt": "2025-11-15T17:23:06.683Z"
+  },
+  "Trên điện thoại Android, người dùng có thể sử dụng chức năng \"Quét\" tài liệu trong ứng dụng nào?": {
+    "questionId": 1763227387890,
+    "questionText": "Trên điện thoại Android, người dùng có thể sử dụng chức năng \"Quét\" tài liệu trong ứng dụng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Google Drive",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Gmail",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cốc Cốc",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Unikey",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Google Drive"
+    },
+    "updatedAt": "2025-11-15T17:23:09.580Z"
   }
 }
