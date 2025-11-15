@@ -1026,5 +1026,39 @@
       "optionText": "4. Tạo nội dung số cơ bản"
     },
     "updatedAt": "2025-11-15T17:25:30.485Z"
+  },
+  "Chức năng chính của Cổng Dịch vụ công Quốc gia là gì?": {
+    "questionId": 1763227531974,
+    "questionText": "Chức năng chính của Cổng Dịch vụ công Quốc gia là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Cho phép người dân và doanh nghiệp thực hiện các thủ tục hành chính, tra cứu thông tin, nộp hồ sơ và thanh toán phí trực tuyến",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hỗ trợ tạo bảng tính và biểu đồ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Lưu trữ và chia sẻ tài liệu thông minh",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nền tảng chia sẻ video lớn nhất",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Cho phép người dân và doanh nghiệp thực hiện các thủ tục hành chính, tra cứu thông tin, nộp hồ sơ và thanh toán phí trực tuyến"
+    },
+    "updatedAt": "2025-11-15T17:25:34.158Z"
   }
 }
