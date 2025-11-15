@@ -1232,5 +1232,41 @@
       "optionText": "2. Zalo"
     },
     "updatedAt": "2025-11-15T17:25:51.681Z"
+  },
+  "Theo Kế hoạch Chuyển đổi số tỉnh Quảng Ngãi năm 2025, tỷ lệ dân số trưởng thành được cấp chứng thư chữ ký số, chứng thư chữ ký điện tử phấn đấu đạt bao nhiêu phần trăm?": {
+    "questionId": 1763227553061,
+    "questionText": "Theo Kế hoạch Chuyển đổi số tỉnh Quảng Ngãi năm 2025, tỷ lệ dân số trưởng thành được cấp chứng thư chữ ký số, chứng thư chữ ký điện tử phấn đấu đạt bao nhiêu phần trăm?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đạt trên 50%",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Đạt trên 30%",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Đạt trên 40%",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Đạt 100%",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Đạt trên 50%",
+      "optionId": 1,
+      "displayOrder": 1
+    },
+    "updatedAt": "2025-11-15T17:25:54.549Z"
   }
 }
