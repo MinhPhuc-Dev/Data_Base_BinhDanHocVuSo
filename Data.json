@@ -992,5 +992,39 @@
       "optionText": "2. Google Gemini"
     },
     "updatedAt": "2025-11-15T17:25:25.490Z"
+  },
+  "Trong 4 phần nội dung chính của chuyên đề 5: Sáng tạo nội dung số, phần nào đề cập đến việc học cách tạo ra ảnh, video, âm thanh và văn bản?": {
+    "questionId": 1763227528579,
+    "questionText": "Trong 4 phần nội dung chính của chuyên đề 5: Sáng tạo nội dung số, phần nào đề cập đến việc học cách tạo ra ảnh, video, âm thanh và văn bản?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ứng dụng AI trong sáng tạo",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Công cụ chỉnh sửa đơn giản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Yêu cầu cần đạt",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tạo nội dung số cơ bản",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Tạo nội dung số cơ bản"
+    },
+    "updatedAt": "2025-11-15T17:25:30.485Z"
   }
 }
