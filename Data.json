@@ -1,1 +1,36 @@
-{}
+{
+  "Khi sử dụng tin nhắn và mạng xã hội, điều quan trọng nhất cần tuyệt đối không chia sẻ là gì để tránh rủi ro?": {
+    "questionId": 159,
+    "questionText": "Khi sử dụng tin nhắn và mạng xã hội, điều quan trọng nhất cần tuyệt đối không chia sẻ là gì để tránh rủi ro?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 651,
+        "OptionText": "Quan điểm chính trị",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 649,
+        "OptionText": "Hình ảnh cá nhân",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 652,
+        "OptionText": "Bài đăng của người khác",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 650,
+        "OptionText": "Thông tin cá nhân nhạy cảm như số chứng minh, số tài khoản ngân hàng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Thông tin cá nhân nhạy cảm như số chứng minh, số tài khoản ngân hàng"
+    },
+    "updatedAt": "2025-11-15T16:48:10.289Z"
+  }
+}
