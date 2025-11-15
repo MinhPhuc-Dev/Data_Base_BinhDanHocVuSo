@@ -512,5 +512,39 @@
       "optionText": "3. 25%"
     },
     "updatedAt": "2025-11-15T17:21:08.249Z"
+  },
+  "Bộ phận nào của máy tính được coi là \"bộ não,\" chịu trách nhiệm chỉ đạo và xử lý mọi hoạt động?": {
+    "questionId": 1763227376246,
+    "questionText": "Bộ phận nào của máy tính được coi là \"bộ não,\" chịu trách nhiệm chỉ đạo và xử lý mọi hoạt động?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "CPU - Bộ xử lý trung tâm",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Bo Mạch Chủ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "RAM",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ổ Cứng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. CPU - Bộ xử lý trung tâm"
+    },
+    "updatedAt": "2025-11-15T17:23:01.062Z"
   }
 }
