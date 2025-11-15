@@ -718,5 +718,41 @@
       "optionText": "4. Một câu chuyện, một trải nghiệm"
     },
     "updatedAt": "2025-11-15T17:24:04.579Z"
+  },
+  "Theo chuyên đề 5: Sáng tạo nội dung số, ứng dụng ghi chú phổ biến Notion có nhược điểm nào có thể gây khó khăn cho người dùng?": {
+    "questionId": 1763227445864,
+    "questionText": "Theo chuyên đề 5: Sáng tạo nội dung số, ứng dụng ghi chú phổ biến Notion có nhược điểm nào có thể gây khó khăn cho người dùng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bắt buộc phải trả phí để sử dụng các định dạng mẫu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Người dùng sẽ gặp chút khó khăn để làm quen",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ có thể lưu trữ dữ liệu văn bản",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Không hỗ trợ đồng bộ dữ liệu đa thiết bị",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Người dùng sẽ gặp chút khó khăn để làm quen",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-15T17:24:07.792Z"
   }
 }
