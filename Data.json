@@ -134,5 +134,39 @@
       "optionText": "4. Xem kết quả và so sánh nhiều trang, ưu tiên chọn báo chính thống"
     },
     "updatedAt": "2025-11-15T17:17:54.301Z"
+  },
+  "Loại dữ liệu nào sau đây được xem là \"tài sản số\" mang giá trị lâu dài và cần được lưu trữ cẩn thận?": {
+    "questionId": 1763227075733,
+    "questionText": "Loại dữ liệu nào sau đây được xem là \"tài sản số\" mang giá trị lâu dài và cần được lưu trữ cẩn thận?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giấy tờ quan trọng đã scan (CMND, hộ chiếu, bằng cấp...)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tài liệu tải về dùng một lần",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tệp trùng lặp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ảnh/Video không cần thiết",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Giấy tờ quan trọng đã scan (CMND, hộ chiếu, bằng cấp...)"
+    },
+    "updatedAt": "2025-11-15T17:17:57.823Z"
   }
 }
