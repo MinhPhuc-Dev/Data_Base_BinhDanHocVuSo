@@ -788,5 +788,39 @@
       "optionText": "1. Ảnh chất lượng cao, các đoạn clip phỏng vấn, biểu đồ tương tác và đường dẫn tham khảo"
     },
     "updatedAt": "2025-11-15T17:24:11.528Z"
+  },
+  "Khi kết hợp Video và Âm thanh, yếu tố nào có khả năng tạo không khí, kích thích cảm xúc và tăng tính hấp dẫn cho video, giúp thông điệp chạm đến trái tim khán giả?": {
+    "questionId": 1763227452812,
+    "questionText": "Khi kết hợp Video và Âm thanh, yếu tố nào có khả năng tạo không khí, kích thích cảm xúc và tăng tính hấp dẫn cho video, giúp thông điệp chạm đến trái tim khán giả?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hình ảnh chuyển động mượt mà",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nhạc nền phù hợp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giọng thuyết minh rõ ràng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Phụ đề chi tiết",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Nhạc nền phù hợp"
+    },
+    "updatedAt": "2025-11-15T17:24:14.155Z"
   }
 }
