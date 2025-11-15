@@ -272,5 +272,39 @@
       "optionText": "4. Tóm tắt tài liệu dài thành ý chính dễ nhớ"
     },
     "updatedAt": "2025-11-15T17:19:04.541Z"
+  },
+  "Ví dụ thực tế về việc chia sẻ có bảo mật cho thấy giáo viên có thể thiết lập những giới hạn nào khi gửi đề thi?": {
+    "questionId": 1763227145776,
+    "questionText": "Ví dụ thực tế về việc chia sẻ có bảo mật cho thấy giáo viên có thể thiết lập những giới hạn nào khi gửi đề thi?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ sử dụng Google Drive để chia sẻ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ đặt tên file rõ ràng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Đặt mật khẩu, giới hạn thời gian truy cập, và chỉ cấp quyền xem (không cho phép tải về)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ chia sẻ công khai để tất cả học sinh đều nhận được",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Đặt mật khẩu, giới hạn thời gian truy cập, và chỉ cấp quyền xem (không cho phép tải về)"
+    },
+    "updatedAt": "2025-11-15T17:19:07.533Z"
   }
 }
