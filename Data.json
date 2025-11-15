@@ -1642,5 +1642,39 @@
       "optionText": "Một trong ba lợi ích chính của AI được chuyên đề 1: Kiến thức số liệt kê là:\n\nNâng cao hiệu suất làm việc"
     },
     "updatedAt": "2025-11-15T17:26:37.290Z"
+  },
+  "Theo nội dung chuyên đề 2: Sử dụng thiết bị số và phần mềm, các bước đúng để tắt máy tính Windows an toàn là gì?": {
+    "questionId": 1763227598725,
+    "questionText": "Theo nội dung chuyên đề 2: Sử dụng thiết bị số và phần mềm, các bước đúng để tắt máy tính Windows an toàn là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Nút Start → Biểu tượng Power → Shut down",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Biểu tượng Power → Start → Shut down",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ctrl+Alt+Delete → Power → Shut down",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Rút dây nguồn ngay lập tức",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Nút Start → Biểu tượng Power → Shut down"
+    },
+    "updatedAt": "2025-11-15T17:26:40.851Z"
   }
 }
