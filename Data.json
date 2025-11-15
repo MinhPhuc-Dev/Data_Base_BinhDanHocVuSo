@@ -1336,5 +1336,39 @@
       "optionText": "1. UTC+07:00"
     },
     "updatedAt": "2025-11-15T17:26:01.200Z"
+  },
+  "Nguyên tắc vàng được nhấn mạnh trước khi chia sẻ thông tin là tự hỏi hai câu. Câu hỏi nào sau đây là câu hỏi đầu tiên được đề cập?": {
+    "questionId": 1763227562648,
+    "questionText": "Nguyên tắc vàng được nhấn mạnh trước khi chia sẻ thông tin là tự hỏi hai câu. Câu hỏi nào sau đây là câu hỏi đầu tiên được đề cập?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "\"Tôi đã nén file để tiết kiệm băng thông chưa?\"",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "\"Nội dung này có mang lại giá trị tích cực không?\"",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "\"Nội dung này có chứa mã độc không?\"",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "\"Nội dung này có vi phạm kỷ luật lao động không?\"",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. \"Nội dung này có mang lại giá trị tích cực không?\""
+    },
+    "updatedAt": "2025-11-15T17:26:04.593Z"
   }
 }
