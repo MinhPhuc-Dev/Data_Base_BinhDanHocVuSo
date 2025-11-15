@@ -95,16 +95,6 @@
         "OptionText": "Chỉ tập trung vào hình ảnh chất lượng cao",
         "DisplayOrder": 4
       },
-      {
-        "OptionID": 5,
-        "OptionText": "Câu trước",
-        "DisplayOrder": 5
-      },
-      {
-        "OptionID": 6,
-        "OptionText": "Câu tiếp theo",
-        "DisplayOrder": 6
-      }
     ],
     "answer": {
       "optionText": "2. Tạo nội dung đầy đủ, hấp dẫn và dễ tiếp nhận"
