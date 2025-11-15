@@ -1608,5 +1608,39 @@
       "optionText": "2. Bán nông sản qua sàn thương mại điện tử"
     },
     "updatedAt": "2025-11-15T17:26:33.442Z"
+  },
+  "Đâu là một trong ba lợi ích chính của AI được chuyên đề 1: Kiến thức số liệt kê?": {
+    "questionId": 1763227594942,
+    "questionText": "Đâu là một trong ba lợi ích chính của AI được chuyên đề 1: Kiến thức số liệt kê?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tạo việc làm thủ công cho con người",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nâng cao hiệu suất làm việc",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giảm chi phí sản xuất phần cứng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tự động viết toàn bộ báo cáo cuối cùng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Một trong ba lợi ích chính của AI được chuyên đề 1: Kiến thức số liệt kê là:\n\nNâng cao hiệu suất làm việc"
+    },
+    "updatedAt": "2025-11-15T17:26:37.290Z"
   }
 }
