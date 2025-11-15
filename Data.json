@@ -1404,5 +1404,39 @@
       "optionText": "4. Luôn kiểm tra lại tính chính xác (Kiểm chứng)"
     },
     "updatedAt": "2025-11-15T17:26:09.089Z"
+  },
+  "Trong lĩnh vực y tế, một trong những ứng dụng hỗ trợ bác sĩ được chuyên đề 1.2 Kiến thức về trí tuệ nhân tạo (AI) đề cập là gì?": {
+    "questionId": 1763227570577,
+    "questionText": "Trong lĩnh vực y tế, một trong những ứng dụng hỗ trợ bác sĩ được chuyên đề 1.2 Kiến thức về trí tuệ nhân tạo (AI) đề cập là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tự động kê đơn thuốc cho bệnh nhân",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thay thế hoàn toàn phẫu thuật viên",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Phân tích hình ảnh X-quang, CT và MRI",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Quản lý hồ sơ hành chính bệnh viện",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Phân tích hình ảnh X-quang, CT và MRI"
+    },
+    "updatedAt": "2025-11-15T17:26:13.115Z"
   }
 }
