@@ -1710,5 +1710,39 @@
       "optionText": "1. Biểu tượng micro"
     },
     "updatedAt": "2025-11-15T17:26:45.525Z"
+  },
+  "Ứng dụng nào sau đây thuộc nhánh \"Thị giác máy tính\" (Computer Vision) của AI?": {
+    "questionId": 1763227606981,
+    "questionText": "Ứng dụng nào sau đây thuộc nhánh \"Thị giác máy tính\" (Computer Vision) của AI?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tóm tắt văn bản dài",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Trợ lý ảo trả lời câu hỏi",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Nhận diện khuôn mặt để mở khóa điện thoại",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Hệ thống gợi ý mua sắm trực tuyến",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Nhận diện khuôn mặt để mở khóa điện thoại"
+    },
+    "updatedAt": "2025-11-15T17:26:48.461Z"
   }
 }
