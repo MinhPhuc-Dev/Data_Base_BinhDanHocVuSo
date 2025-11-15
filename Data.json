@@ -1094,5 +1094,39 @@
       "optionText": "2. Full HD hoặc 4K"
     },
     "updatedAt": "2025-11-15T17:25:38.455Z"
+  },
+  "Công cụ AI nào được thiết kế để tự động tạo slide trình chiếu chuyên nghiệp chỉ bằng cách nhập nội dung?": {
+    "questionId": 1763227539934,
+    "questionText": "Công cụ AI nào được thiết kế để tự động tạo slide trình chiếu chuyên nghiệp chỉ bằng cách nhập nội dung?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "ChatGPT",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "CapCut",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Midjourney",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Beautiful.ai, Tome hoặc Gamma",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Beautiful.ai, Tome hoặc Gamma"
+    },
+    "updatedAt": "2025-11-15T17:25:42.011Z"
   }
 }
