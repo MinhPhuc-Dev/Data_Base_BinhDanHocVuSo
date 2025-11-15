@@ -650,5 +650,39 @@
       "optionText": "1. Google Drive"
     },
     "updatedAt": "2025-11-15T17:23:09.580Z"
+  },
+  "Bộ công cụ văn phòng Microsoft Office được đề cập trong tài liệu bao gồm những ứng dụng chính nào?": {
+    "questionId": 1763227390879,
+    "questionText": "Bộ công cụ văn phòng Microsoft Office được đề cập trong tài liệu bao gồm những ứng dụng chính nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Cốc Cốc, Unikey, Microsoft Photos",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Microsoft Word, Microsoft Access, Microsoft Outlook",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Microsoft Word, Microsoft Excel, Microsoft PowerPoint",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Google Drive, Zoom, Microsoft Word",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Microsoft Word, Microsoft Excel, Microsoft PowerPoint"
+    },
+    "updatedAt": "2025-11-15T17:23:12.589Z"
   }
 }
