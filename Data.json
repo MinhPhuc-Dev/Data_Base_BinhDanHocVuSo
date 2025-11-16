@@ -4794,5 +4794,39 @@
       "optionText": "1. Hành vi ứng xử văn minh"
     },
     "updatedAt": "2025-11-16T08:54:06.152Z"
+  },
+  "Để tạo nội dung Audio (giọng thuyết minh) nhằm chèn vào Video, ở chuyên đề 5: Sáng tạo nội dung số đã gợi ý sử dụng công cụ nào để chuyển văn bản thành giọng nói (TextToSpeech)?": {
+    "questionId": 1763283246444,
+    "questionText": "Để tạo nội dung Audio (giọng thuyết minh) nhằm chèn vào Video, ở chuyên đề 5: Sáng tạo nội dung số đã gợi ý sử dụng công cụ nào để chuyển văn bản thành giọng nói (TextToSpeech)?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Pictory",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "ChatGPT",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "J2Team – TextToSpeech",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Suno AI",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. J2Team – TextToSpeech"
+    },
+    "updatedAt": "2025-11-16T08:54:13.243Z"
   }
 }
