@@ -4219,5 +4219,39 @@
       "optionText": "4. 3 loại"
     },
     "updatedAt": "2025-11-16T08:46:29.002Z"
+  },
+  "Khi chụp ảnh bằng điện thoại thông minh, nguyên tắc cơ bản nào sau đây được khuyến nghị để có bức ảnh đẹp mắt?": {
+    "questionId": 1763282800610,
+    "questionText": "Khi chụp ảnh bằng điện thoại thông minh, nguyên tắc cơ bản nào sau đây được khuyến nghị để có bức ảnh đẹp mắt?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Luôn chụp theo chiều dọc",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Không cần tập trung vào chủ thể chính",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chọn góc có ánh sáng tự nhiên tốt",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ dùng ánh sáng gắt",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Chọn góc có ánh sáng tự nhiên tốt"
+    },
+    "updatedAt": "2025-11-16T08:46:43.078Z"
   }
 }
