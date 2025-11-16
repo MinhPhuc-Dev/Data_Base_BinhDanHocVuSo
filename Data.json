@@ -2280,5 +2280,39 @@
       "optionText": "3. Dùng AI để tạo và phát tán tin giả (deepfake) trên mạng xã hội"
     },
     "updatedAt": "2025-11-16T07:48:51.189Z"
+  },
+  "Ứng dụng AI nào dưới đây được liệt kê là ví dụ trong hoạt động giải trí (xem phim/nghe nhạc)?": {
+    "questionId": 1763279333234,
+    "questionText": "Ứng dụng AI nào dưới đây được liệt kê là ví dụ trong hoạt động giải trí (xem phim/nghe nhạc)?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tạo file trình chiếu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mở khóa điện thoại bằng khuôn mặt",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "AI gợi ý phim và bản nhạc mà bạn thích trên YouTube/Netflix",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Google Maps tìm đường",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. AI gợi ý phim và bản nhạc mà bạn thích trên YouTube/Netflix"
+    },
+    "updatedAt": "2025-11-16T07:48:55.781Z"
   }
 }
