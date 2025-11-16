@@ -3843,5 +3843,39 @@
       "displayOrder": 4
     },
     "updatedAt": "2025-11-16T08:43:48.277Z"
+  },
+  "Dung lượng lưu trữ đám mây miễn phí mà Google Drive cung cấp là bao nhiêu?": {
+    "questionId": 1763282630173,
+    "questionText": "Dung lượng lưu trữ đám mây miễn phí mà Google Drive cung cấp là bao nhiêu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "5 GB",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "25 GB",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "15 GB",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "10 GB",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. 15 GB"
+    },
+    "updatedAt": "2025-11-16T08:43:52.466Z"
   }
 }
