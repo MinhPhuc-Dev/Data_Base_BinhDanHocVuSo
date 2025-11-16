@@ -6448,5 +6448,39 @@
       "optionText": "3. Ngồi đúng tư thế, lưng thẳng, màn hình ngang tầm mắt"
     },
     "updatedAt": "2025-11-16T13:37:48.606Z"
+  },
+  "Cảnh báo về \"Sự phụ thuộc\" vào AI có thể gây ra thách thức tiêu cực nào đối với người dùng?": {
+    "questionId": 1763300309612,
+    "questionText": "Cảnh báo về \"Sự phụ thuộc\" vào AI có thể gây ra thách thức tiêu cực nào đối với người dùng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Gia tăng chi phí vận hành cho doanh nghiệp",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Khuyến khích việc tạo ra nội dung độc hại",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Làm giảm khả năng tư duy phản biện và kỹ năng giải quyết vấn đề của con người",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Khiến AI đưa ra quyết định quá nhanh chóng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Làm giảm khả năng tư duy phản biện và kỹ năng giải quyết vấn đề của con người."
+    },
+    "updatedAt": "2025-11-16T13:38:32.259Z"
   }
 }
