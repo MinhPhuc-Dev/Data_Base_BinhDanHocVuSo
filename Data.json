@@ -4355,5 +4355,39 @@
       "optionText": "4. Người đó hoặc các thành viên gia đình"
     },
     "updatedAt": "2025-11-16T08:47:07.543Z"
+  },
+  "Khóa bí mật trong chữ ký số được dùng để làm gì?": {
+    "questionId": 1763282829519,
+    "questionText": "Khóa bí mật trong chữ ký số được dùng để làm gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Để truy cập hệ thống",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Để kiểm tra chữ ký số",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Để ký số",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Để mã hóa dữ liệu",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Để ký số."
+    },
+    "updatedAt": "2025-11-16T08:47:11.717Z"
   }
 }
