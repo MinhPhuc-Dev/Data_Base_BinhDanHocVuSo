@@ -7936,5 +7936,39 @@
       "optionText": "1. Giải trí"
     },
     "updatedAt": "2025-11-16T16:01:25.585Z"
+  },
+  "Thao tác chuột nào được sử dụng để mở một tệp hoặc ứng dụng?": {
+    "questionId": 1763308900070,
+    "questionText": "Thao tác chuột nào được sử dụng để mở một tệp hoặc ứng dụng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Double-click (Nhấp đúp chuột)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Click trái",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Scroll",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Click phải",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Double-click (Nhấp đúp chuột)"
+    },
+    "updatedAt": "2025-11-16T16:01:46.519Z"
   }
 }
