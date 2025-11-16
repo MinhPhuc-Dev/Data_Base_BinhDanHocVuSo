@@ -7730,5 +7730,39 @@
       "optionText": "3. Minh bạch, tiết kiệm thời gian"
     },
     "updatedAt": "2025-11-16T15:16:35.304Z"
+  },
+  "Thiết bị vật lý chuyên dụng chứa khóa bí mật của thuê bao được gọi là gì?": {
+    "questionId": 1763306198258,
+    "questionText": "Thiết bị vật lý chuyên dụng chứa khóa bí mật của thuê bao được gọi là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ổ cứng di động",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Máy tính cá nhân",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thiết bị lưu khóa bí mật (USB Token hoặc SIM PKI)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thẻ nhớ SD",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Thiết bị lưu khóa bí mật (USB Token hoặc SIM PKI)"
+    },
+    "updatedAt": "2025-11-16T15:16:44.681Z"
   }
 }
