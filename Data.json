@@ -5100,5 +5100,39 @@
       "optionText": "4. Kết nối tốt hơn với nhau và bảo vệ thông tin cá nhân khỏi rủi ro không mong muốn"
     },
     "updatedAt": "2025-11-16T08:55:17.603Z"
+  },
+  "Theo phần kết luận của chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, \"chìa khóa\" để công nghệ số trở thành người bạn đồng hành đáng tin cậy, giúp cuộc sống tiện lợi và hiện đại hơn là gì?": {
+    "questionId": 1763284394075,
+    "questionText": "Theo phần kết luận của chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, \"chìa khóa\" để công nghệ số trở thành người bạn đồng hành đáng tin cậy, giúp cuộc sống tiện lợi và hiện đại hơn là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ sử dụng công nghệ cho công việc",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ giao tiếp qua email",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Luôn mua sắm trực tuyến",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Sử dụng nó một cách thông minh, an toàn và có trách nhiệm",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Sử dụng nó một cách thông minh, an toàn và có trách nhiệm."
+    },
+    "updatedAt": "2025-11-16T09:13:16.932Z"
   }
 }
