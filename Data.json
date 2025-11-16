@@ -8685,5 +8685,39 @@
       "optionText": "2. BƯỚC 4"
     },
     "updatedAt": "2025-11-16T16:34:51.668Z"
+  },
+  "Khi sử dụng USB Token để ký số trên máy tính, để máy tính nhận thiết bị ký số, người dùng cần cài đặt phần mềm nào?": {
+    "questionId": 1763311029925,
+    "questionText": "Khi sử dụng USB Token để ký số trên máy tính, để máy tính nhận thiết bị ký số, người dùng cần cài đặt phần mềm nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hệ thống iOffice",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Adobe Reader",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "VNPT Plugin",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Driver Token trên máy tính",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Driver Token trên máy tính"
+    },
+    "updatedAt": "2025-11-16T16:37:15.463Z"
   }
 }
