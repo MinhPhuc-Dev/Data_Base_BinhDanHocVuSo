@@ -7459,5 +7459,39 @@
       "optionText": "3. Soạn thảo văn bản"
     },
     "updatedAt": "2025-11-16T15:10:14.642Z"
+  },
+  "Thiết bị ngoại vi nào có chức năng \"Chuyển đổi tài liệu vật lý sang định dạng số\"?": {
+    "questionId": 1763305832945,
+    "questionText": "Thiết bị ngoại vi nào có chức năng \"Chuyển đổi tài liệu vật lý sang định dạng số\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Máy in phun",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Màn mình 4K",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chuột máy tính",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Máy quét",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Máy quét"
+    },
+    "updatedAt": "2025-11-16T15:10:35.914Z"
   }
 }
