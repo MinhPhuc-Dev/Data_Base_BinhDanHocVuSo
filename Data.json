@@ -4083,5 +4083,39 @@
       "optionText": "2. Tiếp cận dịch vụ công nhanh chóng, minh bạch"
     },
     "updatedAt": "2025-11-16T08:45:20.166Z"
+  },
+  "Dịch vụ email miễn phí của Google, dùng để gửi và nhận thư, đồng thời có thể dùng để đăng nhập vào nhiều dịch vụ trực tuyến khác là gì?": {
+    "questionId": 1763282758482,
+    "questionText": "Dịch vụ email miễn phí của Google, dùng để gửi và nhận thư, đồng thời có thể dùng để đăng nhập vào nhiều dịch vụ trực tuyến khác là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Facebook",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Gmail",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "YouTube",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Zalo",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Gmail"
+    },
+    "updatedAt": "2025-11-16T08:46:01.196Z"
   }
 }
