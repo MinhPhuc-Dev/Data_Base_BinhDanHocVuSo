@@ -7321,5 +7321,39 @@
       "optionText": "Để đăng ký tài khoản trên Cổng Dịch vụ công Quốc gia, người dùng có thể chọn những hình thức được đề cập là:\n\n3. VneID \n\n và \n\n2. Thẻ ngân hàng hoặc Ví điện tử \n\n và \n1. Tài khoản Google Drive hoặc Apple ID \n\nKhông có thông tin chính xác về việc tài khoản zalo hay facbook được sử dụng. \nVậy câu trả lời chính xác là: 1, 2, 3."
     },
     "updatedAt": "2025-11-16T15:06:07.268Z"
+  },
+  "Theo định nghĩa trong chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI), Học máy (Machine Learning) là gì?": {
+    "questionId": 1763305602596,
+    "questionText": "Theo định nghĩa trong chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI), Học máy (Machine Learning) là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Cho phép máy tính học hỏi từ dữ liệu mà không cần được lập trình rõ ràng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Cho phép máy tính thực hiện các tác vụ lặp đi lặp lại",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cho phép máy tính giao tiếp với con người",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Cho phép máy tính \"nhìn\" và diễn giải hình ảnh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Cho phép máy tính học hỏi từ dữ liệu mà không cần được lập trình rõ ràng"
+    },
+    "updatedAt": "2025-11-16T15:06:45.507Z"
   }
 }
