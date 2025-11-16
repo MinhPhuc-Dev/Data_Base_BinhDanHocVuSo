@@ -3296,5 +3296,39 @@
       "optionText": "1. Giảm sự nhàm chán và tăng tính trực quan cho người đọc"
     },
     "updatedAt": "2025-11-16T08:33:55.437Z"
+  },
+  "Khi sử dụng tin nhắn và mạng xã hội, điều quan trọng nhất cần tuyệt đối không chia sẻ là gì để tránh rủi ro?": {
+    "questionId": 1763282062368,
+    "questionText": "Khi sử dụng tin nhắn và mạng xã hội, điều quan trọng nhất cần tuyệt đối không chia sẻ là gì để tránh rủi ro?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bài đăng của người khác",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thông tin cá nhân nhạy cảm như số chứng minh, số tài khoản ngân hàng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Hình ảnh cá nhân",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Quan điểm chính trị",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Thông tin cá nhân nhạy cảm như số chứng minh, số tài khoản ngân hàng"
+    },
+    "updatedAt": "2025-11-16T08:34:25.705Z"
   }
 }
