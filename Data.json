@@ -3565,5 +3565,39 @@
       "optionText": "4. https://dichvucong.gov.vn"
     },
     "updatedAt": "2025-11-16T08:40:01.097Z"
+  },
+  "Chữ ký số bảo đảm những tính chất nào của thông điệp dữ liệu?": {
+    "questionId": 1763282399562,
+    "questionText": "Chữ ký số bảo đảm những tính chất nào của thông điệp dữ liệu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tính công khai và tính dễ hiểu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tính xác thực, tính toàn vẹn và tính chống chối bỏ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tính riêng tư, tính bảo mật, tính sẵn sàng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tính bảo mật, tính mã hóa, tính tốc độ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Tính xác thực, tính toàn vẹn và tính chống chối bỏ"
+    },
+    "updatedAt": "2025-11-16T08:40:05.667Z"
   }
 }
