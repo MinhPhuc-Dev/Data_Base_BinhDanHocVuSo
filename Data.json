@@ -6213,5 +6213,39 @@
       "optionText": "4. Tư duy và sự sáng tạo của con người"
     },
     "updatedAt": "2025-11-16T13:34:27.022Z"
+  },
+  "Ngoài kỹ năng kỹ thuật, ở chuyên đề 5: Sáng tạo nội dung số đã nhấn mạnh sáng tạo nội dung số còn đòi hỏi điều gì để góp phần xây dựng môi trường số lành mạnh?": {
+    "questionId": 1763300073959,
+    "questionText": "Ngoài kỹ năng kỹ thuật, ở chuyên đề 5: Sáng tạo nội dung số đã nhấn mạnh sáng tạo nội dung số còn đòi hỏi điều gì để góp phần xây dựng môi trường số lành mạnh?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ cần tạo ra nội dung có giá trị thương mại",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Phải luôn sử dụng các công cụ AI hiện đại nhất",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Bắt buộc phải trở thành chuyên gia trong lĩnh vực đó",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Cần có trách nhiệm và giữ nội dung tích cực, lành mạnh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Cần có trách nhiệm và giữ nội dung tích cực, lành mạnh"
+    },
+    "updatedAt": "2025-11-16T13:34:37.040Z"
   }
 }
