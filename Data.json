@@ -5270,5 +5270,39 @@
       "optionText": "1. Truy cập Google (google.com) hoặc Cốc Cốc (coccoc.com)"
     },
     "updatedAt": "2025-11-16T09:14:04.615Z"
+  },
+  "Khi máy tính đang hoạt động, hành động nào KHÔNG ĐƯỢC PHÉP thực hiện vì có thể làm hỏng dữ liệu và hệ thống?": {
+    "questionId": 1763284469440,
+    "questionText": "Khi máy tính đang hoạt động, hành động nào KHÔNG ĐƯỢC PHÉP thực hiện vì có thể làm hỏng dữ liệu và hệ thống?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tắt máy bằng cách rút phích cắm điện đột ngột",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Đóng ứng dụng bằng nút \"X\"",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Lưu công việc bằng Ctrl + S",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nhấn nút Start",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Tắt máy bằng cách rút phích cắm điện đột ngột"
+    },
+    "updatedAt": "2025-11-16T09:14:32.045Z"
   }
 }
