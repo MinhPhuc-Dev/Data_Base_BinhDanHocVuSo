@@ -3058,5 +3058,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T07:51:20.739Z"
+  },
+  "Có mấy trụ cột chính trong chuyển đổi số quốc gia?": {
+    "questionId": 1763279484610,
+    "questionText": "Có mấy trụ cột chính trong chuyển đổi số quốc gia?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "3",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "2",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "4",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "5",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. 3"
+    },
+    "updatedAt": "2025-11-16T07:51:26.606Z"
   }
 }
