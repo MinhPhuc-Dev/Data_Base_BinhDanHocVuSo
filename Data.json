@@ -1938,5 +1938,39 @@
       "optionText": "2. Email"
     },
     "updatedAt": "2025-11-16T07:46:39.187Z"
+  },
+  "Khi chia sẻ hình ảnh cá nhân quan trọng, bài học tài liệu khuyến nghị nên dùng cách nào để đảm bảo an toàn?": {
+    "questionId": 1763279200936,
+    "questionText": "Khi chia sẻ hình ảnh cá nhân quan trọng, bài học tài liệu khuyến nghị nên dùng cách nào để đảm bảo an toàn?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đăng công khai lên mạng xã hội",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chia sẻ có bảo mật nhưng không đặt thời hạn hết hiệu lực",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ dùng email vì email là công cụ chuyên nghiệp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Gửi qua ứng dụng có mật khẩu bảo vệ hoặc chỉ định rõ người được nhận",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Gửi qua ứng dụng có mật khẩu bảo vệ hoặc chỉ định rõ người được nhận"
+    },
+    "updatedAt": "2025-11-16T07:46:42.639Z"
   }
 }
