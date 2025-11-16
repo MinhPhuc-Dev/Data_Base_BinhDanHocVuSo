@@ -2178,5 +2178,39 @@
       "optionText": "3. Ghi chú, điền biểu mẫu và thực hiện chỉnh sửa cơ bản trên các tệp PDF"
     },
     "updatedAt": "2025-11-16T07:48:15.616Z"
+  },
+  "Nếu gặp tình trạng \"Internet chậm,\" ngoài việc đóng các tab không cần thiết, tài liệu gợi ý hai biện pháp khắc phục nào khác?": {
+    "questionId": 1763279300030,
+    "questionText": "Nếu gặp tình trạng \"Internet chậm,\" ngoài việc đóng các tab không cần thiết, tài liệu gợi ý hai biện pháp khắc phục nào khác?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tắt tường lửa và thay đổi mật khẩu Wi-Fi",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mua card mạng mới và gỡ bỏ ứng dụng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Khôi phục cài đặt gốc và cập nhật hệ điều hành",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Khởi động lại router và xóa cache trình duyệt",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Khởi động lại router và xóa cache trình duyệt"
+    },
+    "updatedAt": "2025-11-16T07:48:22.032Z"
   }
 }
