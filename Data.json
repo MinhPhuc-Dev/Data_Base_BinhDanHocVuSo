@@ -3633,5 +3633,41 @@
       "optionText": "3. Google Lens (hoặc Ống kính)"
     },
     "updatedAt": "2025-11-16T08:42:47.369Z"
+  },
+  "Khi sao lưu dữ liệu thường xuyên, cần có ít nhất bao nhiêu bản sao lưu ngoài thiết bị chính?": {
+    "questionId": 1763282579924,
+    "questionText": "Khi sao lưu dữ liệu thường xuyên, cần có ít nhất bao nhiêu bản sao lưu ngoài thiết bị chính?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Phụ thuộc vào loại tệp",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Có ít nhất 01 bản sao lưu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Có ít nhất 05 bản sao lưu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Không cần bản sao lưu nào",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Có ít nhất 01 bản sao lưu",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-16T08:43:02.605Z"
   }
 }
