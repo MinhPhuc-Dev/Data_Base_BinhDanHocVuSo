@@ -6918,5 +6918,39 @@
       "optionText": "Theo tài liệu, Bộ Quy tắc Ứng xử trên mạng xã hội bao gồm 3 Chương. \n\nLựa chọn đúng: 2. 3 Chương"
     },
     "updatedAt": "2025-11-16T14:28:15.185Z"
+  },
+  "Chuyển đổi số là gì?": {
+    "questionId": 1763303297374,
+    "questionText": "Chuyển đổi số là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thực hiện số hóa tài liệu giấy",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ứng dụng máy tính vào quản lý",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Sử dụng mạng xã hội trong công việc",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Quá trình thay đổi tổng thể toàn diện dựa trên công nghệ số",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Quá trình thay đổi tổng thể toàn diện dựa trên công nghệ số"
+    },
+    "updatedAt": "2025-11-16T14:28:19.970Z"
   }
 }
