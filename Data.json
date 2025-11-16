@@ -7868,5 +7868,39 @@
       "optionText": "3. Chia sẻ thông tin sai sự thật hoặc tin tức chưa được kiểm chứng"
     },
     "updatedAt": "2025-11-16T15:19:00.743Z"
+  },
+  "Khi đăng ký tài khoản trên Cổng dịch vụ công, người dùng được hướng dẫn thực hiện theo các hướng dẫn của ứng dụng nào?": {
+    "questionId": 1763308860121,
+    "questionText": "Khi đăng ký tài khoản trên Cổng dịch vụ công, người dùng được hướng dẫn thực hiện theo các hướng dẫn của ứng dụng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "VNeID",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mobile Banking của ngân hàng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Zalo",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "VNPT MONEY",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. VNeID"
+    },
+    "updatedAt": "2025-11-16T16:01:06.466Z"
   }
 }
