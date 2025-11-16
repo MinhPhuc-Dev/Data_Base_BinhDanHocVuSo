@@ -5537,5 +5537,39 @@
       "optionText": "2. Mọi người dân đều được tiếp cận và hưởng lợi từ công nghệ số"
     },
     "updatedAt": "2025-11-16T09:16:26.865Z"
+  },
+  "Để tìm lại thông tin đã tìm kiếm một cách hệ thống, phương pháp được khuyến nghị là gì?": {
+    "questionId": 1763284593595,
+    "questionText": "Để tìm lại thông tin đã tìm kiếm một cách hệ thống, phương pháp được khuyến nghị là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tạo thư mục phân loại theo chủ đề rõ ràng trên thanh dấu trang (Bookmark)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ cần nhớ đường link",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gửi tất cả các đường link qua tin nhắn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chụp màn hình tất cả các kết quả",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Tạo thư mục phân loại theo chủ đề rõ ràng trên thanh dấu trang (Bookmark)"
+    },
+    "updatedAt": "2025-11-16T09:16:36.516Z"
   }
 }
