@@ -5833,5 +5833,41 @@
       "optionText": "3. Shopee, Lazada, Tiki"
     },
     "updatedAt": "2025-11-16T10:55:38.205Z"
+  },
+  "Để tìm kiếm nhanh chóng dữ liệu đã được lưu trữ gọn gàng, chúng ta có thể sử dụng chức năng nào?": {
+    "questionId": 1763290567604,
+    "questionText": "Để tìm kiếm nhanh chóng dữ liệu đã được lưu trữ gọn gàng, chúng ta có thể sử dụng chức năng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Mã hóa dữ liệu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Xóa tệp trực tiếp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Sử dụng chức năng Tìm kiếm được tích hợp sẵn trên hệ điều hành",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Mua thêm ổ cứng gắn ngoài",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Sử dụng chức năng Tìm kiếm được tích hợp sẵn trên hệ điều hành",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T10:56:10.922Z"
   }
 }
