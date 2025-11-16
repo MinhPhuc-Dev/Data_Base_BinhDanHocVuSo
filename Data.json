@@ -2789,5 +2789,39 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-16T07:50:37.468Z"
+  },
+  "Theo khuyến nghị trong tài liệu, dung lượng RAM tối thiểu nào được đề xuất cho sử dụng máy tính hàng ngày?": {
+    "questionId": 1763279439423,
+    "questionText": "Theo khuyến nghị trong tài liệu, dung lượng RAM tối thiểu nào được đề xuất cho sử dụng máy tính hàng ngày?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "8GB",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "16GB",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "4GB",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "2GB",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. 8GB"
+    },
+    "updatedAt": "2025-11-16T07:50:43.484Z"
   }
 }
