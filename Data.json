@@ -4559,5 +4559,39 @@
       "optionText": "1. Nguyên tắc Giữ bí mật/ Bảo vệ dữ liệu cá nhân"
     },
     "updatedAt": "2025-11-16T08:47:38.983Z"
+  },
+  "Theo tài liệu chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI), lợi ích \"Sáng tạo\" của AI được thể hiện rõ nhất qua khả năng nào?": {
+    "questionId": 1763282859951,
+    "questionText": "Theo tài liệu chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI), lợi ích \"Sáng tạo\" của AI được thể hiện rõ nhất qua khả năng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hỗ trợ con người tạo ra ý tưởng mới, thiết kế sản phẩm đột phá",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Xử lý và lý luận dữ liệu lớn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tự động hóa các tác vụ lặp đi lặp lại",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Dự đoán thời tiết và sâu bệnh trong nông nghiệp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Hỗ trợ con người tạo ra ý tưởng mới, thiết kế sản phẩm đột phá"
+    },
+    "updatedAt": "2025-11-16T08:47:46.552Z"
   }
 }
