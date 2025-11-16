@@ -5869,5 +5869,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T10:56:10.922Z"
+  },
+  "Nguyên tắc quan trọng nhất khi viết câu lệnh tìm kiếm cho AI là gì để đảm bảo kết quả chính xác?": {
+    "questionId": 1763290577604,
+    "questionText": "Nguyên tắc quan trọng nhất khi viết câu lệnh tìm kiếm cho AI là gì để đảm bảo kết quả chính xác?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Viết rõ ràng, có mục đích cụ thể và cung cấp đủ thông tin chi tiết",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ dùng từ khóa đơn lẻ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ cần nhập câu lệnh bằng giọng nói",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Viết câu lệnh càng ngắn gọn càng tốt",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Viết rõ ràng, có mục đích cụ thể và cung cấp đủ thông tin chi tiết"
+    },
+    "updatedAt": "2025-11-16T10:56:20.657Z"
   }
 }
