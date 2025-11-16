@@ -6516,5 +6516,41 @@
       "optionText": "Chọn cửa hàng có nhiều đánh giá tốt, nhiều người mua, và kiểm tra kỹ thông tin."
     },
     "updatedAt": "2025-11-16T13:40:14.215Z"
+  },
+  "Khi thanh toán trực tuyến, sau khi hệ thống thông báo Thanh toán thành công, người dùng chọn mục nào để xem biên lai?": {
+    "questionId": 1763300417187,
+    "questionText": "Khi thanh toán trực tuyến, sau khi hệ thống thông báo Thanh toán thành công, người dùng chọn mục nào để xem biên lai?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Quay về trang chủ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thông tin chi tiết hồ sơ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Xem lịch sử giao dịch",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thông tin biên lai thanh toán",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Thông tin biên lai thanh toán",
+      "optionId": 4,
+      "displayOrder": 4
+    },
+    "updatedAt": "2025-11-16T13:40:19.759Z"
   }
 }
