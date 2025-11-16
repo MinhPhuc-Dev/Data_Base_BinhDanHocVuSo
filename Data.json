@@ -8169,5 +8169,41 @@
       "optionText": "Bộ Quy tắc nhằm xây dựng chuẩn mực đạo đức về hành vi, ứng xử trên mạng xã hội, giáo dục ý thức và tạo thói quen \"Thói quen tích cực trong các hành vi ứng xử\". \n\nĐáp án: 1. Thói quen tích cực trong các hành vi ứng xử"
     },
     "updatedAt": "2025-11-16T16:07:57.317Z"
+  },
+  "Nếu nhận được một đường link lạ, hành động đúng được khuyến nghị là gì?": {
+    "questionId": 1763309277081,
+    "questionText": "Nếu nhận được một đường link lạ, hành động đúng được khuyến nghị là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đặt mật khẩu cho đường link trước khi mở",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Bấm vào ngay để kiểm tra nội dung trước khi chia sẻ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gửi cho người thân để hỏi xem họ có biết link này không",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Không nên bấm vào và chia sẻ lại vì có thể chứa mã độc hoặc lừa đảo",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Không nên bấm vào và chia sẻ lại vì có thể chứa mã độc hoặc lừa đảo",
+      "optionId": 4,
+      "displayOrder": 4
+    },
+    "updatedAt": "2025-11-16T16:08:04.028Z"
   }
 }
