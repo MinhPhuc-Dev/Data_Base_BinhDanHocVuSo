@@ -8976,5 +8976,39 @@
       "optionText": "1. Tìm hiểu và tuân thủ các điều khoản hướng dẫn sử dụng"
     },
     "updatedAt": "2025-11-16T16:50:33.775Z"
+  },
+  "Khái niệm \"Chữ ký điện tử\" được tạo lập dưới dạng gì để xác nhận chủ thể ký và khẳng định sự chấp thuận của chủ thể đó đối với thông điệp dữ liệu?": {
+    "questionId": 1763311844006,
+    "questionText": "Khái niệm \"Chữ ký điện tử\" được tạo lập dưới dạng gì để xác nhận chủ thể ký và khẳng định sự chấp thuận của chủ thể đó đối với thông điệp dữ liệu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Dữ liệu âm thanh",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dữ liệu văn bản giấy",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Dữ liệu điện tử",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Dữ liệu sinh trắc học",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Dữ liệu điện tử"
+    },
+    "updatedAt": "2025-11-16T16:50:51.248Z"
   }
 }
