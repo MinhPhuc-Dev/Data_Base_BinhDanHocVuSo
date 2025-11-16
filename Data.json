@@ -8583,5 +8583,39 @@
       "optionText": "3. ChatGPT"
     },
     "updatedAt": "2025-11-16T16:29:47.741Z"
+  },
+  "Ưu điểm lớn nhất của hình thức Học trực tuyến là gì?": {
+    "questionId": 1763310735587,
+    "questionText": "Ưu điểm lớn nhất của hình thức Học trực tuyến là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hạn chế tiếng ồn trong lớp học",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Học mọi lúc, mọi nơi",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Không cần phải nộp bài tập",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tiết kiệm chi phí đầu tư thiết bị",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Học mọi lúc, mọi nơi"
+    },
+    "updatedAt": "2025-11-16T16:32:22.392Z"
   }
 }
