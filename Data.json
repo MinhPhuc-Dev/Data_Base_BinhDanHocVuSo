@@ -6654,5 +6654,41 @@
       "optionText": "1. Zoom, Google Meet, LMS"
     },
     "updatedAt": "2025-11-16T13:41:56.903Z"
+  },
+  "Khi máy tính bị treo (đơ), thao tác nào sau đây được khuyên dùng để đóng ứng dụng bị treo?": {
+    "questionId": 1763300519796,
+    "questionText": "Khi máy tính bị treo (đơ), thao tác nào sau đây được khuyên dùng để đóng ứng dụng bị treo?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Nhấn phím Enter liên tục",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Rút dây nguồn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Nhấn nút nguồn giữ 10 giây",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Sử dụng tổ hợp phím Ctrl + Shift + Esc",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Sử dụng tổ hợp phím Ctrl + Shift + Esc",
+      "optionId": 4,
+      "displayOrder": 4
+    },
+    "updatedAt": "2025-11-16T13:42:02.418Z"
   }
 }
