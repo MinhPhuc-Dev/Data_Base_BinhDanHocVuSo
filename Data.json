@@ -8072,5 +8072,39 @@
       "optionText": "2. 7 nội dung"
     },
     "updatedAt": "2025-11-16T16:05:01.236Z"
+  },
+  "Tại bước nộp hồ sơ trực tuyến trên Cổng dịch vụ công, Công dân/DN cần cập nhật những thông tin nào tại mục thông tin hồ sơ?": {
+    "questionId": 1763309101075,
+    "questionText": "Tại bước nộp hồ sơ trực tuyến trên Cổng dịch vụ công, Công dân/DN cần cập nhật những thông tin nào tại mục thông tin hồ sơ?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Những thông tin hồ sơ còn thiếu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Các thông tin cá nhân bắt buộc",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thông tin về cơ quan thực hiện thủ tục",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thông tin về phương thức thanh toán",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Những thông tin hồ sơ còn thiếu"
+    },
+    "updatedAt": "2025-11-16T16:05:07.851Z"
   }
 }
