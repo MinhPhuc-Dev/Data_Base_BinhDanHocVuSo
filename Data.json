@@ -6889,5 +6889,34 @@
       "optionText": "3. Bật xác thực hai yếu tố"
     },
     "updatedAt": "2025-11-16T14:26:18.992Z"
+  },
+  "Theo tài liệu, Bộ Quy tắc Ứng xử trên mạng xã hội bao gồm bao nhiêu Chương?": {
+    "questionId": 1763303291967,
+    "questionText": "Theo tài liệu, Bộ Quy tắc Ứng xử trên mạng xã hội bao gồm bao nhiêu Chương?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "9 Chương",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "3 Chương",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "5 Chương",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "Theo tài liệu, Bộ Quy tắc Ứng xử trên mạng xã hội bao gồm 3 Chương. \n\nLựa chọn đúng: 2. 3 Chương"
+    },
+    "updatedAt": "2025-11-16T14:28:15.185Z"
   }
 }
