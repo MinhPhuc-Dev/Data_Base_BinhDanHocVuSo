@@ -4525,5 +4525,39 @@
       "optionText": "1. Cao"
     },
     "updatedAt": "2025-11-16T08:47:30.565Z"
+  },
+  "Nguyên tắc an toàn nào yêu cầu tuyệt đối không chia sẻ thông tin nhạy cảm (như dữ liệu cá nhân) vào các công cụ AI công cộng?": {
+    "questionId": 1763282856154,
+    "questionText": "Nguyên tắc an toàn nào yêu cầu tuyệt đối không chia sẻ thông tin nhạy cảm (như dữ liệu cá nhân) vào các công cụ AI công cộng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Nguyên tắc Giữ bí mật/ Bảo vệ dữ liệu cá nhân",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nguyên tắc Không gian lận",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Nguyên tắc Chỉ hỗ trợ",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nguyên tắc Kiểm chứng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Nguyên tắc Giữ bí mật/ Bảo vệ dữ liệu cá nhân"
+    },
+    "updatedAt": "2025-11-16T08:47:38.983Z"
   }
 }
