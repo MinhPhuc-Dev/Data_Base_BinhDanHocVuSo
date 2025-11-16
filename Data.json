@@ -6482,5 +6482,39 @@
       "optionText": "Làm giảm khả năng tư duy phản biện và kỹ năng giải quyết vấn đề của con người."
     },
     "updatedAt": "2025-11-16T13:38:32.259Z"
+  },
+  "Theo chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, để tránh mua phải hàng giả, hàng kém chất lượng khi mua sắm online (thương mại điện tử), người dùng nên làm gì?": {
+    "questionId": 1763300411585,
+    "questionText": "Theo chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, để tránh mua phải hàng giả, hàng kém chất lượng khi mua sắm online (thương mại điện tử), người dùng nên làm gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ mua sản phẩm giá rẻ nhất",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Luôn thanh toán bằng tiền mặt",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chọn cửa hàng có nhiều đánh giá tốt, nhiều người mua, và kiểm tra kỹ thông tin",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ mua hàng quốc tế",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Chọn cửa hàng có nhiều đánh giá tốt, nhiều người mua, và kiểm tra kỹ thông tin."
+    },
+    "updatedAt": "2025-11-16T13:40:14.215Z"
   }
 }
