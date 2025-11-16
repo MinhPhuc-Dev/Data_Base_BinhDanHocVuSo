@@ -7970,5 +7970,39 @@
       "optionText": "1. Double-click (Nhấp đúp chuột)"
     },
     "updatedAt": "2025-11-16T16:01:46.519Z"
+  },
+  "Theo nội dung ở chuyên đề 3: Khai thác thông tin và dữ liệu số, muốn xem dự báo thời tiết trong ngày, câu truy vấn nên gõ là gì (với ví dụ cụ thể của chương trình)?": {
+    "questionId": 1763308911079,
+    "questionText": "Theo nội dung ở chuyên đề 3: Khai thác thông tin và dữ liệu số, muốn xem dự báo thời tiết trong ngày, câu truy vấn nên gõ là gì (với ví dụ cụ thể của chương trình)?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "\"Thời tiết ngày hôm nay\"",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "\"Dự báo thời tiết\"",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "\"Thời tiết Quảng Ngãi hôm nay\"",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "\"Thời tiết như thế nào\"",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. \"Thời tiết Quảng Ngãi hôm nay\""
+    },
+    "updatedAt": "2025-11-16T16:01:57.597Z"
   }
 }
