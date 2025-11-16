@@ -5673,5 +5673,34 @@
       "optionText": "2. Tiện lợi, nhanh chóng và an toàn hơn việc mang tiền mặt"
     },
     "updatedAt": "2025-11-16T09:17:19.799Z"
+  },
+  "Mục đích ban hành Bộ Quy tắc Ứng xử trên mạng xã hội là nhằm xây dựng môi trường mạng như thế nào?": {
+    "questionId": 1763284643594,
+    "questionText": "Mục đích ban hành Bộ Quy tắc Ứng xử trên mạng xã hội là nhằm xây dựng môi trường mạng như thế nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "An toàn, lành mạnh",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dễ tiếp cận và tiện lợi",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Nhanh chóng và minh bạch",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. An toàn, lành mạnh"
+    },
+    "updatedAt": "2025-11-16T09:17:26.274Z"
   }
 }
