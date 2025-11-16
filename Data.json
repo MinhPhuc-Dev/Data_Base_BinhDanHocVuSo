@@ -6380,5 +6380,39 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-16T13:35:24.328Z"
+  },
+  "Để cài đặt một ứng dụng từ Microsoft Store, sau khi tìm thấy ứng dụng, người dùng cần nhấp vào nút nào?": {
+    "questionId": 1763300242623,
+    "questionText": "Để cài đặt một ứng dụng từ Microsoft Store, sau khi tìm thấy ứng dụng, người dùng cần nhấp vào nút nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Share",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Open",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Buy",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nhận (Get) hoặc Cài đặt (Install)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Nhận (Get) hoặc Cài đặt (Install)"
+    },
+    "updatedAt": "2025-11-16T13:37:26.263Z"
   }
 }
