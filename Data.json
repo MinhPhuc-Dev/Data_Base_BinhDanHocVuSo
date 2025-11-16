@@ -4423,5 +4423,39 @@
       "optionText": "2. Google Docs"
     },
     "updatedAt": "2025-11-16T08:47:16.377Z"
+  },
+  "Phương pháp tích hợp nào là giải pháp tuyệt vời để biến dữ liệu phức tạp hoặc số liệu khô khan thành biểu đồ, sơ đồ hấp dẫn, dễ tiêu hóa và ghi nhớ hơn?": {
+    "questionId": 1763282839863,
+    "questionText": "Phương pháp tích hợp nào là giải pháp tuyệt vời để biến dữ liệu phức tạp hoặc số liệu khô khan thành biểu đồ, sơ đồ hấp dẫn, dễ tiêu hóa và ghi nhớ hơn?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chèn nhạc nền",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thêm giọng thuyết minh",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Infographic",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Viết báo cáo dài hơn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Infographic"
+    },
+    "updatedAt": "2025-11-16T08:47:22.202Z"
   }
 }
