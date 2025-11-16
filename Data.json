@@ -4117,5 +4117,39 @@
       "optionText": "2. Gmail"
     },
     "updatedAt": "2025-11-16T08:46:01.196Z"
+  },
+  "Đối với cán bộ, công chức, viên chức, một trong những hoạt động chia sẻ thông tin được đề cập là gì?": {
+    "questionId": 1763282768762,
+    "questionText": "Đối với cán bộ, công chức, viên chức, một trong những hoạt động chia sẻ thông tin được đề cập là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đăng tải hình ảnh cá nhân trong tư thế không phù hợp",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chia sẻ thông tin khách hàng, đối tác (bí mật công việc)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Đăng tải thông tin về các dịch vụ công, thủ tục hành chính để hỗ trợ cộng đồng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chia sẻ video ghi âm bài giảng trực tuyến không liên quan đến công việc",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Đăng tải thông tin về các dịch vụ công, thủ tục hành chính để hỗ trợ cộng đồng"
+    },
+    "updatedAt": "2025-11-16T08:46:11.497Z"
   }
 }
