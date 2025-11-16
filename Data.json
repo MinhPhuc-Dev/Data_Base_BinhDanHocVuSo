@@ -4593,5 +4593,39 @@
       "optionText": "1. Hỗ trợ con người tạo ra ý tưởng mới, thiết kế sản phẩm đột phá"
     },
     "updatedAt": "2025-11-16T08:47:46.552Z"
+  },
+  "AI có thể đưa ra kết quả không chính xác hoặc sai lệch (Sai sót) do yếu tố nào sau đây?": {
+    "questionId": 1763283177151,
+    "questionText": "AI có thể đưa ra kết quả không chính xác hoặc sai lệch (Sai sót) do yếu tố nào sau đây?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Dữ liệu huấn luyện không đủ, không khách quan hoặc có lỗi",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Con người nhập câu hỏi quá đơn giản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "AI tự động hóa các tác vụ lặp đi lặp lại",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Khả năng tính toán của máy quá nhanh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Dữ liệu huấn luyện không đủ, không khách quan hoặc có lỗi"
+    },
+    "updatedAt": "2025-11-16T08:53:03.779Z"
   }
 }
