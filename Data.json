@@ -7391,5 +7391,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T15:09:15.759Z"
+  },
+  "Khi muốn cài đặt ứng dụng trên điện thoại Android, người dùng truy cập vào kho ứng dụng nào?": {
+    "questionId": 1763305761864,
+    "questionText": "Khi muốn cài đặt ứng dụng trên điện thoại Android, người dùng truy cập vào kho ứng dụng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "App Store",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Cổng Dịch vụ công Quốc gia",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Microsoft Store",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Google Play Store",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Google Play Store"
+    },
+    "updatedAt": "2025-11-16T15:09:24.390Z"
   }
 }
