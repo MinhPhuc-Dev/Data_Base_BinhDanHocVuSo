@@ -8850,5 +8850,39 @@
       "optionText": "Chọn cơ quan thực hiện."
     },
     "updatedAt": "2025-11-16T16:44:45.283Z"
+  },
+  "Phần mềm hỗ trợ ký số nào thuộc Ban Cơ yếu Chính phủ được nhắc đến trong nội dung chuyên đề 4: Giao tiếp và hợp tác trên môi trường số?": {
+    "questionId": 1763311646230,
+    "questionText": "Phần mềm hỗ trợ ký số nào thuộc Ban Cơ yếu Chính phủ được nhắc đến trong nội dung chuyên đề 4: Giao tiếp và hợp tác trên môi trường số?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Phần mềm VGCA Sign Tool",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Phần mềm VNPT Plugin",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Phần mềm ký số của Kho bạc",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Phần mềm quản lý văn bản iOffice",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Phần mềm VGCA Sign Tool"
+    },
+    "updatedAt": "2025-11-16T16:47:33.160Z"
   }
 }
