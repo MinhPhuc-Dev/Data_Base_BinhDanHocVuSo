@@ -5134,5 +5134,39 @@
       "optionText": "4. Sử dụng nó một cách thông minh, an toàn và có trách nhiệm."
     },
     "updatedAt": "2025-11-16T09:13:16.932Z"
+  },
+  "Ngoài ký số, phần mềm VGCA Sign Tool còn cho phép thực hiện thao tác quan trọng nào?": {
+    "questionId": 1763284400751,
+    "questionText": "Ngoài ký số, phần mềm VGCA Sign Tool còn cho phép thực hiện thao tác quan trọng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Cài đặt mạng Internet",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Sao lưu văn bản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Khôi phục mật khẩu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Xác thực chữ ký số",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Xác thực chữ ký số"
+    },
+    "updatedAt": "2025-11-16T09:13:23.439Z"
   }
 }
