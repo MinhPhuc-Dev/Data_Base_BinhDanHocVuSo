@@ -6179,5 +6179,39 @@
       "optionText": "1. Tính toàn vẹn"
     },
     "updatedAt": "2025-11-16T10:59:41.093Z"
+  },
+  "Mặc dù AI là công cụ hỗ trợ tuyệt vời, chuyên đề 5: Sáng tạo nội dung số đã nhấn mạnh rằng yếu tố nào không thể bị AI thay thế hoàn toàn và luôn cần có sự kiểm duyệt của con người?": {
+    "questionId": 1763300059842,
+    "questionText": "Mặc dù AI là công cụ hỗ trợ tuyệt vời, chuyên đề 5: Sáng tạo nội dung số đã nhấn mạnh rằng yếu tố nào không thể bị AI thay thế hoàn toàn và luôn cần có sự kiểm duyệt của con người?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Số lượng dữ liệu đầu vào",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Khả năng tìm kiếm trên mạng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Các công cụ phần mềm",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tư duy và sự sáng tạo của con người",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Tư duy và sự sáng tạo của con người"
+    },
+    "updatedAt": "2025-11-16T13:34:27.022Z"
   }
 }
