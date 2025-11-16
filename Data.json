@@ -2852,5 +2852,39 @@
       "optionText": "1. Tự quản lý, bảo mật tài khoản mạng xã hội"
     },
     "updatedAt": "2025-11-16T07:50:51.876Z"
+  },
+  "Trên màn hình desktop, \"Biểu tượng (Icon)\" đại diện cho cái gì?": {
+    "questionId": 1763279455596,
+    "questionText": "Trên màn hình desktop, \"Biểu tượng (Icon)\" đại diện cho cái gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thanh ngang ở dưới màn hình",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Không gian làm việc chính",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chương trình, tệp tin hoặc thư mục",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thiết bị ngoại vi",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Chương trình, tệp tin hoặc thư mục"
+    },
+    "updatedAt": "2025-11-16T07:50:57.706Z"
   }
 }
