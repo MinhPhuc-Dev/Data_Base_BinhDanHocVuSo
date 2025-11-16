@@ -6826,5 +6826,34 @@
       "optionText": "2. Nén file nếu cần thiết"
     },
     "updatedAt": "2025-11-16T14:25:25.696Z"
+  },
+  "Đối tượng áp dụng của Bộ Quy tắc còn bao gồm nhà cung cấp dịch vụ mạng xã hội hoạt động ở đâu?": {
+    "questionId": 1763303131346,
+    "questionText": "Đối tượng áp dụng của Bộ Quy tắc còn bao gồm nhà cung cấp dịch vụ mạng xã hội hoạt động ở đâu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tại Việt Nam",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ở bất kỳ quốc gia nào",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ những nhà cung cấp dịch vụ công",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Tại Việt Nam"
+    },
+    "updatedAt": "2025-11-16T14:25:33.886Z"
   }
 }
