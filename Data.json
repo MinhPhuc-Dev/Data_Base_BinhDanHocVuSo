@@ -4185,5 +4185,39 @@
       "optionText": "4. Cả 3 đáp án đều đúng"
     },
     "updatedAt": "2025-11-16T08:46:20.405Z"
+  },
+  "Có bao nhiêu loại chữ ký số được đề cập trong nội dung chuyên đề 4: Giao tiếp và hợp tác trên môi trường số?": {
+    "questionId": 1763282786609,
+    "questionText": "Có bao nhiêu loại chữ ký số được đề cập trong nội dung chuyên đề 4: Giao tiếp và hợp tác trên môi trường số?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "1 loại",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "2 loại",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "4 loại",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "3 loại",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. 3 loại"
+    },
+    "updatedAt": "2025-11-16T08:46:29.002Z"
   }
 }
