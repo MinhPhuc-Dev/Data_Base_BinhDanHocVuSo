@@ -2348,5 +2348,39 @@
       "optionText": "1. Học máy (Machine Learning), Xử lý Ngôn ngữ Tự nhiên (NLP), Thị giác máy tính (Computer Vision)"
     },
     "updatedAt": "2025-11-16T07:49:00.313Z"
+  },
+  "Chính phủ số giúp đạt mục tiêu nào?": {
+    "questionId": 1763279342268,
+    "questionText": "Chính phủ số giúp đạt mục tiêu nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tăng sử dụng tiền mặt",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hoạt động minh bạch, hiệu quả hơn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Phát triển nông nghiệp truyền thống",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giảm dịch vụ công trực tuyến",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Hoạt động minh bạch, hiệu quả hơn"
+    },
+    "updatedAt": "2025-11-16T07:49:04.733Z"
   }
 }
