@@ -2690,5 +2690,34 @@
       "optionText": "3. Hữu ích khi bạn đang lái xe hoặc không thể gõ phím"
     },
     "updatedAt": "2025-11-16T07:50:26.098Z"
+  },
+  "Khi có những ý kiến, thông tin trái chiều trên mạng xã hội, tổ chức, cá nhân cần thông báo tới đâu để kịp thời có hướng xử lý?": {
+    "questionId": 1763279428033,
+    "questionText": "Khi có những ý kiến, thông tin trái chiều trên mạng xã hội, tổ chức, cá nhân cần thông báo tới đâu để kịp thời có hướng xử lý?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ban quản trị mạng xã hội",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Cơ quan chủ quản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Công an địa phương",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Ban quản trị mạng xã hội \n2. Cơ quan chủ quản \n3. Công an địa phương"
+    },
+    "updatedAt": "2025-11-16T07:50:29.757Z"
   }
 }
