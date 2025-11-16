@@ -7592,5 +7592,41 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-16T15:13:39.137Z"
+  },
+  "Phương tiện lưu trữ nào được mô tả là \"Tiết kiệm chi phí, dung lượng lớn nhưng tốc độ truy cập chậm hơn\"?": {
+    "questionId": 1763306041315,
+    "questionText": "Phương tiện lưu trữ nào được mô tả là \"Tiết kiệm chi phí, dung lượng lớn nhưng tốc độ truy cập chậm hơn\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thẻ nhớ di động",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dịch vụ lưu trữ đám mây",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ổ cứng gắn ngoài",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ổ cứng gắn trong (HDD hoặc SSD)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Ổ cứng gắn ngoài",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T15:14:08.302Z"
   }
 }
