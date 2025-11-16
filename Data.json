@@ -2110,5 +2110,39 @@
       "optionText": "1. Máy tính để bàn"
     },
     "updatedAt": "2025-11-16T07:48:06.519Z"
+  },
+  "Công cụ nào trong Microsoft Office được sử dụng để tạo báo cáo, thư từ, CV và các tài liệu văn bản khác?": {
+    "questionId": 1763279288983,
+    "questionText": "Công cụ nào trong Microsoft Office được sử dụng để tạo báo cáo, thư từ, CV và các tài liệu văn bản khác?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Microsoft PowerPoint",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Microsoft Word",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Microsoft Excel",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "PDF X",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Microsoft Word"
+    },
+    "updatedAt": "2025-11-16T07:48:10.979Z"
   }
 }
