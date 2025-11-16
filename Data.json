@@ -7561,5 +7561,36 @@
       "optionText": "3. Mạng xã hội (Facebook, Instagram, TikTok)"
     },
     "updatedAt": "2025-11-16T15:13:29.052Z"
+  },
+  "Nhà cung cấp dịch vụ mạng xã hội có trách nhiệm hỗ trợ và bảo vệ quyền, lợi ích hợp pháp của nhóm đối tượng nào?": {
+    "questionId": 1763306012647,
+    "questionText": "Nhà cung cấp dịch vụ mạng xã hội có trách nhiệm hỗ trợ và bảo vệ quyền, lợi ích hợp pháp của nhóm đối tượng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Người có ảnh hưởng (Influencers)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "“Người yếu thế”",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Các tổ chức kinh doanh lớn",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "“Người yếu thế”",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-16T15:13:39.137Z"
   }
 }
