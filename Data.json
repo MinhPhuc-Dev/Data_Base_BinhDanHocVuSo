@@ -4287,5 +4287,39 @@
       "optionText": "1. Unikey"
     },
     "updatedAt": "2025-11-16T08:46:51.867Z"
+  },
+  "Chữ ký số được sử dụng chủ yếu trong các giao dịch trên môi trường nào để đảm bảo tính pháp lý của hồ sơ, tài liệu?": {
+    "questionId": 1763282820599,
+    "questionText": "Chữ ký số được sử dụng chủ yếu trong các giao dịch trên môi trường nào để đảm bảo tính pháp lý của hồ sơ, tài liệu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Môi trường số (giao dịch điện tử)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Môi trường mạng nội bộ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Môi trường công cộng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Môi trường làm việc tập trung",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Môi trường số (giao dịch điện tử)"
+    },
+    "updatedAt": "2025-11-16T08:47:02.646Z"
   }
 }
