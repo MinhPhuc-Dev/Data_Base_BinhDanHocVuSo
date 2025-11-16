@@ -7764,5 +7764,41 @@
       "optionText": "3. Thiết bị lưu khóa bí mật (USB Token hoặc SIM PKI)"
     },
     "updatedAt": "2025-11-16T15:16:44.681Z"
+  },
+  "Khi tìm kiếm thông tin về giá cả hoặc tin tức, tại sao việc xem thời gian đăng tin lại quan trọng?": {
+    "questionId": 1763306205194,
+    "questionText": "Khi tìm kiếm thông tin về giá cả hoặc tin tức, tại sao việc xem thời gian đăng tin lại quan trọng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Để biết nguồn gốc của tin tức",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Để biết người đăng tin là ai",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thông tin mới thường chính xác hơn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Để xác định tin có phải là quảng cáo không",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Thông tin mới thường chính xác hơn",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T15:16:51.998Z"
   }
 }
