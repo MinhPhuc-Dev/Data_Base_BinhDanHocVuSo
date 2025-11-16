@@ -7628,5 +7628,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T15:14:08.302Z"
+  },
+  "Theo nội dung chuyên đề 3.2. Quản lý dữ liệu, thông tin và nội dung số, việc tổ chức gọn gàng dữ liệu là yếu tố then chốt để làm gì?": {
+    "questionId": 1763306134768,
+    "questionText": "Theo nội dung chuyên đề 3.2. Quản lý dữ liệu, thông tin và nội dung số, việc tổ chức gọn gàng dữ liệu là yếu tố then chốt để làm gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đảm bảo dữ liệu bị lộ lọt",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tăng tốc độ truy cập đám mây",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tìm kiếm và sử dụng dữ liệu hiệu quả",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giảm dung lượng lưu trữ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Tìm kiếm và sử dụng dữ liệu hiệu quả"
+    },
+    "updatedAt": "2025-11-16T15:15:41.945Z"
   }
 }
