@@ -8947,5 +8947,34 @@
       "optionText": "\"Hoạt động công cộng\""
     },
     "updatedAt": "2025-11-16T16:50:21.731Z"
+  },
+  "Quy tắc đầu tiên trong Quy tắc Ứng xử cho Tổ chức, Cá nhân là gì?": {
+    "questionId": 1763311827080,
+    "questionText": "Quy tắc đầu tiên trong Quy tắc Ứng xử cho Tổ chức, Cá nhân là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tìm hiểu và tuân thủ các điều khoản hướng dẫn sử dụng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chia sẻ thông tin chính thống",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tự quản lý, bảo mật tài khoản",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Tìm hiểu và tuân thủ các điều khoản hướng dẫn sử dụng"
+    },
+    "updatedAt": "2025-11-16T16:50:33.775Z"
   }
 }
