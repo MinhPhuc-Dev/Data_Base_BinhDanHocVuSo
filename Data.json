@@ -5236,5 +5236,39 @@
       "optionText": "1. Dự kiến mục đích sử dụng dữ liệu."
     },
     "updatedAt": "2025-11-16T09:13:57.744Z"
+  },
+  "Trong các bước tìm kiếm thông thường, bước nào được thực hiện sau khi mở trình duyệt?": {
+    "questionId": 1763284441685,
+    "questionText": "Trong các bước tìm kiếm thông thường, bước nào được thực hiện sau khi mở trình duyệt?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Truy cập Google (google.com) hoặc Cốc Cốc (coccoc.com)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nhấn Enter",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gõ từ khóa vào ô tìm kiếm",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chọn kết quả phù hợp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Truy cập Google (google.com) hoặc Cốc Cốc (coccoc.com)"
+    },
+    "updatedAt": "2025-11-16T09:14:04.615Z"
   }
 }
