@@ -3531,5 +3531,39 @@
       "optionText": "3. Luôn luôn xác minh nguồn gốc và tính xác thực của thông tin"
     },
     "updatedAt": "2025-11-16T08:39:04.061Z"
+  },
+  "Đường link chính thức để truy cập và thực hiện dịch vụ công trực tuyến được nhắc đến trong tài liệu là gì?": {
+    "questionId": 1763282394274,
+    "questionText": "Đường link chính thức để truy cập và thực hiện dịch vụ công trực tuyến được nhắc đến trong tài liệu là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "https://dichvucongquangngai.vn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "https://tracuu.gov.vn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "https://vneid.gov.vn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "https://dichvucong.gov.vn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. https://dichvucong.gov.vn"
+    },
+    "updatedAt": "2025-11-16T08:40:01.097Z"
   }
 }
