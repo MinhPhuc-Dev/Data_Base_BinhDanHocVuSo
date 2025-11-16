@@ -2588,5 +2588,39 @@
       "optionText": "1. Các dịch vụ lưu trữ đám mây phổ biến"
     },
     "updatedAt": "2025-11-16T07:50:12.876Z"
+  },
+  "Hoạt động quản lý dữ liệu bao gồm những hoạt động nào?": {
+    "questionId": 1763279414797,
+    "questionText": "Hoạt động quản lý dữ liệu bao gồm những hoạt động nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ bao gồm lưu trữ và bảo mật dữ liệu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thu thập, sắp xếp, bảo vệ, lưu trữ, sử dụng và chia sẻ dữ liệu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thu thập, mua sắm thiết bị mới, và quảng bá dữ liệu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ bao gồm xóa tệp trùng lặp và dọn dẹp thư mục",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Thu thập, sắp xếp, bảo vệ, lưu trữ, sử dụng và chia sẻ dữ liệu"
+    },
+    "updatedAt": "2025-11-16T07:50:17.304Z"
   }
 }
