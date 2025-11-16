@@ -4930,5 +4930,39 @@
       "optionText": "Ta chọn 1 điểm trên màn hình sau đó kéo thả để tạo vùng ảnh cần chụp."
     },
     "updatedAt": "2025-11-16T08:54:46.052Z"
+  },
+  "Thiết bị nào được mô tả là \"Rất nhỏ nhẹ, màn hình cảm ứng\" và \"Hoàn hảo cho việc đọc, xem phim và giải trí\"?": {
+    "questionId": 1763283285673,
+    "questionText": "Thiết bị nào được mô tả là \"Rất nhỏ nhẹ, màn hình cảm ứng\" và \"Hoàn hảo cho việc đọc, xem phim và giải trí\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Máy tính bảng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Máy tính để bàn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Điện thoại thông minh",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Máy in",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Máy tính bảng"
+    },
+    "updatedAt": "2025-11-16T08:54:51.992Z"
   }
 }
