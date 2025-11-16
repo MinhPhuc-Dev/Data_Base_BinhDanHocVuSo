@@ -4253,5 +4253,39 @@
       "optionText": "3. Chọn góc có ánh sáng tự nhiên tốt"
     },
     "updatedAt": "2025-11-16T08:46:43.078Z"
+  },
+  "Phần mềm nào là công cụ phổ biến nhất giúp người dùng gõ tiếng Việt có dấu trên máy tính Windows?": {
+    "questionId": 1763282809596,
+    "questionText": "Phần mềm nào là công cụ phổ biến nhất giúp người dùng gõ tiếng Việt có dấu trên máy tính Windows?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Unikey",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "BreeZip",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cốc Cốc Browser",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Microsoft Photos",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Unikey"
+    },
+    "updatedAt": "2025-11-16T08:46:51.867Z"
   }
 }
