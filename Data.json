@@ -3773,5 +3773,39 @@
       "optionText": "1. Chọn Wi-Fi và xem danh sách mạng"
     },
     "updatedAt": "2025-11-16T08:43:39.926Z"
+  },
+  "Ngoài ứng dụng ngân hàng, người dùng có thể sử dụng ví điện tử (như Viettel Money, VNPT Money) để thanh toán dịch vụ mà không cần gì?": {
+    "questionId": 1763282621884,
+    "questionText": "Ngoài ứng dụng ngân hàng, người dùng có thể sử dụng ví điện tử (như Viettel Money, VNPT Money) để thanh toán dịch vụ mà không cần gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Số điện thoại chính chủ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Điện thoại thông minh",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tài khoản ngân hàng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Kết nối internet",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Tài khoản ngân hàng"
+    },
+    "updatedAt": "2025-11-16T08:43:44.191Z"
   }
 }
