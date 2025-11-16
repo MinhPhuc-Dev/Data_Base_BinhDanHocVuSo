@@ -4964,5 +4964,39 @@
       "optionText": "1. Máy tính bảng"
     },
     "updatedAt": "2025-11-16T08:54:51.992Z"
+  },
+  "Trong các thiết bị lưu trữ dài hạn (Ổ Cứng), loại nào được tài liệu nhận định có tốc độ nhanh hơn nhiều so với HDD truyền thống?": {
+    "questionId": 1763283290221,
+    "questionText": "Trong các thiết bị lưu trữ dài hạn (Ổ Cứng), loại nào được tài liệu nhận định có tốc độ nhanh hơn nhiều so với HDD truyền thống?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thẻ nhớ SD",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "USB",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "SSD",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "DVD",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. SSD"
+    },
+    "updatedAt": "2025-11-16T08:54:56.869Z"
   }
 }
