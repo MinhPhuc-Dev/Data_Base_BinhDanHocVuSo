@@ -7493,5 +7493,39 @@
       "optionText": "4. Máy quét"
     },
     "updatedAt": "2025-11-16T15:10:35.914Z"
+  },
+  "Theo hướng dẫn chia sẻ theo từng đối tượng, nông dân và người lao động nên chia sẻ thông tin gì để hỗ trợ bà con?": {
+    "questionId": 1763305840707,
+    "questionText": "Theo hướng dẫn chia sẻ theo từng đối tượng, nông dân và người lao động nên chia sẻ thông tin gì để hỗ trợ bà con?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bài tập đã hoàn thành để cùng trao đổi với bạn bè",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Báo cáo tài chính chưa công bố của tổ chức",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thông tin về giá cả thị trường nông sản hằng ngày",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Văn bản, tài liệu phổ biến đã được phép công khai",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Thông tin về giá cả thị trường nông sản hằng ngày, \n4. Văn bản, tài liệu phổ biến đã được phép công khai"
+    },
+    "updatedAt": "2025-11-16T15:10:43.005Z"
   }
 }
