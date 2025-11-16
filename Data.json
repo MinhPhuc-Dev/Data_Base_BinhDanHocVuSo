@@ -5971,5 +5971,39 @@
       "optionText": "4. Người dân và doanh nghiệp là trung tâm"
     },
     "updatedAt": "2025-11-16T10:57:29.592Z"
+  },
+  "Trong thao tác bàn phím, phím nào được sử dụng để xóa ký tự nằm ở bên trái con trỏ?": {
+    "questionId": 1763290685601,
+    "questionText": "Trong thao tác bàn phím, phím nào được sử dụng để xóa ký tự nằm ở bên trái con trỏ?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Delete",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Esc",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Enter",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Backspace",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Backspace"
+    },
+    "updatedAt": "2025-11-16T10:58:08.987Z"
   }
 }
