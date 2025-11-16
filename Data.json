@@ -4321,5 +4321,39 @@
       "optionText": "1. Môi trường số (giao dịch điện tử)"
     },
     "updatedAt": "2025-11-16T08:47:02.646Z"
+  },
+  "Theo Bộ Luật dân sự số 91/2015/QH13 (Điều 38), thông tin liên quan đến đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và việc thu thập, lưu giữ, sử dụng, công khai phải được sự đồng ý của ai?": {
+    "questionId": 1763282825203,
+    "questionText": "Theo Bộ Luật dân sự số 91/2015/QH13 (Điều 38), thông tin liên quan đến đời sống riêng tư, bí mật cá nhân, bí mật gia đình là bất khả xâm phạm và việc thu thập, lưu giữ, sử dụng, công khai phải được sự đồng ý của ai?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bất kỳ ai cũng có thể công khai",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Cơ quan nhà nước có thẩm quyền",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ cần xin phép Ngân hàng Nhà nước",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Người đó hoặc các thành viên gia đình",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Người đó hoặc các thành viên gia đình"
+    },
+    "updatedAt": "2025-11-16T08:47:07.543Z"
   }
 }
