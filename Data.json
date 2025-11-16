@@ -2416,5 +2416,39 @@
       "optionText": "2. Dịch vụ lưu trữ đám mây (Cloud storage)"
     },
     "updatedAt": "2025-11-16T07:49:51.734Z"
+  },
+  "Theo nội dung chuyên đề 1.1. Kiến thức về chuyển đổi số, đến năm 2030 Việt Nam phấn đấu thuộc nhóm bao nhiêu nước dẫn đầu về đổi mới sáng tạo?": {
+    "questionId": 1763279394203,
+    "questionText": "Theo nội dung chuyên đề 1.1. Kiến thức về chuyển đổi số, đến năm 2030 Việt Nam phấn đấu thuộc nhóm bao nhiêu nước dẫn đầu về đổi mới sáng tạo?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "40 nước",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "20 nước",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "30 nước",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "25 nước",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. 20 nước"
+    },
+    "updatedAt": "2025-11-16T07:49:56.641Z"
   }
 }
