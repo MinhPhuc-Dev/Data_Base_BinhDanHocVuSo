@@ -2954,5 +2954,39 @@
       "optionText": "4. Kết nối với bạn bè, gia đình khắp nơi trên thế giới"
     },
     "updatedAt": "2025-11-16T07:51:06.548Z"
+  },
+  "\"Thanh ngang ở dưới màn hình, hiển thị ứng dụng đang chạy, nút Start và thông báo hệ thống\" được gọi là gì?": {
+    "questionId": 1763279468503,
+    "questionText": "\"Thanh ngang ở dưới màn hình, hiển thị ứng dụng đang chạy, nút Start và thông báo hệ thống\" được gọi là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Màn hình nền (Desktop)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Bo mạch chủ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cửa sổ (Window)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thanh Tác Vụ (Taskbar)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Thanh Tác Vụ (Taskbar)"
+    },
+    "updatedAt": "2025-11-16T07:51:11.015Z"
   }
 }
