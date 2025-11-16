@@ -7662,5 +7662,39 @@
       "optionText": "3. Tìm kiếm và sử dụng dữ liệu hiệu quả"
     },
     "updatedAt": "2025-11-16T15:15:41.945Z"
+  },
+  "Nếu thấy tin \"uống lá cây X chữa khỏi bệnh ung thư,\" ở nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số khuyên nên kiểm chứng ở trang nào để xác nhận thông tin?": {
+    "questionId": 1763306176819,
+    "questionText": "Nếu thấy tin \"uống lá cây X chữa khỏi bệnh ung thư,\" ở nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số khuyên nên kiểm chứng ở trang nào để xác nhận thông tin?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Trang bán lá cây X",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Trang báo nông nghiệp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Trang của hợp tác xã uy tín",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Trang chính thức của Bộ Y tế",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Trang chính thức của Bộ Y tế"
+    },
+    "updatedAt": "2025-11-16T15:16:23.558Z"
   }
 }
