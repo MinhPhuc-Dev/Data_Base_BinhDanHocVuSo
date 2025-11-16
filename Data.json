@@ -3432,5 +3432,36 @@
       "optionText": "2. Theo dõi và thu hồi quyền khi cần"
     },
     "updatedAt": "2025-11-16T08:34:39.616Z"
+  },
+  "Đối tượng áp dụng của Bộ Quy tắc bao gồm Cán bộ, Công chức, Viên chức, và ai khác trong cơ quan nhà nước sử dụng mạng xã hội?": {
+    "questionId": 1763282081522,
+    "questionText": "Đối tượng áp dụng của Bộ Quy tắc bao gồm Cán bộ, Công chức, Viên chức, và ai khác trong cơ quan nhà nước sử dụng mạng xã hội?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Sinh viên thực tập",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ Lãnh đạo cấp cao",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Người lao động",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "Người lao động",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T08:34:43.671Z"
   }
 }
