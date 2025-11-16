@@ -3022,5 +3022,41 @@
       "optionText": "2. ChatGPT"
     },
     "updatedAt": "2025-11-16T07:51:16.942Z"
+  },
+  "Hướng đăng nhập thứ nhất trên Cổng dịch vụ công dành cho Công dân yêu cầu nhập những thông tin nào?": {
+    "questionId": 1763279478788,
+    "questionText": "Hướng đăng nhập thứ nhất trên Cổng dịch vụ công dành cho Công dân yêu cầu nhập những thông tin nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tên tài khoản và ngày sinh",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mã số thuế và mật khẩu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Số định danh cá nhân và mật khẩu, sau đó nhập OTP",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Email và mật khẩu, sau đó nhập mã xác nhận",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Số định danh cá nhân và mật khẩu, sau đó nhập OTP",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T07:51:20.739Z"
   }
 }
