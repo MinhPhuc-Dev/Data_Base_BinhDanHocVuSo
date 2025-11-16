@@ -2450,5 +2450,41 @@
       "optionText": "2. 20 nước"
     },
     "updatedAt": "2025-11-16T07:49:56.641Z"
+  },
+  "Theo chuyên đề 5: Sáng tạo nội dung số, dạng dữ liệu nào được coi là nền tảng, truyền tải thông tin chi tiết, logic và sâu sắc?": {
+    "questionId": 1763279398720,
+    "questionText": "Theo chuyên đề 5: Sáng tạo nội dung số, dạng dữ liệu nào được coi là nền tảng, truyền tải thông tin chi tiết, logic và sâu sắc?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Video",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hình ảnh",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Văn bản",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Âm thanh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Văn bản",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T07:50:00.184Z"
   }
 }
