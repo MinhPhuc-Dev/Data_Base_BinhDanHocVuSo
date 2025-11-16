@@ -2920,5 +2920,39 @@
       "optionText": "3. Xử lý Ngôn ngữ Tự nhiên (NLP)"
     },
     "updatedAt": "2025-11-16T07:51:01.729Z"
+  },
+  "Theo tài liệu, máy tính được coi là \"cánh cửa mở ra vô số cơ hội\" trong thời đại số vì khả năng chính nào?": {
+    "questionId": 1763279464062,
+    "questionText": "Theo tài liệu, máy tính được coi là \"cánh cửa mở ra vô số cơ hội\" trong thời đại số vì khả năng chính nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giúp bảo vệ dữ liệu cá nhân",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hỗ trợ chơi game đồ họa cao",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giúp tìm ra công việc lương cao",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Kết nối với bạn bè, gia đình khắp nơi trên thế giới",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Kết nối với bạn bè, gia đình khắp nơi trên thế giới"
+    },
+    "updatedAt": "2025-11-16T07:51:06.548Z"
   }
 }
