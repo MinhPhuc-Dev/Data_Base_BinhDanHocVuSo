@@ -3160,5 +3160,39 @@
       "optionText": "3. Snapseed"
     },
     "updatedAt": "2025-11-16T08:33:38.392Z"
+  },
+  "Công cụ nào được đề cập trong chuyên đề 5: Sáng tạo nội dung số có thể giúp người dùng tạo ra những bức tranh minh họa độc đáo chỉ từ mô tả đơn giản?": {
+    "questionId": 1763282020354,
+    "questionText": "Công cụ nào được đề cập trong chuyên đề 5: Sáng tạo nội dung số có thể giúp người dùng tạo ra những bức tranh minh họa độc đáo chỉ từ mô tả đơn giản?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Beautiful.ai",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "DALL·E hoặc Canva AI",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Suno AI",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "J2Team – TextToSpeech",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. DALL·E hoặc Canva AI"
+    },
+    "updatedAt": "2025-11-16T08:33:42.493Z"
   }
 }
