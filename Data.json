@@ -2554,5 +2554,39 @@
       "optionText": "2. Tất cả đáp án đều đúng"
     },
     "updatedAt": "2025-11-16T07:50:09.086Z"
+  },
+  "Google Drive, Dropbox, OneDrive, iCloud là những ví dụ về gì?": {
+    "questionId": 1763279410973,
+    "questionText": "Google Drive, Dropbox, OneDrive, iCloud là những ví dụ về gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Các dịch vụ lưu trữ đám mây phổ biến",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Công cụ hỗ trợ phân tích dữ liệu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Hệ thống phân cấp thư mục",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Phần mềm chống virus",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Các dịch vụ lưu trữ đám mây phổ biến"
+    },
+    "updatedAt": "2025-11-16T07:50:12.876Z"
   }
 }
