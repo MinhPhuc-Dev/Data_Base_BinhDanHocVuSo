@@ -2212,5 +2212,39 @@
       "optionText": "4. Khởi động lại router và xóa cache trình duyệt"
     },
     "updatedAt": "2025-11-16T07:48:22.032Z"
+  },
+  "Một trong các nhiệm vụ và giải pháp của chuyển đổi số là gì?": {
+    "questionId": 1763279324453,
+    "questionText": "Một trong các nhiệm vụ và giải pháp của chuyển đổi số là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Xây dựng thể chế, chính sách",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hạn chế ứng dụng công nghệ mới",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giảm sử dụng dữ liệu số",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ tập trung vào thành phố lớn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Xây dựng thể chế, chính sách"
+    },
+    "updatedAt": "2025-11-16T07:48:46.846Z"
   }
 }
