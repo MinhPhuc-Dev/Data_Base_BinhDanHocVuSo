@@ -8038,5 +8038,39 @@
       "optionText": "2. 5 bước"
     },
     "updatedAt": "2025-11-16T16:02:07.197Z"
+  },
+  "Chuyên đề \"Tương tác thông qua công nghệ số\" bao gồm tổng cộng bao nhiêu nội dung chính, bắt đầu từ Email và kết thúc bằng Yêu cầu cần đạt?": {
+    "questionId": 1763309094078,
+    "questionText": "Chuyên đề \"Tương tác thông qua công nghệ số\" bao gồm tổng cộng bao nhiêu nội dung chính, bắt đầu từ Email và kết thúc bằng Yêu cầu cần đạt?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "8 nội dung",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "7 nội dung",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "6 nội dung",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "9 nội dung",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. 7 nội dung"
+    },
+    "updatedAt": "2025-11-16T16:05:01.236Z"
   }
 }
