@@ -8343,5 +8343,39 @@
       "optionText": "2. Thanh toán hóa đơn điện, nước ngay tại nhà qua điện thoại"
     },
     "updatedAt": "2025-11-16T16:19:12.543Z"
+  },
+  "Công cụ AI được nhắc đến trong chuyên đề 5: Sáng tạo nội dung số có thể hỗ trợ sáng tạo nội dung số bằng cách nào?": {
+    "questionId": 1763310053322,
+    "questionText": "Công cụ AI được nhắc đến trong chuyên đề 5: Sáng tạo nội dung số có thể hỗ trợ sáng tạo nội dung số bằng cách nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giới hạn khả năng sáng tạo",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Bắt buộc phải có trong mọi sản phẩm",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thay thế hoàn toàn tư duy của con người",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tăng tốc, nâng cao chất lượng và cá nhân hóa quá trình sáng tạo",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Tăng tốc, nâng cao chất lượng và cá nhân hóa quá trình sáng tạo"
+    },
+    "updatedAt": "2025-11-16T16:20:59.986Z"
   }
 }
