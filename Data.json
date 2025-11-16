@@ -8782,5 +8782,39 @@
       "optionText": "3. Cục Chứng thực số và Bảo mật thông tin"
     },
     "updatedAt": "2025-11-16T16:39:44.437Z"
+  },
+  "Khi sử dụng chữ ký số công cộng để ký Hợp đồng điện tử, chữ ký số giúp đảm bảo điều gì?": {
+    "questionId": 1763311203054,
+    "questionText": "Khi sử dụng chữ ký số công cộng để ký Hợp đồng điện tử, chữ ký số giúp đảm bảo điều gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tốc độ ký hợp đồng nhanh hơn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Xác thực danh tính các bên và đảm bảo nội dung hợp đồng không bị thay đổi sau khi ký",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Hợp đồng tự động được gửi đến cơ quan quản lý",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giảm chi phí in ấn hợp đồng giấy",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Xác thực danh tính các bên và đảm bảo nội dung hợp đồng không bị thay đổi sau khi ký"
+    },
+    "updatedAt": "2025-11-16T16:40:09.732Z"
   }
 }
