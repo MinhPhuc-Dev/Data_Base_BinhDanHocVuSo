@@ -8275,5 +8275,39 @@
       "optionText": "3. Trí tuệ nhân tạo (AI)"
     },
     "updatedAt": "2025-11-16T16:08:38.608Z"
+  },
+  "Để đăng ký tài khoản trên Cổng dịch vụ công qua VNeID, người dùng cần thực hiện những thao tác nào?": {
+    "questionId": 1763309740634,
+    "questionText": "Để đăng ký tài khoản trên Cổng dịch vụ công qua VNeID, người dùng cần thực hiện những thao tác nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tải và cài đặt ứng dụng VNeID, Mở ứng dụng và đăng nhập",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nhập Số định danh cá nhân và mật khẩu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ cần chọn phương thức xác minh qua email",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Truy cập trang web và quét mã QR",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Để đăng ký tài khoản trên Cổng dịch vụ công qua VNeID, người dùng cần thực hiện những thao tác:\n\n1. Tải và cài đặt ứng dụng VNeID, Mở ứng dụng và đăng nhập\n2. Nhập Số định danh cá nhân và mật khẩu\n4. Truy cập trang web và quét mã QR"
+    },
+    "updatedAt": "2025-11-16T16:15:47.010Z"
   }
 }
