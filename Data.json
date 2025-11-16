@@ -9078,5 +9078,39 @@
       "optionText": "3. Tài liệu mật, bí mật công việc, hoặc thông tin khách hàng/đối tác"
     },
     "updatedAt": "2025-11-16T16:56:22.346Z"
+  },
+  "Giá trị pháp lý của chữ ký số được quy định tại những văn bản nào?": {
+    "questionId": 1763312310309,
+    "questionText": "Giá trị pháp lý của chữ ký số được quy định tại những văn bản nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Luật giao dịch điện tử và các Nghị định hướng dẫn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Quyết định của UBND tỉnh Quảng Ngãi",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ có Luật Giao dịch điện tử",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bộ luật Hình sự và Nghị định 68/2024/NĐ-CP",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Luật giao dịch điện tử và các Nghị định hướng dẫn"
+    },
+    "updatedAt": "2025-11-16T16:58:37.054Z"
   }
 }
