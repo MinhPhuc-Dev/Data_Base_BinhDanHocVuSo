@@ -8004,5 +8004,39 @@
       "optionText": "3. \"Thời tiết Quảng Ngãi hôm nay\""
     },
     "updatedAt": "2025-11-16T16:01:57.597Z"
+  },
+  "Quy trình thực hiện Dịch vụ công trực tuyến được hướng dẫn bao gồm tổng cộng bao nhiêu bước?": {
+    "questionId": 1763308920074,
+    "questionText": "Quy trình thực hiện Dịch vụ công trực tuyến được hướng dẫn bao gồm tổng cộng bao nhiêu bước?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "4 bước",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "5 bước",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "2 bước",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "3 bước",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. 5 bước"
+    },
+    "updatedAt": "2025-11-16T16:02:07.197Z"
   }
 }
