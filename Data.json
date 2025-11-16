@@ -8241,5 +8241,39 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-16T16:08:30.980Z"
+  },
+  "Công nghệ nào được nhắc đến là trợ thủ đắc lực giúp mọi người tạo ra những nội dung số độc đáo và chất lượng?": {
+    "questionId": 1763309312070,
+    "questionText": "Công nghệ nào được nhắc đến là trợ thủ đắc lực giúp mọi người tạo ra những nội dung số độc đáo và chất lượng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Công nghệ Blockchain",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thực tế ảo (VR)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Trí tuệ nhân tạo (AI)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Mạng 5G",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Trí tuệ nhân tạo (AI)"
+    },
+    "updatedAt": "2025-11-16T16:08:38.608Z"
   }
 }
