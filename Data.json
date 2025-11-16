@@ -1846,5 +1846,34 @@
       "optionText": "2. Chính sách sử dụng thương mại của từng công cụ"
     },
     "updatedAt": "2025-11-16T07:26:19.043Z"
+  },
+  "Khi cung cấp thông tin trên mạng xã hội, cán bộ, công chức cần đảm bảo tính chất nào của thông tin?": {
+    "questionId": 1763279186513,
+    "questionText": "Khi cung cấp thông tin trên mạng xã hội, cán bộ, công chức cần đảm bảo tính chất nào của thông tin?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tính nhanh chóng và phong phú",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tính cá nhân và sáng tạo",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tính đồng bộ, thống nhất",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "3. Tính đồng bộ, thống nhất"
+    },
+    "updatedAt": "2025-11-16T07:46:30.235Z"
   }
 }
