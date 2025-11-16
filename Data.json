@@ -8205,5 +8205,41 @@
       "displayOrder": 4
     },
     "updatedAt": "2025-11-16T16:08:04.028Z"
+  },
+  "Để thực hiện chức năng tra cứu hồ sơ, người dùng cần chọn menu và mục nào?": {
+    "questionId": 1763309304962,
+    "questionText": "Để thực hiện chức năng tra cứu hồ sơ, người dùng cần chọn menu và mục nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chọn menu [Thanh toán trực tuyến] - [Tra cứu]",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chọn menu [Thông tin và dịch vụ] - [Tra cứu hồ sơ]",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chọn menu [Đăng nhập] - [Tra cứu hồ sơ]",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chọn menu [Hồ sơ của tôi] - [Theo dõi tình trạng]",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Chọn menu [Thông tin và dịch vụ] - [Tra cứu hồ sơ]",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-16T16:08:30.980Z"
   }
 }
