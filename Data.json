@@ -6414,5 +6414,39 @@
       "optionText": "4. Nhận (Get) hoặc Cài đặt (Install)"
     },
     "updatedAt": "2025-11-16T13:37:26.263Z"
+  },
+  "Để bảo vệ sức khỏe khi sử dụng máy tính, tư thế đúng được khuyến nghị là gì?": {
+    "questionId": 1763300265657,
+    "questionText": "Để bảo vệ sức khỏe khi sử dụng máy tính, tư thế đúng được khuyến nghị là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ngồi thoải mái trên ghế sofa",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Cúi đầu nhìn màn hình",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ngồi đúng tư thế, lưng thẳng, màn hình ngang tầm mắt",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nằm nghiêng khi sử dụng laptop",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Ngồi đúng tư thế, lưng thẳng, màn hình ngang tầm mắt"
+    },
+    "updatedAt": "2025-11-16T13:37:48.606Z"
   }
 }
