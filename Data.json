@@ -5765,5 +5765,39 @@
       "optionText": "3. Nên có phản hồi những ý kiến trên mạng xã hội"
     },
     "updatedAt": "2025-11-16T10:55:23.497Z"
+  },
+  "Chương trình Bình dân học vụ số tỉnh Quảng Ngãi phát hành Chuyên đề Hướng dẫn đăng ký sử dụng dịch vụ công trực tuyến nhằm mục đích gì?": {
+    "questionId": 1763290527603,
+    "questionText": "Chương trình Bình dân học vụ số tỉnh Quảng Ngãi phát hành Chuyên đề Hướng dẫn đăng ký sử dụng dịch vụ công trực tuyến nhằm mục đích gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hướng dẫn cách thanh toán qua VNPT MONEY",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Giúp người dân nộp hồ sơ trực tiếp nhanh hơn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giúp người dân sử dụng dịch vụ công trực tuyến thành thạo, tiết kiệm thời gian và công sức",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bắt buộc người dân phải sử dụng VNeID khi thực hiện thủ tục",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Giúp người dân sử dụng dịch vụ công trực tuyến thành thạo, tiết kiệm thời gian và công sức."
+    },
+    "updatedAt": "2025-11-16T10:55:30.055Z"
   }
 }
