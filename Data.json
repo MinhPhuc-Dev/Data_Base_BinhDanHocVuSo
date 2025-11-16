@@ -3092,5 +3092,39 @@
       "optionText": "1. 3"
     },
     "updatedAt": "2025-11-16T07:51:26.606Z"
+  },
+  "Khi phân loại dữ liệu theo mức độ nhạy cảm, dữ liệu được chia thành các loại nào?": {
+    "questionId": 1763279490999,
+    "questionText": "Khi phân loại dữ liệu theo mức độ nhạy cảm, dữ liệu được chia thành các loại nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Dữ liệu cá nhân và Dữ liệu công ty",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dữ liệu công khai, riêng tư, nội bộ, bí mật, tuyệt mật",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Dữ liệu Sơ cấp và Dữ liệu Thứ cấp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Dữ liệu văn bản và Dữ liệu hình ảnh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Dữ liệu công khai, riêng tư, nội bộ, bí mật, tuyệt mật"
+    },
+    "updatedAt": "2025-11-16T07:51:32.960Z"
   }
 }
