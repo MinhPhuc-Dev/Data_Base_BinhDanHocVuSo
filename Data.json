@@ -5406,5 +5406,39 @@
       "optionText": "2. Lộ bí mật công vụ và các hệ lụy pháp lý nghiêm trọng"
     },
     "updatedAt": "2025-11-16T09:15:15.736Z"
+  },
+  "Kinh tế số phấn đấu chiếm bao nhiêu % GDP vào năm 2025 theo chương trình chuyển đổi số quốc gia ?": {
+    "questionId": 1763284541704,
+    "questionText": "Kinh tế số phấn đấu chiếm bao nhiêu % GDP vào năm 2025 theo chương trình chuyển đổi số quốc gia ?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "30%",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "25%",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "10%",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "20%",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. 30%"
+    },
+    "updatedAt": "2025-11-16T09:15:44.335Z"
   }
 }
