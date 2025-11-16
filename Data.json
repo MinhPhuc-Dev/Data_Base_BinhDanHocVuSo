@@ -5937,5 +5937,39 @@
       "optionText": "2. Ký tự đặc biệt (chỉ dùng chữ, số, _ hoặc -)"
     },
     "updatedAt": "2025-11-16T10:56:54.804Z"
+  },
+  "Một trong những quan điểm chính của chuyển đổi số là gì?": {
+    "questionId": 1763290646607,
+    "questionText": "Một trong những quan điểm chính của chuyển đổi số là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Doanh nghiệp là trung tâm",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Công nghệ là trung tâm duy nhất",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Lợi nhuận là trung tâm",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Người dân và doanh nghiệp là trung tâm",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Người dân và doanh nghiệp là trung tâm"
+    },
+    "updatedAt": "2025-11-16T10:57:29.592Z"
   }
 }
