@@ -6041,5 +6041,39 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-16T10:58:36.081Z"
+  },
+  "Tỉnh Quảng Ngãi đặt mục tiêu đến năm 2025, kinh tế số chiếm khoảng bao nhiêu % GDP?": {
+    "questionId": 1763290730606,
+    "questionText": "Tỉnh Quảng Ngãi đặt mục tiêu đến năm 2025, kinh tế số chiếm khoảng bao nhiêu % GDP?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "10%",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "20%",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "15%",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "25%",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. 15%"
+    },
+    "updatedAt": "2025-11-16T10:58:53.009Z"
   }
 }
