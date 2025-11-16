@@ -5903,5 +5903,39 @@
       "optionText": "1. Viết rõ ràng, có mục đích cụ thể và cung cấp đủ thông tin chi tiết"
     },
     "updatedAt": "2025-11-16T10:56:20.657Z"
+  },
+  "Theo quy chuẩn đặt tên thư mục và tệp tin, người dùng nên tránh sử dụng những loại ký tự nào?": {
+    "questionId": 1763290612345,
+    "questionText": "Theo quy chuẩn đặt tên thư mục và tệp tin, người dùng nên tránh sử dụng những loại ký tự nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Từ khóa mô tả nội dung",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ký tự đặc biệt (chỉ dùng chữ, số, _ hoặc -)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Số và gạch dưới (_)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chữ cái tiếng Việt có dấu",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Ký tự đặc biệt (chỉ dùng chữ, số, _ hoặc -)"
+    },
+    "updatedAt": "2025-11-16T10:56:54.804Z"
   }
 }
