@@ -2622,5 +2622,39 @@
       "optionText": "2. Thu thập, sắp xếp, bảo vệ, lưu trữ, sử dụng và chia sẻ dữ liệu"
     },
     "updatedAt": "2025-11-16T07:50:17.304Z"
+  },
+  "Để thêm hình ảnh từ tìm kiếm trên mạng (trực tuyến) vào phần mềm Word, người dùng cần chọn mục nào sau khi nhấn nút Insert?": {
+    "questionId": 1763279419272,
+    "questionText": "Để thêm hình ảnh từ tìm kiếm trên mạng (trực tuyến) vào phần mềm Word, người dùng cần chọn mục nào sau khi nhấn nút Insert?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Shapes",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Picture Layout",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Online Pictures",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "This device",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Online Pictures"
+    },
+    "updatedAt": "2025-11-16T07:50:21.222Z"
   }
 }
