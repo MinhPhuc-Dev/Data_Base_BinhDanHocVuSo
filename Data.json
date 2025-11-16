@@ -1904,5 +1904,39 @@
       "optionText": "3. Cục Chứng thực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ"
     },
     "updatedAt": "2025-11-16T07:46:34.287Z"
+  },
+  "Theo chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, công cụ giao tiếp nào được xem là chính thức trong học tập và công việc?": {
+    "questionId": 1763279197471,
+    "questionText": "Theo chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, công cụ giao tiếp nào được xem là chính thức trong học tập và công việc?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tin nhắn Zalo",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Email",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Mạng xã hội Facebook",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Điện thoại trực tiếp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Email"
+    },
+    "updatedAt": "2025-11-16T07:46:39.187Z"
   }
 }
