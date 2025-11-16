@@ -3807,5 +3807,41 @@
       "optionText": "3. Tài khoản ngân hàng"
     },
     "updatedAt": "2025-11-16T08:43:44.191Z"
+  },
+  "Khi sử dụng Touchpad của laptop, thao tác nào tương đương với \"Click phải\" (mở menu tùy chọn)?": {
+    "questionId": 1763282626064,
+    "questionText": "Khi sử dụng Touchpad của laptop, thao tác nào tương đương với \"Click phải\" (mở menu tùy chọn)?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chạm 1 ngón",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Vuốt 1 ngón",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Pinch",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chạm 2 ngón",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Chạm 2 ngón",
+      "optionId": 4,
+      "displayOrder": 4
+    },
+    "updatedAt": "2025-11-16T08:43:48.277Z"
   }
 }
