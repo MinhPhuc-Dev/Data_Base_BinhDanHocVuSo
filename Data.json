@@ -8140,5 +8140,34 @@
       "optionText": "4. Tạo nội dung đầy đủ, hấp dẫn và dễ tiếp nhận"
     },
     "updatedAt": "2025-11-16T16:07:48.148Z"
+  },
+  "Bộ Quy tắc nhằm xây dựng chuẩn mực đạo đức về hành vi, ứng xử trên mạng xã hội, giáo dục ý thức và tạo thói quen gì?": {
+    "questionId": 1763309271081,
+    "questionText": "Bộ Quy tắc nhằm xây dựng chuẩn mực đạo đức về hành vi, ứng xử trên mạng xã hội, giáo dục ý thức và tạo thói quen gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thói quen tích cực trong các hành vi ứng xử",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thói quen đọc tin tức hàng ngày",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thói quen tự quản lý dữ liệu",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "Bộ Quy tắc nhằm xây dựng chuẩn mực đạo đức về hành vi, ứng xử trên mạng xã hội, giáo dục ý thức và tạo thói quen \"Thói quen tích cực trong các hành vi ứng xử\". \n\nĐáp án: 1. Thói quen tích cực trong các hành vi ứng xử"
+    },
+    "updatedAt": "2025-11-16T16:07:57.317Z"
   }
 }
