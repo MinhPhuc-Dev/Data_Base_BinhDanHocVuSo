@@ -2520,5 +2520,39 @@
       "optionText": "2. Khám chữa bệnh từ xa qua video call"
     },
     "updatedAt": "2025-11-16T07:50:04.945Z"
+  },
+  "Chữ ký số được sử dụng để ký số hồ sơ trong lĩnh vực nào sau đây?": {
+    "questionId": 1763279407314,
+    "questionText": "Chữ ký số được sử dụng để ký số hồ sơ trong lĩnh vực nào sau đây?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Dịch vụ công trực tuyến",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tất cả đáp án đều đúng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giáo dục (ký học bạ, văn bằng)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thuế điện tử (kê khai thuế TNCN)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Tất cả đáp án đều đúng"
+    },
+    "updatedAt": "2025-11-16T07:50:09.086Z"
   }
 }
