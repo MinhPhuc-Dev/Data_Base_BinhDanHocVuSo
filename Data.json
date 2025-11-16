@@ -6620,5 +6620,39 @@
       "optionText": "4. Xác nhận cơ quan, tổ chức, cá nhân được chứng thực là người ký chữ ký số"
     },
     "updatedAt": "2025-11-16T13:41:49.928Z"
+  },
+  "Các công cụ phổ biến được sử dụng cho việc Học trực tuyến là gì?": {
+    "questionId": 1763300514243,
+    "questionText": "Các công cụ phổ biến được sử dụng cho việc Học trực tuyến là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Zoom, Google Meet, LMS",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Doctor Anywhere, Medpro",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Momo, ZaloPay, ViettelPay",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Facebook, TikTok, Instagram",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Zoom, Google Meet, LMS"
+    },
+    "updatedAt": "2025-11-16T13:41:56.903Z"
   }
 }
