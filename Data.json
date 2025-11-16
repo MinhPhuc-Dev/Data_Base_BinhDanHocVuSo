@@ -2076,5 +2076,39 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-16T07:47:26.308Z"
+  },
+  "Thiết bị nào có đặc điểm \"kích thước lớn, hiệu năng cao, dễ nâng cấp\" và phù hợp cho công việc văn phòng chuyên nghiệp?": {
+    "questionId": 1763279283391,
+    "questionText": "Thiết bị nào có đặc điểm \"kích thước lớn, hiệu năng cao, dễ nâng cấp\" và phù hợp cho công việc văn phòng chuyên nghiệp?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Máy tính để bàn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Điện thoại thông minh",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Máy tính bảng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Máy tính xách tay",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Máy tính để bàn"
+    },
+    "updatedAt": "2025-11-16T07:48:06.519Z"
   }
 }
