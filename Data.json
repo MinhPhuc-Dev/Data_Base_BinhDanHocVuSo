@@ -5469,5 +5469,39 @@
       "optionText": "1. Nộp trực tuyến thông qua Cổng dịch vụ công"
     },
     "updatedAt": "2025-11-16T09:15:50.784Z"
+  },
+  "Chuyên đề 5: Sáng tạo nội dung số đã phân loại nội dung số thành bao nhiêu dạng dữ liệu phổ biến?": {
+    "questionId": 1763284575595,
+    "questionText": "Chuyên đề 5: Sáng tạo nội dung số đã phân loại nội dung số thành bao nhiêu dạng dữ liệu phổ biến?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Năm (Bốn dạng trên và Dữ liệu tương tác)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hai (Văn bản và Hình ảnh)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ba (Văn bản, Hình ảnh và Video)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bốn (Văn bản, Hình ảnh, Video và Âm thanh)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Bốn (Văn bản, Hình ảnh, Video và Âm thanh)"
+    },
+    "updatedAt": "2025-11-16T09:16:17.826Z"
   }
 }
