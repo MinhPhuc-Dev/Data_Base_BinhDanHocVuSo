@@ -7219,5 +7219,39 @@
       "optionText": "1. Nguồn chính thống, đáng tin cậy"
     },
     "updatedAt": "2025-11-16T15:04:48.010Z"
+  },
+  "Hướng đăng nhập thứ hai trên Cổng dịch vụ công cho phép Công dân thực hiện thao tác gì bằng ứng dụng VNeID?": {
+    "questionId": 1763305490187,
+    "questionText": "Hướng đăng nhập thứ hai trên Cổng dịch vụ công cho phép Công dân thực hiện thao tác gì bằng ứng dụng VNeID?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Thực hiện ký số",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thực hiện quét mã QR",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thực hiện thanh toán phí/lệ phí",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Cập nhật thông tin hồ sơ còn thiếu",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Thực hiện quét mã QR"
+    },
+    "updatedAt": "2025-11-16T15:04:52.820Z"
   }
 }
