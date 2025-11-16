@@ -2823,5 +2823,34 @@
       "optionText": "1. 8GB"
     },
     "updatedAt": "2025-11-16T07:50:43.484Z"
+  },
+  "Tổ chức, cá nhân cần thực hiện biện pháp gì đối với tài khoản mạng xã hội của mình?": {
+    "questionId": 1763279449840,
+    "questionText": "Tổ chức, cá nhân cần thực hiện biện pháp gì đối với tài khoản mạng xã hội của mình?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tự quản lý, bảo mật tài khoản mạng xã hội",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Đăng ký tên miền",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ cần thay đổi mật khẩu định kỳ",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Tự quản lý, bảo mật tài khoản mạng xã hội"
+    },
+    "updatedAt": "2025-11-16T07:50:51.876Z"
   }
 }
