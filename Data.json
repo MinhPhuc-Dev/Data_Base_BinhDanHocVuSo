@@ -3599,5 +3599,39 @@
       "optionText": "2. Tính xác thực, tính toàn vẹn và tính chống chối bỏ"
     },
     "updatedAt": "2025-11-16T08:40:05.667Z"
+  },
+  "Để thực hiện tìm kiếm bằng hình ảnh (nhận diện đối tượng), học viên cần mở công cụ nào trên Google hoặc Cốc Cốc?": {
+    "questionId": 1763282560709,
+    "questionText": "Để thực hiện tìm kiếm bằng hình ảnh (nhận diện đối tượng), học viên cần mở công cụ nào trên Google hoặc Cốc Cốc?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Google Drive",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Google Translate",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Google Lens (hoặc Ống kính)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Google Maps",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Google Lens (hoặc Ống kính)"
+    },
+    "updatedAt": "2025-11-16T08:42:47.369Z"
   }
 }
