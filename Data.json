@@ -6247,5 +6247,34 @@
       "optionText": "4. Cần có trách nhiệm và giữ nội dung tích cực, lành mạnh"
     },
     "updatedAt": "2025-11-16T13:34:37.040Z"
+  },
+  "Cán bộ, công chức, viên chức và người lao động trong cơ quan nhà nước có trách nhiệm gì đối với tài khoản mạng xã hội?": {
+    "questionId": 1763300102035,
+    "questionText": "Cán bộ, công chức, viên chức và người lao động trong cơ quan nhà nước có trách nhiệm gì đối với tài khoản mạng xã hội?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Quản lý, bảo mật tài khoản mạng xã hội",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ cần quản lý tài khoản công việc",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Đăng ký thêm tài khoản mới",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Quản lý, bảo mật tài khoản mạng xã hội"
+    },
+    "updatedAt": "2025-11-16T13:35:05.198Z"
   }
 }
