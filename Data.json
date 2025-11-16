@@ -2314,5 +2314,39 @@
       "optionText": "3. AI gợi ý phim và bản nhạc mà bạn thích trên YouTube/Netflix"
     },
     "updatedAt": "2025-11-16T07:48:55.781Z"
+  },
+  "Ba nhánh chính của Trí tuệ Nhân tạo (AI) được giới thiệu trong chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI) là gì?": {
+    "questionId": 1763279338093,
+    "questionText": "Ba nhánh chính của Trí tuệ Nhân tạo (AI) được giới thiệu trong chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI) là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Học máy (Machine Learning), Xử lý Ngôn ngữ Tự nhiên (NLP), Thị giác máy tính (Computer Vision)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Robot học, Mạng thần kinh, Dữ liệu lớn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tính toán lượng tử, Tự động hóa, Ứng dụng di động",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Công cụ tìm kiếm, Hệ thống bảo mật, Thiết kế đồ họa",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Học máy (Machine Learning), Xử lý Ngôn ngữ Tự nhiên (NLP), Thị giác máy tính (Computer Vision)"
+    },
+    "updatedAt": "2025-11-16T07:49:00.313Z"
   }
 }
