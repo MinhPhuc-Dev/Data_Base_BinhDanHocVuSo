@@ -2753,5 +2753,41 @@
       "optionText": "4. Họp trực tuyến"
     },
     "updatedAt": "2025-11-16T07:50:33.670Z"
+  },
+  "Trong tìm kiếm nâng cao, dấu ngoặc kép (\"\") được sử dụng để làm gì?": {
+    "questionId": 1763279435611,
+    "questionText": "Trong tìm kiếm nâng cao, dấu ngoặc kép (\"\") được sử dụng để làm gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Để giới hạn thời gian tìm kiếm",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Để tìm chính xác cụm từ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Để kết hợp nhiều tiêu chí tìm kiếm",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Để tìm kiếm bằng giọng nói",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Để tìm chính xác cụm từ",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-16T07:50:37.468Z"
   }
 }
