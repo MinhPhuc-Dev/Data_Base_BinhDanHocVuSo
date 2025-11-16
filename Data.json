@@ -5571,5 +5571,39 @@
       "optionText": "1. Tạo thư mục phân loại theo chủ đề rõ ràng trên thanh dấu trang (Bookmark)"
     },
     "updatedAt": "2025-11-16T09:16:36.516Z"
+  },
+  "Chữ ký số được quy định về giá trị pháp lý trong văn bản nào của Nhà nước Việt Nam?": {
+    "questionId": 1763284602595,
+    "questionText": "Chữ ký số được quy định về giá trị pháp lý trong văn bản nào của Nhà nước Việt Nam?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Luật Giao dịch điện tử năm 2023",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Luật Bảo vệ người tiêu dùng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Luật An toàn thông tin mạng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Luật Công nghệ thông tin",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Luật Giao dịch điện tử năm 2023"
+    },
+    "updatedAt": "2025-11-16T09:16:44.854Z"
   }
 }
