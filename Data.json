@@ -6855,5 +6855,39 @@
       "optionText": "1. Tại Việt Nam"
     },
     "updatedAt": "2025-11-16T14:25:33.886Z"
+  },
+  "Khi sử dụng dịch vụ lưu trữ đám mây, ngoài việc sử dụng mật khẩu mạnh, người dùng nên bật tính năng gì để tăng cường bảo mật?": {
+    "questionId": 1763303176346,
+    "questionText": "Khi sử dụng dịch vụ lưu trữ đám mây, ngoài việc sử dụng mật khẩu mạnh, người dùng nên bật tính năng gì để tăng cường bảo mật?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bật chế độ tìm kiếm thủ công",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Bật tính năng sao lưu tự động",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Bật xác thực hai yếu tố",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bật tính năng xóa tệp trùng lặp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Bật xác thực hai yếu tố"
+    },
+    "updatedAt": "2025-11-16T14:26:18.992Z"
   }
 }
