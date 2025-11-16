@@ -3398,5 +3398,39 @@
       "optionText": "Xác nhận chủ thể ký và khẳng định sự chấp thuận đối với thông điệp dữ liệu."
     },
     "updatedAt": "2025-11-16T08:34:34.880Z"
+  },
+  "Khi chia sẻ thông tin quan trọng, việc quản lý quyền truy cập được khuyến nghị qua ba bước. Bước nào được thực hiện sau khi chia sẻ và đóng vai trò là \"chìa khóa của sự an toàn\"?": {
+    "questionId": 1763282077313,
+    "questionText": "Khi chia sẻ thông tin quan trọng, việc quản lý quyền truy cập được khuyến nghị qua ba bước. Bước nào được thực hiện sau khi chia sẻ và đóng vai trò là \"chìa khóa của sự an toàn\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Xác định mức độ bảo mật cần thiết",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Theo dõi và thu hồi quyền khi cần",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thiết lập quyền truy cập phù hợp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Đặt tên file rõ ràng, dễ hiểu",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Theo dõi và thu hồi quyền khi cần"
+    },
+    "updatedAt": "2025-11-16T08:34:39.616Z"
   }
 }
