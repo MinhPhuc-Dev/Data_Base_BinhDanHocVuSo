@@ -4998,5 +4998,39 @@
       "optionText": "3. SSD"
     },
     "updatedAt": "2025-11-16T08:54:56.869Z"
+  },
+  "Việc sử dụng Google Maps để tìm tuyến đường ngắn nhất, tránh kẹt xe minh họa cho lợi ích nào của AI?": {
+    "questionId": 1763283301252,
+    "questionText": "Việc sử dụng Google Maps để tìm tuyến đường ngắn nhất, tránh kẹt xe minh họa cho lợi ích nào của AI?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đạo đức",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Phụ thuộc",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Sáng tạo",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Hiệu quả",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Hiệu quả"
+    },
+    "updatedAt": "2025-11-16T08:55:07.709Z"
   }
 }
