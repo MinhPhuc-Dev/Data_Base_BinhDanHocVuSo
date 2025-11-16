@@ -6310,5 +6310,39 @@
       "optionText": "1. Chương trình Kỹ năng số quốc gia"
     },
     "updatedAt": "2025-11-16T13:35:12.183Z"
+  },
+  "Nội dung chính của BƯỚC 1 trong Quy trình 4 bước thực hiện DVC trực tuyến là gì?": {
+    "questionId": 1763300114344,
+    "questionText": "Nội dung chính của BƯỚC 1 trong Quy trình 4 bước thực hiện DVC trực tuyến là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Theo dõi tình trạng xử lý hồ sơ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chọn DVC, nộp HS, thanh toán",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Đăng ký tài khoản (nếu lần đầu), Đăng nhập (nếu đã có tài khoản) và Truy cập đường link dichvucong.gov.vn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nhận kết quả điện tử hoặc qua bưu chính",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Đăng ký tài khoản (nếu lần đầu), Đăng nhập (nếu đã có tài khoản) và Truy cập đường link dichvucong.gov.vn"
+    },
+    "updatedAt": "2025-11-16T13:35:20.199Z"
   }
 }
