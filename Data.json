@@ -7800,5 +7800,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T15:16:51.998Z"
+  },
+  "Bộ Quy tắc Ứng xử trên mạng xã hội có hiệu lực từ ngày nào?": {
+    "questionId": 1763306328960,
+    "questionText": "Bộ Quy tắc Ứng xử trên mạng xã hội có hiệu lực từ ngày nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ngày 17/6/2020",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ngày 17/6/2021",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ngày 17/10/2021",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ngày 17/10/2020",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Ngày 17/6/2021"
+    },
+    "updatedAt": "2025-11-16T15:18:55.532Z"
   }
 }
