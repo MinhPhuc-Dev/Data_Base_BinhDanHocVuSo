@@ -2988,5 +2988,39 @@
       "optionText": "4. Thanh Tác Vụ (Taskbar)"
     },
     "updatedAt": "2025-11-16T07:51:11.015Z"
+  },
+  "Công cụ AI nào được nhắc đến có khả năng hỗ trợ viết email, báo cáo, kịch bản, và kiểm tra ngữ pháp?": {
+    "questionId": 1763279474273,
+    "questionText": "Công cụ AI nào được nhắc đến có khả năng hỗ trợ viết email, báo cáo, kịch bản, và kiểm tra ngữ pháp?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "DALL-E",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "ChatGPT",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Midjourney",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Canva AI",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. ChatGPT"
+    },
+    "updatedAt": "2025-11-16T07:51:16.942Z"
   }
 }
