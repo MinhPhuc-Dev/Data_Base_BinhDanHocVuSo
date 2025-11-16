@@ -5338,5 +5338,39 @@
       "optionText": "2. Tích hợp nhiều tính năng hữu ích như chặn quảng cáo, tải video và nhạc dễ dàng"
     },
     "updatedAt": "2025-11-16T09:14:37.155Z"
+  },
+  "Theo Quyết định số 749/QĐ-TTg, Chương trình chuyển đổi số quốc gia đặt mục tiêu đến năm nào?": {
+    "questionId": 1763284503470,
+    "questionText": "Theo Quyết định số 749/QĐ-TTg, Chương trình chuyển đổi số quốc gia đặt mục tiêu đến năm nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "2027",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "2030",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "2025",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "2023",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. 2030"
+    },
+    "updatedAt": "2025-11-16T09:15:06.651Z"
   }
 }
