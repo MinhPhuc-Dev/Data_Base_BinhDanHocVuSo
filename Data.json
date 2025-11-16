@@ -8447,5 +8447,39 @@
       "displayOrder": 1
     },
     "updatedAt": "2025-11-16T16:21:39.378Z"
+  },
+  "Giới hạn thời gian tối đa cho mỗi cuộc họp nhóm (nhiều hơn 1 người) miễn phí trên ứng dụng Zoom là bao lâu?": {
+    "questionId": 1763310152571,
+    "questionText": "Giới hạn thời gian tối đa cho mỗi cuộc họp nhóm (nhiều hơn 1 người) miễn phí trên ứng dụng Zoom là bao lâu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "30 phút",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Không giới hạn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "40 phút",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "60 phút",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. 40 phút"
+    },
+    "updatedAt": "2025-11-16T16:22:39.491Z"
   }
 }
