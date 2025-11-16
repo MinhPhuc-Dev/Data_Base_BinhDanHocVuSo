@@ -7287,5 +7287,39 @@
       "optionText": "4. Hình ảnh sinh hoạt lành mạnh"
     },
     "updatedAt": "2025-11-16T15:05:00.684Z"
+  },
+  "Để đăng ký tài khoản trên Cổng Dịch vụ công Quốc gia, người dùng có thể chọn những hình thức nào được đề cập?": {
+    "questionId": 1763305564611,
+    "questionText": "Để đăng ký tài khoản trên Cổng Dịch vụ công Quốc gia, người dùng có thể chọn những hình thức nào được đề cập?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tài khoản Google Drive hoặc Apple ID",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thẻ ngân hàng hoặc Ví điện tử",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "VneID",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tài khoản Zalo hoặc Facebook",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Để đăng ký tài khoản trên Cổng Dịch vụ công Quốc gia, người dùng có thể chọn những hình thức được đề cập là:\n\n3. VneID \n\n và \n\n2. Thẻ ngân hàng hoặc Ví điện tử \n\n và \n1. Tài khoản Google Drive hoặc Apple ID \n\nKhông có thông tin chính xác về việc tài khoản zalo hay facbook được sử dụng. \nVậy câu trả lời chính xác là: 1, 2, 3."
+    },
+    "updatedAt": "2025-11-16T15:06:07.268Z"
   }
 }
