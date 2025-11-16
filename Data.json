@@ -8651,5 +8651,39 @@
       "optionText": "1. Chọn vị trí ký (nếu chưa đúng vị trí) và nhập mật khẩu"
     },
     "updatedAt": "2025-11-16T16:34:42.342Z"
+  },
+  "Khi thao tác trên Cổng dịch vụ công, người nộp hồ sơ thực hiện việc \"Theo dõi trình trạng xử lý hồ sơ\" ở BƯỚC nào?": {
+    "questionId": 1763310885110,
+    "questionText": "Khi thao tác trên Cổng dịch vụ công, người nộp hồ sơ thực hiện việc \"Theo dõi trình trạng xử lý hồ sơ\" ở BƯỚC nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "BƯỚC 3",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "BƯỚC 4",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "BƯỚC 2",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "BƯỚC 1",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. BƯỚC 4"
+    },
+    "updatedAt": "2025-11-16T16:34:51.668Z"
   }
 }
