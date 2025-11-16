@@ -9112,5 +9112,39 @@
       "optionText": "1. Luật giao dịch điện tử và các Nghị định hướng dẫn"
     },
     "updatedAt": "2025-11-16T16:58:37.054Z"
+  },
+  "Theo nội dung được đề cập ở chuyên đề 3: Khai thác thông tin và dữ liệu số, Internet được ví như gì trong môi trường mạng?": {
+    "questionId": 1763331955240,
+    "questionText": "Theo nội dung được đề cập ở chuyên đề 3: Khai thác thông tin và dữ liệu số, Internet được ví như gì trong môi trường mạng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Một cuốn sổ tay cá nhân",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Một cuốn sách giáo khoa lớn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Một “chợ” thông tin lớn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Một thư viện địa phương",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Một “chợ” thông tin lớn."
+    },
+    "updatedAt": "2025-11-16T22:26:00.970Z"
   }
 }
