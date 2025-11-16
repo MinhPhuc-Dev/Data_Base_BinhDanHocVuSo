@@ -3228,5 +3228,39 @@
       "optionText": "2. Gamma, Tome hoặc Beautiful.ai"
     },
     "updatedAt": "2025-11-16T08:33:46.403Z"
+  },
+  "Các công cụ AI như DALL-E và Midjourney được sử dụng chủ yếu cho mục đích gì trong sáng tạo nội dung?": {
+    "questionId": 1763282028345,
+    "questionText": "Các công cụ AI như DALL-E và Midjourney được sử dụng chủ yếu cho mục đích gì trong sáng tạo nội dung?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Sản xuất video ngắn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Viết văn bản tự động",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tạo slide trình chiếu tự động",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tạo hình ảnh từ mô tả bằng text",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Tạo hình ảnh từ mô tả bằng text"
+    },
+    "updatedAt": "2025-11-16T08:33:50.712Z"
   }
 }
