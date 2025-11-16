@@ -8515,5 +8515,39 @@
       "optionText": "1. Đặt lịch trên ứng dụng -> Kết nối bác sĩ qua video call -> Nhận tư vấn & đơn thuốc"
     },
     "updatedAt": "2025-11-16T16:29:14.677Z"
+  },
+  "Ứng dụng nào sau đây được liệt kê là trường hợp sử dụng chữ ký số công cộng cho người dân liên quan đến lĩnh vực Bảo hiểm xã hội?": {
+    "questionId": 1763310571476,
+    "questionText": "Ứng dụng nào sau đây được liệt kê là trường hợp sử dụng chữ ký số công cộng cho người dân liên quan đến lĩnh vực Bảo hiểm xã hội?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đăng ký cấp lại thẻ bảo hiểm y tế",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Kê khai BHXH điện tử",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ký bệnh án điện tử",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Kê khai và nộp thuế TNCN",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Kê khai BHXH điện tử"
+    },
+    "updatedAt": "2025-11-16T16:29:38.122Z"
   }
 }
