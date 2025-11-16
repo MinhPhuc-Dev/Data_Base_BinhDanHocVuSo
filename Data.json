@@ -4862,5 +4862,39 @@
       "optionText": "2. 3 luồng (Cá nhân, Tổ chức, Cơ quan nhà nước"
     },
     "updatedAt": "2025-11-16T08:54:19.951Z"
+  },
+  "Dạng dữ liệu nào giúp thông tin trở nên trực quan, dễ hiểu và dễ nhớ, tăng cường sự hấp dẫn thị giác?": {
+    "questionId": 1763283261672,
+    "questionText": "Dạng dữ liệu nào giúp thông tin trở nên trực quan, dễ hiểu và dễ nhớ, tăng cường sự hấp dẫn thị giác?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Video",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hình ảnh",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Văn bản",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Âm thanh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Hình ảnh"
+    },
+    "updatedAt": "2025-11-16T08:54:28.699Z"
   }
 }
