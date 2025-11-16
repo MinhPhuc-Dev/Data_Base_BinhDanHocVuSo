@@ -7355,5 +7355,41 @@
       "optionText": "1. Cho phép máy tính học hỏi từ dữ liệu mà không cần được lập trình rõ ràng"
     },
     "updatedAt": "2025-11-16T15:06:45.507Z"
+  },
+  "Khi muốn lưu một tài liệu đang soạn thảo trong Microsoft Word, người dùng cần thực hiện thao tác nào?": {
+    "questionId": 1763305752763,
+    "questionText": "Khi muốn lưu một tài liệu đang soạn thảo trong Microsoft Word, người dùng cần thực hiện thao tác nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Nhấp đúp vào biểu tượng Word trên màn hình",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chọn File (Tệp) → Print (In)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chọn File (Tệp) → Save (Lưu) → Đặt tên cho tệp và chọn nơi lưu trữ",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chọn File (Tệp) → New (Mới)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Chọn File (Tệp) → Save (Lưu) → Đặt tên cho tệp và chọn nơi lưu trữ",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T15:09:15.759Z"
   }
 }
