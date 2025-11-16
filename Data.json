@@ -3703,5 +3703,41 @@
       "optionText": "4. Là phương tiện để vào Internet"
     },
     "updatedAt": "2025-11-16T08:43:07.320Z"
+  },
+  "Trong câu truy vấn nâng cao, từ khóa kết hợp \"AND\" có nghĩa là gì?": {
+    "questionId": 1763282589689,
+    "questionText": "Trong câu truy vấn nâng cao, từ khóa kết hợp \"AND\" có nghĩa là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Kết quả chỉ cần đáp ứng một trong các tiêu chí",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Kết quả phải là quảng cáo",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Kết quả phải đáp ứng tất cả các tiêu chí",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Kết quả phải hiển thị hình ảnh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Kết quả phải đáp ứng tất cả các tiêu chí",
+      "optionId": 3,
+      "displayOrder": 3
+    },
+    "updatedAt": "2025-11-16T08:43:11.869Z"
   }
 }
