@@ -3497,5 +3497,39 @@
       "optionText": "2. Chuyển các số liệu khô khan thành biểu đồ hấp dẫn hoặc infographic trực quan"
     },
     "updatedAt": "2025-11-16T08:38:57.959Z"
+  },
+  "Một trong những lưu ý quan trọng hàng đầu khi tích hợp nội dung số là gì, liên quan đến tính xác thực?": {
+    "questionId": 1763282337276,
+    "questionText": "Một trong những lưu ý quan trọng hàng đầu khi tích hợp nội dung số là gì, liên quan đến tính xác thực?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bắt buộc phải có nhạc nền",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tải video chất lượng 4K",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Luôn luôn xác minh nguồn gốc và tính xác thực của thông tin",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ sử dụng các công cụ AI miễn phí",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Luôn luôn xác minh nguồn gốc và tính xác thực của thông tin"
+    },
+    "updatedAt": "2025-11-16T08:39:04.061Z"
   }
 }
