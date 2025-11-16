@@ -2656,5 +2656,39 @@
       "optionText": "3. Online Pictures"
     },
     "updatedAt": "2025-11-16T07:50:21.222Z"
+  },
+  "Tính năng tìm kiếm bằng giọng nói có một lợi ích đặc biệt hữu ích nào được nhắc đến?": {
+    "questionId": 1763279423625,
+    "questionText": "Tính năng tìm kiếm bằng giọng nói có một lợi ích đặc biệt hữu ích nào được nhắc đến?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giúp lưu lại kết quả tìm kiếm dễ dàng hơn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Giúp phân biệt tin giả",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Hữu ích khi bạn đang lái xe hoặc không thể gõ phím",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giúp kiểm chứng nguồn tin",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Hữu ích khi bạn đang lái xe hoặc không thể gõ phím"
+    },
+    "updatedAt": "2025-11-16T07:50:26.098Z"
   }
 }
