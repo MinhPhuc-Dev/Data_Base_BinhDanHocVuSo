@@ -1744,5 +1744,39 @@
       "optionText": "3. Nhận diện khuôn mặt để mở khóa điện thoại"
     },
     "updatedAt": "2025-11-15T17:26:48.461Z"
+  },
+  "Tích hợp dữ liệu là gì?": {
+    "questionId": 1763277962549,
+    "questionText": "Tích hợp dữ liệu là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Quá trình chuyển đổi định dạng tập tin.",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Quá trình tìm kiếm thông tin trên mạng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Quá trình viết văn bản và tạo hình ảnh đơn thuần.",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Quá trình kết hợp nhiều loại thông tin số lại với nhau để tạo ra sản phẩm truyền thông hoàn chỉnh.",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Quá trình kết hợp nhiều loại thông tin số lại với nhau để tạo ra sản phẩm truyền thông hoàn chỉnh."
+    },
+    "updatedAt": "2025-11-16T07:26:08.652Z"
   }
 }
