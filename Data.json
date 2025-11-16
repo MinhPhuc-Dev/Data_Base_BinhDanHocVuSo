@@ -4015,5 +4015,39 @@
       "optionText": "4. Giúp mở và giải nén các tệp tin được nén dưới nhiều định dạng phổ biến như .ZIP, .RAR, .7z"
     },
     "updatedAt": "2025-11-16T08:45:08.140Z"
+  },
+  "Khi chia sẻ tệp trên Google Drive, người dùng có thể lựa chọn những quyền truy cập nào cho người nhận?": {
+    "questionId": 1763282706155,
+    "questionText": "Khi chia sẻ tệp trên Google Drive, người dùng có thể lựa chọn những quyền truy cập nào cho người nhận?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Xem, Nhận xét, Chỉnh sửa",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ Xem",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ Tải xuống",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ In",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Xem, Nhận xét, Chỉnh sửa"
+    },
+    "updatedAt": "2025-11-16T08:45:12.317Z"
   }
 }
