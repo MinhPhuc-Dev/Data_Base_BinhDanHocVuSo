@@ -6075,5 +6075,41 @@
       "optionText": "3. 15%"
     },
     "updatedAt": "2025-11-16T10:58:53.009Z"
+  },
+  "Trong thao tác lưu dữ liệu, sau khi chọn \"File\" và nhấp vào \"Save\" hoặc \"Save As\", bước tiếp theo là gì?": {
+    "questionId": 1763290751599,
+    "questionText": "Trong thao tác lưu dữ liệu, sau khi chọn \"File\" và nhấp vào \"Save\" hoặc \"Save As\", bước tiếp theo là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Xóa tệp khỏi Thùng rác",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chọn thư mục lưu trữ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Mã hóa dữ liệu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bật xác thực hai yếu tố",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Chọn thư mục lưu trữ",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-16T10:59:14.052Z"
   }
 }
