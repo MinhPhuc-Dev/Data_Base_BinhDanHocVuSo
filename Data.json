@@ -8309,5 +8309,39 @@
       "optionText": "Để đăng ký tài khoản trên Cổng dịch vụ công qua VNeID, người dùng cần thực hiện những thao tác:\n\n1. Tải và cài đặt ứng dụng VNeID, Mở ứng dụng và đăng nhập\n2. Nhập Số định danh cá nhân và mật khẩu\n4. Truy cập trang web và quét mã QR"
     },
     "updatedAt": "2025-11-16T16:15:47.010Z"
+  },
+  "Ví dụ nào thể hiện rõ tính tiện lợi của công nghệ số trong việc thanh toán hóa đơn hằng ngày?": {
+    "questionId": 1763309945926,
+    "questionText": "Ví dụ nào thể hiện rõ tính tiện lợi của công nghệ số trong việc thanh toán hóa đơn hằng ngày?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đi chợ truyền thống",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thanh toán hóa đơn điện, nước ngay tại nhà qua điện thoại",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ra bưu điện gửi thư",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Xếp hàng chờ ở điểm thu tiền điện nước",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Thanh toán hóa đơn điện, nước ngay tại nhà qua điện thoại"
+    },
+    "updatedAt": "2025-11-16T16:19:12.543Z"
   }
 }
