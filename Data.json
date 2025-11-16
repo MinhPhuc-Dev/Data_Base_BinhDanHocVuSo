@@ -3194,5 +3194,39 @@
       "optionText": "2. DALL·E hoặc Canva AI"
     },
     "updatedAt": "2025-11-16T08:33:42.493Z"
+  },
+  "Để tạo ra các slide trình chiếu trực quan, tiết kiệm thời gian, chuyên đề 5: Sáng tạo nội dung số đã đề xuất sử dụng những nền tảng AI nào?": {
+    "questionId": 1763282024329,
+    "questionText": "Để tạo ra các slide trình chiếu trực quan, tiết kiệm thời gian, chuyên đề 5: Sáng tạo nội dung số đã đề xuất sử dụng những nền tảng AI nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "ChatGPT và DALL·E",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Gamma, Tome hoặc Beautiful.ai",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Canva và J2Team",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Pictory và Runway",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Gamma, Tome hoặc Beautiful.ai"
+    },
+    "updatedAt": "2025-11-16T08:33:46.403Z"
   }
 }
