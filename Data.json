@@ -7696,5 +7696,39 @@
       "optionText": "4. Trang chính thức của Bộ Y tế"
     },
     "updatedAt": "2025-11-16T15:16:23.558Z"
+  },
+  "Dịch vụ công trực tuyến mang lại lợi ích gì?": {
+    "questionId": 1763306188569,
+    "questionText": "Dịch vụ công trực tuyến mang lại lợi ích gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tăng chi phí đi lại",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Thủ tục phức tạp hơn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Minh bạch, tiết kiệm thời gian",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Yêu cầu nhiều giấy tờ hơn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Minh bạch, tiết kiệm thời gian"
+    },
+    "updatedAt": "2025-11-16T15:16:35.304Z"
   }
 }
