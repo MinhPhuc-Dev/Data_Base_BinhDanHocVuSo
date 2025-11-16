@@ -5066,5 +5066,39 @@
       "optionText": "2. Esc (Escape)"
     },
     "updatedAt": "2025-11-16T08:55:12.348Z"
+  },
+  "Một trong những mục tiêu chính của việc học cách chia sẻ đúng cách và an toàn là gì?": {
+    "questionId": 1763283311024,
+    "questionText": "Một trong những mục tiêu chính của việc học cách chia sẻ đúng cách và an toàn là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tăng lượt like và tương tác trên mạng xã hội",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Gửi được file dung lượng lớn một cách nhanh chóng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Lan truyền nội dung rộng rãi bằng thuật toán",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Kết nối tốt hơn với nhau và bảo vệ thông tin cá nhân khỏi rủi ro không mong muốn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Kết nối tốt hơn với nhau và bảo vệ thông tin cá nhân khỏi rủi ro không mong muốn"
+    },
+    "updatedAt": "2025-11-16T08:55:17.603Z"
   }
 }
