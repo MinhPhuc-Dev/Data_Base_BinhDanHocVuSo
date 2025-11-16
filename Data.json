@@ -6005,5 +6005,41 @@
       "optionText": "4. Backspace"
     },
     "updatedAt": "2025-11-16T10:58:08.987Z"
+  },
+  "Khóa công khai trong chữ ký số được dùng để làm gì?": {
+    "questionId": 1763290712607,
+    "questionText": "Khóa công khai trong chữ ký số được dùng để làm gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Để tạo ra khóa bí mật",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Để kiểm tra chữ ký số",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Để ký số",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Để lưu trữ dữ liệu",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Để kiểm tra chữ ký số",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-16T10:58:36.081Z"
   }
 }
