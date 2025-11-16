@@ -4151,5 +4151,39 @@
       "optionText": "3. Đăng tải thông tin về các dịch vụ công, thủ tục hành chính để hỗ trợ cộng đồng"
     },
     "updatedAt": "2025-11-16T08:46:11.497Z"
+  },
+  "Chuyển đổi số là việc của ai?": {
+    "questionId": 1763282777609,
+    "questionText": "Chuyển đổi số là việc của ai?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Doanh nghiệp",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Người dân",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chính quyền",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Cả 3 đáp án đều đúng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Cả 3 đáp án đều đúng"
+    },
+    "updatedAt": "2025-11-16T08:46:20.405Z"
   }
 }
