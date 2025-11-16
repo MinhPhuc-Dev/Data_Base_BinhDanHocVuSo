@@ -4828,5 +4828,39 @@
       "optionText": "3. J2Team – TextToSpeech"
     },
     "updatedAt": "2025-11-16T08:54:13.243Z"
+  },
+  "Hệ thống Đăng nhập phần mềm DVC trực tuyến có bao nhiêu luồng đăng nhập chính?": {
+    "questionId": 1763283253541,
+    "questionText": "Hệ thống Đăng nhập phần mềm DVC trực tuyến có bao nhiêu luồng đăng nhập chính?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "4 luồng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "3 luồng (Cá nhân, Tổ chức, Cơ quan nhà nước",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "1 luồng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "2 luồng (Doanh nghiệp/tổ chức và Công dân)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. 3 luồng (Cá nhân, Tổ chức, Cơ quan nhà nước"
+    },
+    "updatedAt": "2025-11-16T08:54:19.951Z"
   }
 }
