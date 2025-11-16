@@ -5304,5 +5304,39 @@
       "optionText": "1. Tắt máy bằng cách rút phích cắm điện đột ngột"
     },
     "updatedAt": "2025-11-16T09:14:32.045Z"
+  },
+  "Ứng dụng Cốc Cốc Browser được mô tả có tính năng hữu ích nào?": {
+    "questionId": 1763284474334,
+    "questionText": "Ứng dụng Cốc Cốc Browser được mô tả có tính năng hữu ích nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giúp biến tài liệu giấy thành tệp kỹ thuật số",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tích hợp nhiều tính năng hữu ích như chặn quảng cáo, tải video và nhạc dễ dàng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ dùng để quản lý email",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Hỗ trợ họp trực tuyến 100 người tham gia",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Tích hợp nhiều tính năng hữu ích như chặn quảng cáo, tải video và nhạc dễ dàng"
+    },
+    "updatedAt": "2025-11-16T09:14:37.155Z"
   }
 }
