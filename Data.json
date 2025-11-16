@@ -3126,5 +3126,39 @@
       "optionText": "2. Dữ liệu công khai, riêng tư, nội bộ, bí mật, tuyệt mật"
     },
     "updatedAt": "2025-11-16T07:51:32.960Z"
+  },
+  "Ứng dụng chỉnh sửa ảnh miễn phí nào của Google, với nhiều bộ lọc và công cụ chuyên nghiệp, được nhắc đến trong bài học?": {
+    "questionId": 1763282013462,
+    "questionText": "Ứng dụng chỉnh sửa ảnh miễn phí nào của Google, với nhiều bộ lọc và công cụ chuyên nghiệp, được nhắc đến trong bài học?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Audacity",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "CapCut",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Snapseed",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "iMovie",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Snapseed"
+    },
+    "updatedAt": "2025-11-16T08:33:38.392Z"
   }
 }
