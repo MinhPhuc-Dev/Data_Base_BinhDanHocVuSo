@@ -6758,5 +6758,39 @@
       "optionText": "2. Dấu trừ (-)"
     },
     "updatedAt": "2025-11-16T13:42:22.735Z"
+  },
+  "Bước cuối cùng trong Quy trình chia sẻ hình ảnh, video, âm thanh, tệp tin cơ bản là gì?": {
+    "questionId": 1763300548046,
+    "questionText": "Bước cuối cùng trong Quy trình chia sẻ hình ảnh, video, âm thanh, tệp tin cơ bản là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chọn công cụ phù hợp",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Xác nhận và theo dõi người nhận đã xem/tải về chưa",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Kiểm tra kích thước file trước khi gửi",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Gửi trực tiếp hoặc tạo liên kết",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Xác nhận và theo dõi người nhận đã xem/tải về chưa"
+    },
+    "updatedAt": "2025-11-16T13:42:31.008Z"
   }
 }
