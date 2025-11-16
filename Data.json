@@ -2486,5 +2486,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T07:50:00.184Z"
+  },
+  "Một ví dụ của xã hội số trong lĩnh vực y tế là gì?": {
+    "questionId": 1763279402040,
+    "questionText": "Một ví dụ của xã hội số trong lĩnh vực y tế là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Khám bệnh trực tiếp tại bệnh viện",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Khám chữa bệnh từ xa qua video call",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Mua thuốc không cần đơn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tự chữa bệnh không cần bác sĩ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Khám chữa bệnh từ xa qua video call"
+    },
+    "updatedAt": "2025-11-16T07:50:04.945Z"
   }
 }
