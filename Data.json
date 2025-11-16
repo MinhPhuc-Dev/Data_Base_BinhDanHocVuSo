@@ -5440,5 +5440,34 @@
       "optionText": "1. 30%"
     },
     "updatedAt": "2025-11-16T09:15:44.335Z"
+  },
+  "Hình thức nộp hồ sơ yêu cầu dịch vụ nào được ưu tiên để được tiếp nhận, xử lý kịp thời hơn?": {
+    "questionId": 1763284548236,
+    "questionText": "Hình thức nộp hồ sơ yêu cầu dịch vụ nào được ưu tiên để được tiếp nhận, xử lý kịp thời hơn?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Nộp trực tuyến thông qua Cổng dịch vụ công",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ban hành văn bản điện tử trên hệ thống quản lý văn bản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gửi qua đường bưu điện (VnPost)",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Nộp trực tuyến thông qua Cổng dịch vụ công"
+    },
+    "updatedAt": "2025-11-16T09:15:50.784Z"
   }
 }
