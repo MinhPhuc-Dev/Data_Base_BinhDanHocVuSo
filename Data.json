@@ -7902,5 +7902,39 @@
       "optionText": "1. VNeID"
     },
     "updatedAt": "2025-11-16T16:01:06.466Z"
+  },
+  "Công nghệ số giúp chúng ta kết nối, học tập, làm việc và … hiệu quả hơn trong kỷ nguyên số. (Công nghệ số giúp con người làm việc hiệu quả hơn)": {
+    "questionId": 1763308879075,
+    "questionText": "Công nghệ số giúp chúng ta kết nối, học tập, làm việc và … hiệu quả hơn trong kỷ nguyên số. (Công nghệ số giúp con người làm việc hiệu quả hơn)",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giải trí",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Du lịch",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cập nhật",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chia sẻ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Giải trí"
+    },
+    "updatedAt": "2025-11-16T16:01:25.585Z"
   }
 }
