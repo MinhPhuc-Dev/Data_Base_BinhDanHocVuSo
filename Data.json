@@ -5736,5 +5736,34 @@
       "optionText": "2. Windows + G"
     },
     "updatedAt": "2025-11-16T10:54:49.922Z"
+  },
+  "Đối với các ý kiến trên mạng xã hội, Quy tắc ứng xử khuyến nghị các Cơ quan Nhà nước nên làm gì?": {
+    "questionId": 1763290519744,
+    "questionText": "Đối với các ý kiến trên mạng xã hội, Quy tắc ứng xử khuyến nghị các Cơ quan Nhà nước nên làm gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bỏ qua các ý kiến không liên quan",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Xóa các bình luận tiêu cực",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Nên có phản hồi những ý kiến trên mạng xã hội",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "3. Nên có phản hồi những ý kiến trên mạng xã hội"
+    },
+    "updatedAt": "2025-11-16T10:55:23.497Z"
   }
 }
