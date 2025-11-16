@@ -8481,5 +8481,39 @@
       "optionText": "3. 40 phút"
     },
     "updatedAt": "2025-11-16T16:22:39.491Z"
+  },
+  "Quy trình khám bệnh từ xa được trình bày trong chuyên đề 4: Giao tiếp và hợp tác trên môi trường số bao gồm ba bước đơn giản nào?": {
+    "questionId": 1763310548028,
+    "questionText": "Quy trình khám bệnh từ xa được trình bày trong chuyên đề 4: Giao tiếp và hợp tác trên môi trường số bao gồm ba bước đơn giản nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đặt lịch trên ứng dụng -> Kết nối bác sĩ qua video call -> Nhận tư vấn & đơn thuốc",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mở ứng dụng -> Xếp hàng -> Nhận đơn thuốc",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Khám tổng quát -> Tư vấn qua điện thoại -> Đặt mua thuốc",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Gọi điện hẹn giờ -> Đến bệnh viện -> Thanh toán",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Đặt lịch trên ứng dụng -> Kết nối bác sĩ qua video call -> Nhận tư vấn & đơn thuốc"
+    },
+    "updatedAt": "2025-11-16T16:29:14.677Z"
   }
 }
