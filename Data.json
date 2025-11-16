@@ -4896,5 +4896,39 @@
       "optionText": "2. Hình ảnh"
     },
     "updatedAt": "2025-11-16T08:54:28.699Z"
+  },
+  "Khi chụp ảnh trên máy tính bằng cách ấn nút Prt Src, sau khi màn hình hiển thị chế độ chụp ảnh màn hình, bước tiếp theo là gì?": {
+    "questionId": 1763283278971,
+    "questionText": "Khi chụp ảnh trên máy tính bằng cách ấn nút Prt Src, sau khi màn hình hiển thị chế độ chụp ảnh màn hình, bước tiếp theo là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ta chọn 1 điểm trên màn hình sau đó kéo thả để tạo vùng ảnh cần chụp",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Máy tính yêu cầu đặt tên file ngay lập tức",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Màn hình sẽ hiển thị thông báo dưới góc phải",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ảnh sẽ được lưu ngay vào Thư viện",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Ta chọn 1 điểm trên màn hình sau đó kéo thả để tạo vùng ảnh cần chụp."
+    },
+    "updatedAt": "2025-11-16T08:54:46.052Z"
   }
 }
