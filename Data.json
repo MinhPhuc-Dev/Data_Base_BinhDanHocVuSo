@@ -5168,5 +5168,39 @@
       "optionText": "4. Xác thực chữ ký số"
     },
     "updatedAt": "2025-11-16T09:13:23.439Z"
+  },
+  "\"Chia sẻ giới hạn\" được mô tả là phù hợp cho loại nội dung nào?": {
+    "questionId": 1763284406094,
+    "questionText": "\"Chia sẻ giới hạn\" được mô tả là phù hợp cho loại nội dung nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tài liệu làm việc nhóm, ảnh gia đình",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tài liệu quan trọng, tài liệu mật, có thời hạn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Poster sự kiện, thông báo công khai",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thông tin sai sự thật, chưa kiểm chứng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Tài liệu quan trọng, tài liệu mật, có thời hạn"
+    },
+    "updatedAt": "2025-11-16T09:13:29.400Z"
   }
 }
