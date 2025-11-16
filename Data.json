@@ -3364,5 +3364,39 @@
       "optionText": "1. Chọn ngân hàng có sẵn, Chọn ví điện tử, và Thanh toán qua các ngân hàng khác thông qua VNPT MONEY"
     },
     "updatedAt": "2025-11-16T08:34:29.895Z"
+  },
+  "Chữ ký điện tử được tạo lập dưới dạng dữ liệu điện tử có vai trò gì?": {
+    "questionId": 1763282071780,
+    "questionText": "Chữ ký điện tử được tạo lập dưới dạng dữ liệu điện tử có vai trò gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ là hình ảnh chữ ký quét từ giấy",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ dùng để xác thực giao dịch tài chính",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Xác nhận chủ thể ký và khẳng định sự chấp thuận đối với thông điệp dữ liệu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Dữ liệu không thể thay đổi sau khi ký",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Xác nhận chủ thể ký và khẳng định sự chấp thuận đối với thông điệp dữ liệu."
+    },
+    "updatedAt": "2025-11-16T08:34:34.880Z"
   }
 }
