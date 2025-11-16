@@ -3981,5 +3981,39 @@
       "optionText": "2. 70%"
     },
     "updatedAt": "2025-11-16T08:44:28.099Z"
+  },
+  "Chức năng chính của công cụ BreeZip là gì?": {
+    "questionId": 1763282701938,
+    "questionText": "Chức năng chính của công cụ BreeZip là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Lưu trữ đám mây 15 GB miễn phí",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉnh sửa tệp PDF chuyên sâu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tạo bài thuyết trình",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giúp mở và giải nén các tệp tin được nén dưới nhiều định dạng phổ biến như .ZIP, .RAR, .7z",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Giúp mở và giải nén các tệp tin được nén dưới nhiều định dạng phổ biến như .ZIP, .RAR, .7z"
+    },
+    "updatedAt": "2025-11-16T08:45:08.140Z"
   }
 }
