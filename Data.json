@@ -3947,5 +3947,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T08:44:24.227Z"
+  },
+  "Trong xây dựng xã hội số theo đề án chuyển đổi quốc gia, mục tiêu đến năm 2025 là bao nhiêu % dân số trưởng thành có điện thoại thông minh?": {
+    "questionId": 1763282666126,
+    "questionText": "Trong xây dựng xã hội số theo đề án chuyển đổi quốc gia, mục tiêu đến năm 2025 là bao nhiêu % dân số trưởng thành có điện thoại thông minh?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "60%",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "70%",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "50%",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "80%",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. 70%"
+    },
+    "updatedAt": "2025-11-16T08:44:28.099Z"
   }
 }
