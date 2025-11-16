@@ -6724,5 +6724,39 @@
       "optionText": "Để có thể ký số văn bản hoặc tài liệu điện tử, ngoài chứng thư CKS, ta cần có điều kiện: Cần có USB Token. \n\nVậy câu trả lời đúng là: 4. Cần có USB Token."
     },
     "updatedAt": "2025-11-16T13:42:15.477Z"
+  },
+  "Để loại bỏ nội dung không mong muốn khỏi kết quả tìm kiếm, ta dùng ký hiệu nào?": {
+    "questionId": 1763300540635,
+    "questionText": "Để loại bỏ nội dung không mong muốn khỏi kết quả tìm kiếm, ta dùng ký hiệu nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Dấu chấm than (!)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dấu trừ (-)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Dấu gạch chéo (/)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Dấu cộng (+)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Dấu trừ (-)"
+    },
+    "updatedAt": "2025-11-16T13:42:22.735Z"
   }
 }
