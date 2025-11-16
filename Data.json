@@ -2144,5 +2144,39 @@
       "optionText": "2. Microsoft Word"
     },
     "updatedAt": "2025-11-16T07:48:10.979Z"
+  },
+  "PDF X là công cụ hiệu quả để thực hiện các thao tác nào trên tệp PDF?": {
+    "questionId": 1763279292925,
+    "questionText": "PDF X là công cụ hiệu quả để thực hiện các thao tác nào trên tệp PDF?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ xem tệp PDF",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Gõ tiếng Việt và in tài liệu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ghi chú, điền biểu mẫu và thực hiện chỉnh sửa cơ bản trên các tệp PDF",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thiết kế đồ họa vector",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Ghi chú, điền biểu mẫu và thực hiện chỉnh sửa cơ bản trên các tệp PDF"
+    },
+    "updatedAt": "2025-11-16T07:48:15.616Z"
   }
 }
