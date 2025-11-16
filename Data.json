@@ -2246,5 +2246,39 @@
       "optionText": "1. Xây dựng thể chế, chính sách"
     },
     "updatedAt": "2025-11-16T07:48:46.846Z"
+  },
+  "Theo tài liệu học ở chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI), hành vi nào sau đây vi phạm nguyên tắc đạo đức khi sử dụng AI?": {
+    "questionId": 1763279328809,
+    "questionText": "Theo tài liệu học ở chuyên đề 1.2. Kiến thức về trí tuệ nhân tạo (AI), hành vi nào sau đây vi phạm nguyên tắc đạo đức khi sử dụng AI?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Nhờ AI gợi ý ý tưởng thiết kế",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Sử dụng AI để học ngoại ngữ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Dùng AI để tạo và phát tán tin giả (deepfake) trên mạng xã hội",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nhờ AI viết nháp báo cáo",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Dùng AI để tạo và phát tán tin giả (deepfake) trên mạng xã hội"
+    },
+    "updatedAt": "2025-11-16T07:48:51.189Z"
   }
 }
