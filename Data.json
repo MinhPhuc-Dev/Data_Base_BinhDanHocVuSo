@@ -8913,5 +8913,39 @@
       "optionText": "2. Quy tắc An toàn, bảo mật thông tin và Quy tắc Tôn trọng, tuân thủ pháp luật"
     },
     "updatedAt": "2025-11-16T16:47:38.653Z"
+  },
+  "\"Chữ ký số công cộng\" là chữ ký số được sử dụng chủ yếu trong hoạt động nào?": {
+    "questionId": 1763311815584,
+    "questionText": "\"Chữ ký số công cộng\" là chữ ký số được sử dụng chủ yếu trong hoạt động nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hoạt động ngoại giao",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Hoạt động công cộng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Hoạt động quân sự",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Hoạt động nội bộ doanh nghiệp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "\"Hoạt động công cộng\""
+    },
+    "updatedAt": "2025-11-16T16:50:21.731Z"
   }
 }
