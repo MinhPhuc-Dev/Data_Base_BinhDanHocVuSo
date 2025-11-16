@@ -2040,5 +2040,41 @@
       "optionText": "2. Từ Thùng rác (Recycle Bin) hoặc Recently Deleted"
     },
     "updatedAt": "2025-11-16T07:47:22.356Z"
+  },
+  "Để đảm bảo an toàn dữ liệu, biện pháp bảo mật nào được khuyến nghị đầu tiên?": {
+    "questionId": 1763279244063,
+    "questionText": "Để đảm bảo an toàn dữ liệu, biện pháp bảo mật nào được khuyến nghị đầu tiên?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Hạn chế chia sẻ dữ liệu cá nhân",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Sử dụng mật khẩu mạnh và riêng biệt cho các tài khoản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cập nhật phần mềm chống virus thường xuyên",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Mã hóa dữ liệu nhạy cảm",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Sử dụng mật khẩu mạnh và riêng biệt cho các tài khoản",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-16T07:47:26.308Z"
   }
 }
