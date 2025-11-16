@@ -8377,5 +8377,39 @@
       "optionText": "4. Tăng tốc, nâng cao chất lượng và cá nhân hóa quá trình sáng tạo"
     },
     "updatedAt": "2025-11-16T16:20:59.986Z"
+  },
+  "Chatbot thường có nhiệm vụ chính là gì trên các website hoặc ứng dụng ngân hàng?": {
+    "questionId": 1763310083461,
+    "questionText": "Chatbot thường có nhiệm vụ chính là gì trên các website hoặc ứng dụng ngân hàng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Trả lời tự động những câu hỏi phổ biến",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tóm tắt tài liệu dài",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Dịch văn bản",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Đặt lịch họp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Trả lời tự động những câu hỏi phổ biến"
+    },
+    "updatedAt": "2025-11-16T16:21:29.950Z"
   }
 }
