@@ -9010,5 +9010,39 @@
       "optionText": "3. Dữ liệu điện tử"
     },
     "updatedAt": "2025-11-16T16:50:51.248Z"
+  },
+  "Công cụ chỉnh sửa video CapCut được mô tả với ưu điểm nào sau đây?": {
+    "questionId": 1763312165964,
+    "questionText": "Công cụ chỉnh sửa video CapCut được mô tả với ưu điểm nào sau đây?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giao diện thân thiện, cho phép cắt ghép, thêm nhạc nền, hiệu ứng và phụ đề dễ dàng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Là công cụ chuyên nghiệp của Apple",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ có sẵn trên hệ điều hành iOS",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ dành cho người có kỹ năng chuyên môn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Giao diện thân thiện, cho phép cắt ghép, thêm nhạc nền, hiệu ứng và phụ đề dễ dàng"
+    },
+    "updatedAt": "2025-11-16T16:56:12.480Z"
   }
 }
