@@ -1778,5 +1778,39 @@
       "optionText": "4. Quá trình kết hợp nhiều loại thông tin số lại với nhau để tạo ra sản phẩm truyền thông hoàn chỉnh."
     },
     "updatedAt": "2025-11-16T07:26:08.652Z"
+  },
+  "Công cụ nào được nhắc đến là phần mềm chỉnh sửa âm thanh mạnh mẽ, miễn phí, cho phép lọc tạp âm và tăng giảm âm lượng?": {
+    "questionId": 1763277971661,
+    "questionText": "Công cụ nào được nhắc đến là phần mềm chỉnh sửa âm thanh mạnh mẽ, miễn phí, cho phép lọc tạp âm và tăng giảm âm lượng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Snapseed",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "iMovie",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "CapCut",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Audacity",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Audacity"
+    },
+    "updatedAt": "2025-11-16T07:26:13.627Z"
   }
 }
