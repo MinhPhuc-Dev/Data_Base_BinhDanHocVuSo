@@ -8719,5 +8719,34 @@
       "optionText": "4. Driver Token trên máy tính"
     },
     "updatedAt": "2025-11-16T16:37:15.463Z"
+  },
+  "Phạm vi điều chỉnh của Bộ Quy tắc là các hành vi của đối tượng nào trên mạng xã hội?": {
+    "questionId": 1763311036065,
+    "questionText": "Phạm vi điều chỉnh của Bộ Quy tắc là các hành vi của đối tượng nào trên mạng xã hội?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Các hành vi của cá nhân, tổ chức trên mạng xã hội",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ các hành vi liên quan đến kinh doanh",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ các hành vi của cán bộ, công chức",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Các hành vi của cá nhân, tổ chức trên mạng xã hội"
+    },
+    "updatedAt": "2025-11-16T16:37:22.676Z"
   }
 }
