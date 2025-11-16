@@ -7834,5 +7834,39 @@
       "optionText": "2. Ngày 17/6/2021"
     },
     "updatedAt": "2025-11-16T15:18:55.532Z"
+  },
+  "Hành vi chia sẻ nào sau đây được bài học tài liệu cảnh báo có thể bị xử phạt theo quy định pháp luật về an ninh mạng?": {
+    "questionId": 1763306333844,
+    "questionText": "Hành vi chia sẻ nào sau đây được bài học tài liệu cảnh báo có thể bị xử phạt theo quy định pháp luật về an ninh mạng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chia sẻ kinh nghiệm làm việc để đồng nghiệp học hỏi",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chia sẻ hình ảnh hoạt động ngoại khóa",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chia sẻ thông tin sai sự thật hoặc tin tức chưa được kiểm chứng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chia sẻ bài giảng, tutorial hướng dẫn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Chia sẻ thông tin sai sự thật hoặc tin tức chưa được kiểm chứng"
+    },
+    "updatedAt": "2025-11-16T15:19:00.743Z"
   }
 }
