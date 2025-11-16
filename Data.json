@@ -8816,5 +8816,39 @@
       "optionText": "2. Xác thực danh tính các bên và đảm bảo nội dung hợp đồng không bị thay đổi sau khi ký"
     },
     "updatedAt": "2025-11-16T16:40:09.732Z"
+  },
+  "Để bắt đầu nộp hồ sơ trực tuyến trên Cổng dịch vụ công, thao tác đầu tiên người dùng cần làm là gì?": {
+    "questionId": 1763311479099,
+    "questionText": "Để bắt đầu nộp hồ sơ trực tuyến trên Cổng dịch vụ công, thao tác đầu tiên người dùng cần làm là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chọn cơ quan thực hiện",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Đăng tải thành phần hồ sơ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Nhập thủ tục cần nộp và nhấn Tìm kiếm",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nhấn nút \"Đồng ý\"",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Chọn cơ quan thực hiện."
+    },
+    "updatedAt": "2025-11-16T16:44:45.283Z"
   }
 }
