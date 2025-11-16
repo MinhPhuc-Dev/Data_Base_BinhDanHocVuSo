@@ -5605,5 +5605,39 @@
       "optionText": "1. Luật Giao dịch điện tử năm 2023"
     },
     "updatedAt": "2025-11-16T09:16:44.854Z"
+  },
+  "Google Drive tích hợp sẵn các công cụ văn phòng trực tuyến nào để chỉnh sửa?": {
+    "questionId": 1763284618595,
+    "questionText": "Google Drive tích hợp sẵn các công cụ văn phòng trực tuyến nào để chỉnh sửa?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Unikey, BreeZip",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Adobe Acrobat, Photoshop",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Google Docs, Sheets, Slides",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Microsoft Word, Excel, PowerPoint",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Google Docs, Sheets, Slides"
+    },
+    "updatedAt": "2025-11-16T09:17:01.188Z"
   }
 }
