@@ -6952,5 +6952,39 @@
       "optionText": "4. Quá trình thay đổi tổng thể toàn diện dựa trên công nghệ số"
     },
     "updatedAt": "2025-11-16T14:28:19.970Z"
+  },
+  "Khi đặt tên tệp, nên sử dụng tên có ý nghĩa mô tả nội dung thay vì tên chung chung vì mục đích gì?": {
+    "questionId": 1763303305927,
+    "questionText": "Khi đặt tên tệp, nên sử dụng tên có ý nghĩa mô tả nội dung thay vì tên chung chung vì mục đích gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Để gán quyền truy cập dễ dàng hơn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Gây nhầm lẫn cho người khác",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Giúp tiết kiệm thời gian và công sức đáng kể khi làm việc với dữ liệu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giúp tệp nặng hơn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Giúp tiết kiệm thời gian và công sức đáng kể khi làm việc với dữ liệu"
+    },
+    "updatedAt": "2025-11-16T14:28:29.028Z"
   }
 }
