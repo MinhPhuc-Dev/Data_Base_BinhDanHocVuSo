@@ -3877,5 +3877,39 @@
       "optionText": "3. 15 GB"
     },
     "updatedAt": "2025-11-16T08:43:52.466Z"
+  },
+  "Một trong những yếu tố then chốt bảo đảm thành công của chuyển đổi số là gì?": {
+    "questionId": 1763282657575,
+    "questionText": "Một trong những yếu tố then chốt bảo đảm thành công của chuyển đổi số là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Du lịch cộng đồng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Phát triển nông nghiệp hữu cơ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "An toàn, an ninh mạng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giáo dục ngoại ngữ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. An toàn, an ninh mạng"
+    },
+    "updatedAt": "2025-11-16T08:44:19.320Z"
   }
 }
