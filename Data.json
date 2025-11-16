@@ -3669,5 +3669,39 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-16T08:43:02.605Z"
+  },
+  "Trình duyệt web có vai trò gì?": {
+    "questionId": 1763282584954,
+    "questionText": "Trình duyệt web có vai trò gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Để nghe nhạc và xem phim",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Để soạn thảo văn bản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Để chụp và chỉnh sửa hình ảnh",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Là phương tiện để vào Internet",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Là phương tiện để vào Internet"
+    },
+    "updatedAt": "2025-11-16T08:43:07.320Z"
   }
 }
