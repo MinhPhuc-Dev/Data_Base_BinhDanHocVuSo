@@ -2006,5 +2006,39 @@
       "optionText": "Kết quả đầu tiên có thể là quảng cáo được trả phí."
     },
     "updatedAt": "2025-11-16T07:47:17.367Z"
+  },
+  "Khi lỡ tay xóa nhầm một tệp quan trọng, chúng ta có thể khôi phục lại tệp đó ở đâu?": {
+    "questionId": 1763279239116,
+    "questionText": "Khi lỡ tay xóa nhầm một tệp quan trọng, chúng ta có thể khôi phục lại tệp đó ở đâu?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Từ thư mục Downloads",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Từ Thùng rác (Recycle Bin) hoặc Recently Deleted",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Từ ổ cứng gắn ngoài",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Trên dịch vụ lưu trữ đám mây",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Từ Thùng rác (Recycle Bin) hoặc Recently Deleted"
+    },
+    "updatedAt": "2025-11-16T07:47:22.356Z"
   }
 }
