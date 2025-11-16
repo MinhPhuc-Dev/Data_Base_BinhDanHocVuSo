@@ -8748,5 +8748,39 @@
       "optionText": "1. Các hành vi của cá nhân, tổ chức trên mạng xã hội"
     },
     "updatedAt": "2025-11-16T16:37:22.676Z"
+  },
+  "Việc gửi văn bản đề nghị Gia hạn hoặc Thay đổi thông tin chứng thư chữ ký số (Mẫu số 04) được gửi về cơ quan nào tại cấp tỉnh (theo hướng dẫn của Quảng Ngãi)?": {
+    "questionId": 1763311177836,
+    "questionText": "Việc gửi văn bản đề nghị Gia hạn hoặc Thay đổi thông tin chứng thư chữ ký số (Mẫu số 04) được gửi về cơ quan nào tại cấp tỉnh (theo hướng dẫn của Quảng Ngãi)?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ban Cơ yếu Chính phủ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "VNPT",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cục Chứng thực số và Bảo mật thông tin",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Sở Khoa học và Công nghệ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Cục Chứng thực số và Bảo mật thông tin"
+    },
+    "updatedAt": "2025-11-16T16:39:44.437Z"
   }
 }
