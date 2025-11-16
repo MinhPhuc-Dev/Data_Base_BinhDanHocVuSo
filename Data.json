@@ -4389,5 +4389,39 @@
       "optionText": "Để ký số."
     },
     "updatedAt": "2025-11-16T08:47:11.717Z"
+  },
+  "Công cụ nào sau đây được mô tả là soạn thảo trực tuyến, hỗ trợ cộng tác nhóm và cho phép nhiều người cùng chỉnh sửa một lúc?": {
+    "questionId": 1763282833634,
+    "questionText": "Công cụ nào sau đây được mô tả là soạn thảo trực tuyến, hỗ trợ cộng tác nhóm và cho phép nhiều người cùng chỉnh sửa một lúc?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Microsoft Excel",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Google Docs",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Notion",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Microsoft Word",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Google Docs"
+    },
+    "updatedAt": "2025-11-16T08:47:16.377Z"
   }
 }
