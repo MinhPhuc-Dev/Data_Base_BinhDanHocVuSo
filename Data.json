@@ -5503,5 +5503,39 @@
       "optionText": "4. Bốn (Văn bản, Hình ảnh, Video và Âm thanh)"
     },
     "updatedAt": "2025-11-16T09:16:17.826Z"
+  },
+  "Xã hội số hướng đến mục tiêu gì?": {
+    "questionId": 1763284584596,
+    "questionText": "Xã hội số hướng đến mục tiêu gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tăng chênh lệch số",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mọi người dân đều được tiếp cận và hưởng lợi từ công nghệ số",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ tập trung vào giới trẻ",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giảm cơ hội học tập trực tuyến",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Mọi người dân đều được tiếp cận và hưởng lợi từ công nghệ số"
+    },
+    "updatedAt": "2025-11-16T09:16:26.865Z"
   }
 }
