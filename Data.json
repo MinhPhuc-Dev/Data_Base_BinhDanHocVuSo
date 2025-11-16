@@ -5702,5 +5702,39 @@
       "optionText": "1. An toàn, lành mạnh"
     },
     "updatedAt": "2025-11-16T09:17:26.274Z"
+  },
+  "Tổ hợp phím nào cần ấn trên laptop hoặc desktop để tiến hành quay video màn hình (Screen Recording)?": {
+    "questionId": 1763290487362,
+    "questionText": "Tổ hợp phím nào cần ấn trên laptop hoặc desktop để tiến hành quay video màn hình (Screen Recording)?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Ctrl + P",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Windows + G",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ctrl + Shift + R",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Alt + F4",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Windows + G"
+    },
+    "updatedAt": "2025-11-16T10:54:49.922Z"
   }
 }
