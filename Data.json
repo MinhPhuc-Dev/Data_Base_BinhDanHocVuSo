@@ -4457,5 +4457,39 @@
       "optionText": "3. Infographic"
     },
     "updatedAt": "2025-11-16T08:47:22.202Z"
+  },
+  "Hai trình duyệt phổ biến được dùng ở Việt Nam được đề cập ở nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số là gì?": {
+    "questionId": 1763282844167,
+    "questionText": "Hai trình duyệt phổ biến được dùng ở Việt Nam được đề cập ở nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bing và Yahoo",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Cốc Cốc và Chrome",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Firefox và Safari",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Edge và Opera",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Cốc Cốc và Chrome"
+    },
+    "updatedAt": "2025-11-16T08:47:25.634Z"
   }
 }
