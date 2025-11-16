@@ -1812,5 +1812,39 @@
       "optionText": "4. Audacity"
     },
     "updatedAt": "2025-11-16T07:26:13.627Z"
+  },
+  "Theo nội dung chuyên đề 5: Sáng tạo nội dung số, khi sử dụng AI để tạo nội dung, điều quan trọng nhất cần kiểm tra để tránh vi phạm bản quyền là gì?": {
+    "questionId": 1763277977051,
+    "questionText": "Theo nội dung chuyên đề 5: Sáng tạo nội dung số, khi sử dụng AI để tạo nội dung, điều quan trọng nhất cần kiểm tra để tránh vi phạm bản quyền là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Số lượng từ được AI tạo ra",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chính sách sử dụng thương mại của từng công cụ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Khả năng tương thích của tệp đầu ra",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tính thẩm mỹ của hình ảnh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Chính sách sử dụng thương mại của từng công cụ"
+    },
+    "updatedAt": "2025-11-16T07:26:19.043Z"
   }
 }
