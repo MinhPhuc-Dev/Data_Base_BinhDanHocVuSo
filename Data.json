@@ -7190,5 +7190,34 @@
       "optionText": "4. Người lớn tuổi hoặc người ở vùng sâu vùng xa"
     },
     "updatedAt": "2025-11-16T15:04:42.337Z"
+  },
+  "Khi chia sẻ thông tin trên mạng xã hội, cá nhân và tổ chức nên chia sẻ những thông tin có nguồn như thế nào?": {
+    "questionId": 1763305484550,
+    "questionText": "Khi chia sẻ thông tin trên mạng xã hội, cá nhân và tổ chức nên chia sẻ những thông tin có nguồn như thế nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Nguồn chính thống, đáng tin cậy",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nguồn mới nhất và thu hút nhất",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Nguồn từ bạn bè, đồng nghiệp",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Nguồn chính thống, đáng tin cậy"
+    },
+    "updatedAt": "2025-11-16T15:04:48.010Z"
   }
 }
