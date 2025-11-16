@@ -1875,5 +1875,34 @@
       "optionText": "3. Tính đồng bộ, thống nhất"
     },
     "updatedAt": "2025-11-16T07:46:30.235Z"
+  },
+  "Theo quy trình cấp mới, hồ sơ đề nghị cấp chứng thư CKS chuyên dùng công vụ được gửi đến tổ chức nào?": {
+    "questionId": 1763279192035,
+    "questionText": "Theo quy trình cấp mới, hồ sơ đề nghị cấp chứng thư CKS chuyên dùng công vụ được gửi đến tổ chức nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Sở Khoa học và Công nghệ tỉnh Quảng Ngãi",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "UBND tỉnh Quảng Ngãi",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cục Chứng thực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "3. Cục Chứng thực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ"
+    },
+    "updatedAt": "2025-11-16T07:46:34.287Z"
   }
 }
