@@ -2719,5 +2719,39 @@
       "optionText": "1. Ban quản trị mạng xã hội \n2. Cơ quan chủ quản \n3. Công an địa phương"
     },
     "updatedAt": "2025-11-16T07:50:29.757Z"
+  },
+  "Phần mềm Zoom được nhắc đến trong nội dung chuyên đề 2: Sử dụng thiết bị số và phần mềm có chức năng?": {
+    "questionId": 1763279431656,
+    "questionText": "Phần mềm Zoom được nhắc đến trong nội dung chuyên đề 2: Sử dụng thiết bị số và phần mềm có chức năng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Gửi email",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Soạn thảo văn bản",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tính toán",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Họp trực tuyến",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Họp trực tuyến"
+    },
+    "updatedAt": "2025-11-16T07:50:33.670Z"
   }
 }
