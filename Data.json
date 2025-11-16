@@ -8884,5 +8884,34 @@
       "optionText": "1. Phần mềm VGCA Sign Tool"
     },
     "updatedAt": "2025-11-16T16:47:33.160Z"
+  },
+  "Quy tắc chung trong Bộ Quy tắc ứng xử bao gồm Quy tắc Trách nhiệm, Quy tắc Lành mạnh, và những quy tắc nào khác?": {
+    "questionId": 1763311652169,
+    "questionText": "Quy tắc chung trong Bộ Quy tắc ứng xử bao gồm Quy tắc Trách nhiệm, Quy tắc Lành mạnh, và những quy tắc nào khác?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Quy tắc Tốc độ và Quy tắc Hiệu quả",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Quy tắc An toàn, bảo mật thông tin và Quy tắc Tôn trọng, tuân thủ pháp luật",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Quy tắc Công khai và Quy tắc Dễ hiểu",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "2. Quy tắc An toàn, bảo mật thông tin và Quy tắc Tôn trọng, tuân thủ pháp luật"
+    },
+    "updatedAt": "2025-11-16T16:47:38.653Z"
   }
 }
