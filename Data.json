@@ -1972,5 +1972,39 @@
       "optionText": "4. Gửi qua ứng dụng có mật khẩu bảo vệ hoặc chỉ định rõ người được nhận"
     },
     "updatedAt": "2025-11-16T07:46:42.639Z"
+  },
+  "Theo nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số, tại sao không nên tin ngay kết quả tìm kiếm đầu tiên?": {
+    "questionId": 1763279235539,
+    "questionText": "Theo nội dung chuyên đề 3: Khai thác thông tin và dữ liệu số, tại sao không nên tin ngay kết quả tìm kiếm đầu tiên?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Vì kết quả đầu tiên không bao giờ cập nhật",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Kết quả đầu tiên có thể là quảng cáo được trả phí",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Vì kết quả đầu tiên luôn là tin giả",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Vì kết quả đầu tiên thường bị lỗi",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Kết quả đầu tiên có thể là quảng cáo được trả phí."
+    },
+    "updatedAt": "2025-11-16T07:47:17.367Z"
   }
 }
