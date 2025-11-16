@@ -8617,5 +8617,39 @@
       "optionText": "2. Học mọi lúc, mọi nơi"
     },
     "updatedAt": "2025-11-16T16:32:22.392Z"
+  },
+  "Khi ký số trên phần mềm quản lý văn bản và điều hành iOffice (dùng USB Token), người dùng cần thực hiện thao tác nào sau khi nhấn nút \"Ký số token\"?": {
+    "questionId": 1763310876079,
+    "questionText": "Khi ký số trên phần mềm quản lý văn bản và điều hành iOffice (dùng USB Token), người dùng cần thực hiện thao tác nào sau khi nhấn nút \"Ký số token\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chọn vị trí ký (nếu chưa đúng vị trí) và nhập mật khẩu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nhấn OK để hoàn tất",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cấu hình dịch vụ chứng thực",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tải lên hình ảnh chữ ký",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Chọn vị trí ký (nếu chưa đúng vị trí) và nhập mật khẩu"
+    },
+    "updatedAt": "2025-11-16T16:34:42.342Z"
   }
 }
