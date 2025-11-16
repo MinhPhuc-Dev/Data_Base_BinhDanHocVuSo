@@ -5639,5 +5639,39 @@
       "optionText": "3. Google Docs, Sheets, Slides"
     },
     "updatedAt": "2025-11-16T09:17:01.188Z"
+  },
+  "Lợi ích của các ứng dụng thanh toán trực tuyến được đề cập trong tài liệu là gì?": {
+    "questionId": 1763284637601,
+    "questionText": "Lợi ích của các ứng dụng thanh toán trực tuyến được đề cập trong tài liệu là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giúp tìm kiếm thông tin nhanh chóng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tiện lợi, nhanh chóng và an toàn hơn việc mang tiền mặt",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Cho phép lưu trữ 15 GB tài liệu miễn phí",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Hỗ trợ tạo bài thuyết trình",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Tiện lợi, nhanh chóng và an toàn hơn việc mang tiền mặt"
+    },
+    "updatedAt": "2025-11-16T09:17:19.799Z"
   }
 }
