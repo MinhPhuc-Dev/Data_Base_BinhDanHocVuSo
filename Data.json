@@ -7054,5 +7054,39 @@
       "optionText": "1. Kiểm tra chữ ký số"
     },
     "updatedAt": "2025-11-16T14:28:52.228Z"
+  },
+  "Việc đăng ký chứng thư chữ ký số cá nhân trên ứng dụng VneID hiện nay (tháng 10/2025) có mất phí không?": {
+    "questionId": 1763303347604,
+    "questionText": "Việc đăng ký chứng thư chữ ký số cá nhân trên ứng dụng VneID hiện nay (tháng 10/2025) có mất phí không?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ miễn phí trong giai đoạn thử nghiệm",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Có mất phí, tùy thuộc vào nhà cung cấp dịch vụ",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Miễn phí",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chỉ miễn phí cho người có công với cách mạng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Miễn phí"
+    },
+    "updatedAt": "2025-11-16T14:29:10.802Z"
   }
 }
