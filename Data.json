@@ -4491,5 +4491,39 @@
       "optionText": "2. Cốc Cốc và Chrome"
     },
     "updatedAt": "2025-11-16T08:47:25.634Z"
+  },
+  "Trong ba mức độ quản lý quyền truy cập, mức độ \"Chia sẻ công khai\" có mức độ rủi ro là gì?": {
+    "questionId": 1763282848078,
+    "questionText": "Trong ba mức độ quản lý quyền truy cập, mức độ \"Chia sẻ công khai\" có mức độ rủi ro là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Cao",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Trung bình",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Thấp",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Rất thấp",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Cao"
+    },
+    "updatedAt": "2025-11-16T08:47:30.565Z"
   }
 }
