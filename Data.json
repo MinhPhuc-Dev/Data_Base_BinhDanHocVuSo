@@ -6586,5 +6586,39 @@
       "optionText": "4. Nhanh chóng, tiện lợi, an toàn"
     },
     "updatedAt": "2025-11-16T13:41:26.346Z"
+  },
+  "Theo nội dung ở chuyên đề: Giao tiếp và hợp tác trên môi trường số, Chứng thư chữ ký số là thông điệp dữ liệu nhằm mục đích gì?": {
+    "questionId": 1763300507480,
+    "questionText": "Theo nội dung ở chuyên đề: Giao tiếp và hợp tác trên môi trường số, Chứng thư chữ ký số là thông điệp dữ liệu nhằm mục đích gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bảo vệ bản quyền nội dung số",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Cấp phép kinh doanh",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Hỗ trợ thanh toán trực tuyến",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Xác nhận cơ quan, tổ chức, cá nhân được chứng thực là người ký chữ ký số",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Xác nhận cơ quan, tổ chức, cá nhân được chứng thực là người ký chữ ký số"
+    },
+    "updatedAt": "2025-11-16T13:41:49.928Z"
   }
 }
