@@ -8411,5 +8411,41 @@
       "optionText": "1. Trả lời tự động những câu hỏi phổ biến"
     },
     "updatedAt": "2025-11-16T16:21:29.950Z"
+  },
+  "Khi thao tác trên Cổng dịch vụ công, Sau khi ký số thành công thành phần hồ sơ đầu vào, người dùng chọn nút nào để lưu trữ giấy tờ đó cho những lần sử dụng sau?": {
+    "questionId": 1763310093234,
+    "questionText": "Khi thao tác trên Cổng dịch vụ công, Sau khi ký số thành công thành phần hồ sơ đầu vào, người dùng chọn nút nào để lưu trữ giấy tờ đó cho những lần sử dụng sau?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chọn [Lưu vào kho]",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chọn [Tái sử dụng]",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chọn [Gửi đi]",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chọn [Hoàn thành]",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Chọn [Lưu vào kho]",
+      "optionId": 1,
+      "displayOrder": 1
+    },
+    "updatedAt": "2025-11-16T16:21:39.378Z"
   }
 }
