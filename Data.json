@@ -4731,5 +4731,39 @@
       "optionText": "1. Trở thành tỉnh phát triển khá của cả nước"
     },
     "updatedAt": "2025-11-16T08:53:49.716Z"
+  },
+  "Để tôn trọng bản quyền khi sáng tạo nội dung số, điều gì được khuyến nghị khi tìm kiếm nhạc nền miễn phí?": {
+    "questionId": 1763283233165,
+    "questionText": "Để tôn trọng bản quyền khi sáng tạo nội dung số, điều gì được khuyến nghị khi tìm kiếm nhạc nền miễn phí?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ cần ghi bài học tác giả là đủ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tự động sử dụng nhạc được tạo bởi AI",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Sử dụng bất kỳ bản nhạc nào trên TikTok",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Sử dụng các bài học tài nguyên miễn phí như YouTube Audio Library",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Sử dụng các bài học tài nguyên miễn phí như YouTube Audio Library"
+    },
+    "updatedAt": "2025-11-16T08:54:00.652Z"
   }
 }
