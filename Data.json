@@ -5372,5 +5372,39 @@
       "optionText": "2. 2030"
     },
     "updatedAt": "2025-11-16T09:15:06.651Z"
+  },
+  "Việc cán bộ nhập dữ liệu mật của cơ quan vào AI công cộng có nguy cơ dẫn đến hệ lụy nào nghiêm trọng nhất?": {
+    "questionId": 1763284512844,
+    "questionText": "Việc cán bộ nhập dữ liệu mật của cơ quan vào AI công cộng có nguy cơ dẫn đến hệ lụy nào nghiêm trọng nhất?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Vi phạm nguyên tắc \"Chỉ hỗ trợ\"",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Lộ bí mật công vụ và các hệ lụy pháp lý nghiêm trọng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Làm giảm khả năng sáng tạo của cán bộ",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "AI đưa ra kết quả không chính xác",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Lộ bí mật công vụ và các hệ lụy pháp lý nghiêm trọng"
+    },
+    "updatedAt": "2025-11-16T09:15:15.736Z"
   }
 }
