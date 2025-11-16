@@ -3262,5 +3262,39 @@
       "optionText": "4. Tạo hình ảnh từ mô tả bằng text"
     },
     "updatedAt": "2025-11-16T08:33:50.712Z"
+  },
+  "Mục đích chính của việc thêm ảnh minh họa chất lượng cao vào một khối văn bản dày đặc là gì?": {
+    "questionId": 1763282032685,
+    "questionText": "Mục đích chính của việc thêm ảnh minh họa chất lượng cao vào một khối văn bản dày đặc là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giảm sự nhàm chán và tăng tính trực quan cho người đọc",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Giúp văn bản trở nên trừu tượng hơn",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tăng độ dài của bài viết",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Bắt buộc phải có trong mọi bài viết",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Giảm sự nhàm chán và tăng tính trực quan cho người đọc"
+    },
+    "updatedAt": "2025-11-16T08:33:55.437Z"
   }
 }
