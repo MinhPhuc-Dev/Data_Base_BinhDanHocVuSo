@@ -5032,5 +5032,39 @@
       "optionText": "4. Hiệu quả"
     },
     "updatedAt": "2025-11-16T08:55:07.709Z"
+  },
+  "Phím nào trên bàn phím được dùng để thoát khỏi menu hoặc dừng một hoạt động đang diễn ra?": {
+    "questionId": 1763283305990,
+    "questionText": "Phím nào trên bàn phím được dùng để thoát khỏi menu hoặc dừng một hoạt động đang diễn ra?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Shift",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Esc (Escape)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Spacebar",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Caps Lock",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Esc (Escape)"
+    },
+    "updatedAt": "2025-11-16T08:55:12.348Z"
   }
 }
