@@ -7156,5 +7156,39 @@
       "optionText": "4. Chữ ký số chuyên dùng công vụ"
     },
     "updatedAt": "2025-11-16T15:04:37.611Z"
+  },
+  "Khám bệnh từ xa là giải pháp bổ sung hữu ích đặc biệt cho đối tượng nào?": {
+    "questionId": 1763305479879,
+    "questionText": "Khám bệnh từ xa là giải pháp bổ sung hữu ích đặc biệt cho đối tượng nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉ dành cho trẻ em",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ dành cho cán bộ công chức",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ dành cho người giàu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Người lớn tuổi hoặc người ở vùng sâu vùng xa",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Người lớn tuổi hoặc người ở vùng sâu vùng xa"
+    },
+    "updatedAt": "2025-11-16T15:04:42.337Z"
   }
 }
