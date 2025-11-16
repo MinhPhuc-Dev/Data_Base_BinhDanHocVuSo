@@ -6552,5 +6552,39 @@
       "displayOrder": 4
     },
     "updatedAt": "2025-11-16T13:40:19.759Z"
+  },
+  "Ba lợi ích rõ ràng mà Thanh toán không dùng tiền mặt mang lại là gì?": {
+    "questionId": 1763300483838,
+    "questionText": "Ba lợi ích rõ ràng mà Thanh toán không dùng tiền mặt mang lại là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Miễn phí, thân thiện, bảo mật",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Phổ biến, hiện đại, dễ dàng",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Đa dạng, chuyên nghiệp, tiết kiệm",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Nhanh chóng, tiện lợi, an toàn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Nhanh chóng, tiện lợi, an toàn"
+    },
+    "updatedAt": "2025-11-16T13:41:26.346Z"
   }
 }
