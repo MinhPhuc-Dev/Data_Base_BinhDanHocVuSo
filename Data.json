@@ -4049,5 +4049,39 @@
       "optionText": "1. Xem, Nhận xét, Chỉnh sửa"
     },
     "updatedAt": "2025-11-16T08:45:12.317Z"
+  },
+  "Một trong những lợi ích lớn của chuyển đổi số đối với người dân là gì?": {
+    "questionId": 1763282717608,
+    "questionText": "Một trong những lợi ích lớn của chuyển đổi số đối với người dân là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Giảm cơ hội tiếp cận giáo dục",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tiếp cận dịch vụ công nhanh chóng, minh bạch",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tăng thủ tục hành chính",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Phải đi lại nhiều hơn",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Tiếp cận dịch vụ công nhanh chóng, minh bạch"
+    },
+    "updatedAt": "2025-11-16T08:45:20.166Z"
   }
 }
