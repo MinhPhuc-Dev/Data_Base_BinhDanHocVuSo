@@ -2382,5 +2382,39 @@
       "optionText": "2. Hoạt động minh bạch, hiệu quả hơn"
     },
     "updatedAt": "2025-11-16T07:49:04.733Z"
+  },
+  "Khi cần chia sẻ file có dung lượng lớn (file lớn) và muốn kiểm soát quyền truy cập, hình thức chia sẻ nào được coi là lý tưởng?": {
+    "questionId": 1763279389265,
+    "questionText": "Khi cần chia sẻ file có dung lượng lớn (file lớn) và muốn kiểm soát quyền truy cập, hình thức chia sẻ nào được coi là lý tưởng?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Mạng xã hội (Facebook)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Dịch vụ lưu trữ đám mây (Cloud storage)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Email, vì Email gửi được file dung lượng lớn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ứng dụng nhắn tin (Zalo)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Dịch vụ lưu trữ đám mây (Cloud storage)"
+    },
+    "updatedAt": "2025-11-16T07:49:51.734Z"
   }
 }
