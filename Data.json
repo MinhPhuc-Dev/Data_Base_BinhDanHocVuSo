@@ -2886,5 +2886,39 @@
       "optionText": "3. Chương trình, tệp tin hoặc thư mục"
     },
     "updatedAt": "2025-11-16T07:50:57.706Z"
+  },
+  "Ứng dụng \"Google Dịch\" (Google Translate) hỗ trợ vượt qua rào cản ngôn ngữ là một ví dụ điển hình của nhánh AI nào?": {
+    "questionId": 1763279459657,
+    "questionText": "Ứng dụng \"Google Dịch\" (Google Translate) hỗ trợ vượt qua rào cản ngôn ngữ là một ví dụ điển hình của nhánh AI nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Học máy (Machine Learning)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Lập trình logic (Logic Programming)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Xử lý Ngôn ngữ Tự nhiên (NLP)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thị giác máy tính (Computer Vision)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Xử lý Ngôn ngữ Tự nhiên (NLP)"
+    },
+    "updatedAt": "2025-11-16T07:51:01.729Z"
   }
 }
