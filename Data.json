@@ -3739,5 +3739,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T08:43:11.869Z"
+  },
+  "Khi kết nối Internet trên điện thoại, sau khi mở Cài Đặt (Settings), bước tiếp theo để sử dụng Wi-Fi là gì?": {
+    "questionId": 1763282617624,
+    "questionText": "Khi kết nối Internet trên điện thoại, sau khi mở Cài Đặt (Settings), bước tiếp theo để sử dụng Wi-Fi là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chọn Wi-Fi và xem danh sách mạng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Bật dữ liệu di động",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Kiểm tra SIM",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tìm mục Mạng di động",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Chọn Wi-Fi và xem danh sách mạng"
+    },
+    "updatedAt": "2025-11-16T08:43:39.926Z"
   }
 }
