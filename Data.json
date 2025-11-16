@@ -6792,5 +6792,39 @@
       "optionText": "2. Xác nhận và theo dõi người nhận đã xem/tải về chưa"
     },
     "updatedAt": "2025-11-16T13:42:31.008Z"
+  },
+  "Theo \"Lưu ý quan trọng\" trong quy trình chia sẻ tệp tin, hành động nào giúp \"tiết kiệm băng thông\"?": {
+    "questionId": 1763303123069,
+    "questionText": "Theo \"Lưu ý quan trọng\" trong quy trình chia sẻ tệp tin, hành động nào giúp \"tiết kiệm băng thông\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Xác nhận người nhận đã xem",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Nén file nếu cần thiết",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Đặt tên file rõ ràng, dễ hiểu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Tải lên Cloud storage rồi chia sẻ link",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Nén file nếu cần thiết"
+    },
+    "updatedAt": "2025-11-16T14:25:25.696Z"
   }
 }
