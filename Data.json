@@ -9044,5 +9044,39 @@
       "optionText": "1. Giao diện thân thiện, cho phép cắt ghép, thêm nhạc nền, hiệu ứng và phụ đề dễ dàng"
     },
     "updatedAt": "2025-11-16T16:56:12.480Z"
+  },
+  "Việc chia sẻ loại tài liệu nào sau đây được cảnh báo có thể dẫn đến \"kỷ luật lao động nghiêm trọng\"?": {
+    "questionId": 1763312175728,
+    "questionText": "Việc chia sẻ loại tài liệu nào sau đây được cảnh báo có thể dẫn đến \"kỷ luật lao động nghiêm trọng\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Video ghi lại sự kiện có ý nghĩa công khai",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tài liệu học tập, bài tập mẫu",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tài liệu mật, bí mật công việc, hoặc thông tin khách hàng/đối tác",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Thông tin hữu ích, kiến thức cộng đồng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Tài liệu mật, bí mật công việc, hoặc thông tin khách hàng/đối tác"
+    },
+    "updatedAt": "2025-11-16T16:56:22.346Z"
   }
 }
