@@ -7253,5 +7253,39 @@
       "optionText": "2. Thực hiện quét mã QR"
     },
     "updatedAt": "2025-11-16T15:04:52.820Z"
+  },
+  "Nội dung nào sau đây được khuyến khích chia sẻ vì mang lại giá trị tích cực và tạo kết nối tốt đẹp?": {
+    "questionId": 1763305496602,
+    "questionText": "Nội dung nào sau đây được khuyến khích chia sẻ vì mang lại giá trị tích cực và tạo kết nối tốt đẹp?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Lịch trình đi lại cụ thể",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Tài liệu có dấu \"Tuyệt mật\"",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Hình ảnh trong nhà, phòng ngủ",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Hình ảnh sinh hoạt lành mạnh",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Hình ảnh sinh hoạt lành mạnh"
+    },
+    "updatedAt": "2025-11-16T15:05:00.684Z"
   }
 }
