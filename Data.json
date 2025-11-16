@@ -7527,5 +7527,39 @@
       "optionText": "3. Thông tin về giá cả thị trường nông sản hằng ngày, \n4. Văn bản, tài liệu phổ biến đã được phép công khai"
     },
     "updatedAt": "2025-11-16T15:10:43.005Z"
+  },
+  "Phương thức chia sẻ nào phù hợp nhất để chia sẻ công khai với cộng đồng và cho phép tương tác mạnh mẽ thông qua \"like, comment, share\"?": {
+    "questionId": 1763306001728,
+    "questionText": "Phương thức chia sẻ nào phù hợp nhất để chia sẻ công khai với cộng đồng và cho phép tương tác mạnh mẽ thông qua \"like, comment, share\"?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Email",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ứng dụng nhắn tin",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Mạng xã hội (Facebook, Instagram, TikTok)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Dịch vụ lưu trữ đám mây",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Mạng xã hội (Facebook, Instagram, TikTok)"
+    },
+    "updatedAt": "2025-11-16T15:13:29.052Z"
   }
 }
