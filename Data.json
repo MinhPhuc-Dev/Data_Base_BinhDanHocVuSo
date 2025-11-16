@@ -7425,5 +7425,39 @@
       "optionText": "4. Google Play Store"
     },
     "updatedAt": "2025-11-16T15:09:24.390Z"
+  },
+  "Chức năng cơ bản nào của máy tính thường liên quan đến Microsoft Word, Excel, PowerPoint?": {
+    "questionId": 1763305812093,
+    "questionText": "Chức năng cơ bản nào của máy tính thường liên quan đến Microsoft Word, Excel, PowerPoint?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Truy cập Internet",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Giao tiếp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Soạn thảo văn bản",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Giải trí",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Soạn thảo văn bản"
+    },
+    "updatedAt": "2025-11-16T15:10:14.642Z"
   }
 }
