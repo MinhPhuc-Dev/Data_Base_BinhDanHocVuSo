@@ -6690,5 +6690,39 @@
       "displayOrder": 4
     },
     "updatedAt": "2025-11-16T13:42:02.418Z"
+  },
+  "Để có thể ký số văn bản hoặc tài liệu điện tử, ngoài chứng thư CKS, ta cần có điều kiện nào?": {
+    "questionId": 1763300532512,
+    "questionText": "Để có thể ký số văn bản hoặc tài liệu điện tử, ngoài chứng thư CKS, ta cần có điều kiện nào?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Máy tính có kết nối mạng hoặc điện thoại thông minh có kết nối mạng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ cần có mạng Internet",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ cần có máy tính",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Cần có USB Token",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "Để có thể ký số văn bản hoặc tài liệu điện tử, ngoài chứng thư CKS, ta cần có điều kiện: Cần có USB Token. \n\nVậy câu trả lời đúng là: 4. Cần có USB Token."
+    },
+    "updatedAt": "2025-11-16T13:42:15.477Z"
   }
 }
