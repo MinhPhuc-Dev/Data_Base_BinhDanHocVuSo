@@ -3463,5 +3463,39 @@
       "displayOrder": 3
     },
     "updatedAt": "2025-11-16T08:34:43.671Z"
+  },
+  "Theo ví dụ thực tế trong chuyên đề 5: Sáng tạo nội dung số, việc cán bộ công chức sử dụng AI để hỗ trợ sáng tạo nội dung thường tập trung vào mục đích gì?": {
+    "questionId": 1763282330513,
+    "questionText": "Theo ví dụ thực tế trong chuyên đề 5: Sáng tạo nội dung số, việc cán bộ công chức sử dụng AI để hỗ trợ sáng tạo nội dung thường tập trung vào mục đích gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chỉnh sửa ảnh cá nhân",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chuyển các số liệu khô khan thành biểu đồ hấp dẫn hoặc infographic trực quan",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Viết kịch bản phim",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Làm video ngắn quảng bá du lịch",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Chuyển các số liệu khô khan thành biểu đồ hấp dẫn hoặc infographic trực quan"
+    },
+    "updatedAt": "2025-11-16T08:38:57.959Z"
   }
 }
