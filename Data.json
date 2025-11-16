@@ -7122,5 +7122,39 @@
       "optionText": "1. Rút phích cắm khi thiết bị chưa đầy pin\n4. Luôn dùng sạc chính hãng"
     },
     "updatedAt": "2025-11-16T14:31:22.871Z"
+  },
+  "Chữ ký số được sử dụng trong hoạt động công vụ được gọi là gì?": {
+    "questionId": 1763305474746,
+    "questionText": "Chữ ký số được sử dụng trong hoạt động công vụ được gọi là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Chữ ký số công cộng",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chữ ký số doanh nghiệp",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chữ ký điện tử thông thường",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Chữ ký số chuyên dùng công vụ",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "4. Chữ ký số chuyên dùng công vụ"
+    },
+    "updatedAt": "2025-11-16T15:04:37.611Z"
   }
 }
