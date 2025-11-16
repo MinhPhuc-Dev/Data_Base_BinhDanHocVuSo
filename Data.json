@@ -4697,5 +4697,39 @@
       "optionText": "3. Làm việc từ xa"
     },
     "updatedAt": "2025-11-16T08:53:43.347Z"
+  },
+  "Theo định hướng chuyển đổi số tỉnh Quảng Ngãi, mục tiêu đến năm 2030 là gì?": {
+    "questionId": 1763283221958,
+    "questionText": "Theo định hướng chuyển đổi số tỉnh Quảng Ngãi, mục tiêu đến năm 2030 là gì?",
+    "questionType": "MultipleChoice",
+    "difficultyLevel": "Medium",
+    "points": 10,
+    "questionOrder": 1,
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Trở thành tỉnh phát triển khá của cả nước",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Trở thành tỉnh phát triển khá của miền Bắc",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chỉ tập trung vào đô thị lớn",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Đứng đầu cả nước về công nghiệp nặng",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Trở thành tỉnh phát triển khá của cả nước"
+    },
+    "updatedAt": "2025-11-16T08:53:49.716Z"
   }
 }
