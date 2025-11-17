@@ -9316,5 +9316,35 @@
       "optionText": "3. Gửi tờ khai qua mạng Internet"
     },
     "updatedAt": "2025-11-17T06:21:18.152Z"
+  },
+  "Theo nội dung ở chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, các dịch vụ Google Drive, OneDrive, Dropbox, iCloud thuộc hình thức chia sẻ dữ liệu nào?": {
+    "questionId": 1763360677774,
+    "questionText": "Theo nội dung ở chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, các dịch vụ Google Drive, OneDrive, Dropbox, iCloud thuộc hình thức chia sẻ dữ liệu nào?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Dịch vụ lưu trữ đám mây",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mạng xã hội",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ứng dụng nhắn tin",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Email",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Dịch vụ lưu trữ đám mây"
+    },
+    "updatedAt": "2025-11-17T06:24:40.972Z"
   }
 }
