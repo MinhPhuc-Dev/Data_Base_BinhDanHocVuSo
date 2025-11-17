@@ -9491,5 +9491,35 @@
       "optionText": "3. 4 tính chất"
     },
     "updatedAt": "2025-11-17T06:43:13.059Z"
+  },
+  "Hiện nay, ứng dụng nào đang cho phép người dân thực hiện đăng ký chứng thư chữ ký số cá nhân miễn phí?": {
+    "questionId": 1763361856204,
+    "questionText": "Hiện nay, ứng dụng nào đang cho phép người dân thực hiện đăng ký chứng thư chữ ký số cá nhân miễn phí?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Cổng Dịch vụ công Quốc gia",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ứng dụng VNeID",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Ứng dụng Zalo",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ứng dụng eTax",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Ứng dụng VNeID"
+    },
+    "updatedAt": "2025-11-17T06:44:16.903Z"
   }
 }
