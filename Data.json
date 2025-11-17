@@ -9371,5 +9371,35 @@
       "optionText": "3. Các điều khoản sử dụng dịch vụ"
     },
     "updatedAt": "2025-11-17T06:26:26.921Z"
+  },
+  "Điều nào sau đây là một trong những tiện ích của việc sử dụng dịch vụ lưu trữ Đám mây?": {
+    "questionId": 1763360799481,
+    "questionText": "Điều nào sau đây là một trong những tiện ích của việc sử dụng dịch vụ lưu trữ Đám mây?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tốc độ truy cập luôn chậm hơn ổ cứng gắn trong",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Truy cập và sử dụng dữ liệu mọi lúc, mọi nơi",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Khó chia sẻ dữ liệu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Cần nhiều chi phí mua sắm thiết bị",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Truy cập và sử dụng dữ liệu mọi lúc, mọi nơi"
+    },
+    "updatedAt": "2025-11-17T06:26:39.878Z"
   }
 }
