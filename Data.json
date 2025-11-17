@@ -9201,5 +9201,35 @@
       "optionText": "1. Cục Chứng thực số và Bảo mật thông tin trực thuộc Ban Cơ yếu Chính phủ"
     },
     "updatedAt": "2025-11-17T06:08:24.640Z"
+  },
+  "Việc đăng ký chứng thư chữ ký số trên VNeID yêu cầu người dùng phải chọn một yếu tố nào sau đây?": {
+    "questionId": 1763359989775,
+    "questionText": "Việc đăng ký chứng thư chữ ký số trên VNeID yêu cầu người dùng phải chọn một yếu tố nào sau đây?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Một loại hình dịch vụ công",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Một trong các nhà cung cấp hiện có",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Một hình thức bảo mật sinh trắc học",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Một phương thức thanh toán",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Một trong các nhà cung cấp hiện có"
+    },
+    "updatedAt": "2025-11-17T06:13:13.072Z"
   }
 }
