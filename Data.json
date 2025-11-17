@@ -9286,5 +9286,35 @@
       "optionText": "1. Bật micro khi phát biểu, tắt micro khi không nói để tránh ồn"
     },
     "updatedAt": "2025-11-17T06:18:34.233Z"
+  },
+  "Trong quy trình ký số và kiểm tra chữ ký số đối với tờ khai thuế, bước nào diễn ra ngay sau \"Ký số vào tờ khai thuế\"?": {
+    "questionId": 1763360477700,
+    "questionText": "Trong quy trình ký số và kiểm tra chữ ký số đối với tờ khai thuế, bước nào diễn ra ngay sau \"Ký số vào tờ khai thuế\"?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Kiểm tra chữ ký số",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chuẩn bị tờ khai thuế",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Gửi tờ khai qua mạng Internet",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Xác nhận",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Gửi tờ khai qua mạng Internet"
+    },
+    "updatedAt": "2025-11-17T06:21:18.152Z"
   }
 }
