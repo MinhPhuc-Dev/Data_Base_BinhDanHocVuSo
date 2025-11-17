@@ -9176,5 +9176,30 @@
       "optionText": "2. Ký số"
     },
     "updatedAt": "2025-11-17T06:05:47.113Z"
+  },
+  "Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ là tổ chức nào?": {
+    "questionId": 1763359700475,
+    "questionText": "Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ là tổ chức nào?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Cục Chứng thực số và Bảo mật thông tin trực thuộc Ban Cơ yếu Chính phủ",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Sở Khoa học và Công nghệ tỉnh Quảng Ngãi",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "1. Cục Chứng thực số và Bảo mật thông tin trực thuộc Ban Cơ yếu Chính phủ"
+    },
+    "updatedAt": "2025-11-17T06:08:24.640Z"
   }
 }
