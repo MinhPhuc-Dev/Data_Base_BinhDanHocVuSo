@@ -9256,5 +9256,35 @@
       "optionText": "2. Khóa bí mật và Khóa công khai"
     },
     "updatedAt": "2025-11-17T06:16:24.733Z"
+  },
+  "Để học trực tuyến hiệu quả, người học được khuyên nên làm gì đối với micro?": {
+    "questionId": 1763360310918,
+    "questionText": "Để học trực tuyến hiệu quả, người học được khuyên nên làm gì đối với micro?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Bật micro khi phát biểu, tắt micro khi không nói để tránh ồn",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Chỉ bật micro khi không nói",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Bật micro khi nghe giảng",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Luôn bật micro",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Bật micro khi phát biểu, tắt micro khi không nói để tránh ồn"
+    },
+    "updatedAt": "2025-11-17T06:18:34.233Z"
   }
 }
