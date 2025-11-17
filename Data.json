@@ -9146,5 +9146,35 @@
       "optionText": "Một “chợ” thông tin lớn."
     },
     "updatedAt": "2025-11-16T22:26:00.970Z"
+  },
+  "Trong thuật toán khóa không đối xứng dùng cho chữ ký số, Khóa bí mật (khóa riêng) được dùng để làm gì?": {
+    "questionId": 1763359546544,
+    "questionText": "Trong thuật toán khóa không đối xứng dùng cho chữ ký số, Khóa bí mật (khóa riêng) được dùng để làm gì?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Mã hóa dữ liệu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Ký số",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Mở khóa dữ liệu",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Kiểm tra chữ ký số",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "2. Ký số"
+    },
+    "updatedAt": "2025-11-17T06:05:47.113Z"
   }
 }
