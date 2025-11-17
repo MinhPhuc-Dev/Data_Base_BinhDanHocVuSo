@@ -9461,5 +9461,35 @@
       "optionText": "3. Tiết kiệm thời gian và chi phí đi lại"
     },
     "updatedAt": "2025-11-17T06:38:34.925Z"
+  },
+  "Theo nội dung ở chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, có bao nhiêu tính chất cơ bản của chữ ký số?": {
+    "questionId": 1763361789841,
+    "questionText": "Theo nội dung ở chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, có bao nhiêu tính chất cơ bản của chữ ký số?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "2 tính chất",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "5 tính chất",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "4 tính chất",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "3 tính chất",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. 4 tính chất"
+    },
+    "updatedAt": "2025-11-17T06:43:13.059Z"
   }
 }
