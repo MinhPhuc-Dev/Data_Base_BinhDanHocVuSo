@@ -9231,5 +9231,30 @@
       "optionText": "2. Một trong các nhà cung cấp hiện có"
     },
     "updatedAt": "2025-11-17T06:13:13.072Z"
+  },
+  "Theo nội dung chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, một Chữ ký số bao gồm những thành phần khóa nào?": {
+    "questionId": 1763360181295,
+    "questionText": "Theo nội dung chuyên đề 4: Giao tiếp và hợp tác trên môi trường số, một Chữ ký số bao gồm những thành phần khóa nào?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Khóa tài khoản và Khóa mật khẩu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Khóa bí mật và Khóa công khai",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Khóa xác thực và Khóa bảo mật",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "2. Khóa bí mật và Khóa công khai"
+    },
+    "updatedAt": "2025-11-17T06:16:24.733Z"
   }
 }
