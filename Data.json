@@ -9346,5 +9346,30 @@
       "optionText": "1. Dịch vụ lưu trữ đám mây"
     },
     "updatedAt": "2025-11-17T06:24:40.972Z"
+  },
+  "Quy tắc ứng xử cho Nhà cung cấp dịch vụ mạng xã hội yêu cầu họ phải công bố rõ ràng điều gì?": {
+    "questionId": 1763360783783,
+    "questionText": "Quy tắc ứng xử cho Nhà cung cấp dịch vụ mạng xã hội yêu cầu họ phải công bố rõ ràng điều gì?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Danh sách người dùng hàng đầu",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Lợi nhuận hàng quý",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Các điều khoản sử dụng dịch vụ",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "3. Các điều khoản sử dụng dịch vụ"
+    },
+    "updatedAt": "2025-11-17T06:26:26.921Z"
   }
 }
