@@ -9401,5 +9401,35 @@
       "optionText": "2. Truy cập và sử dụng dữ liệu mọi lúc, mọi nơi"
     },
     "updatedAt": "2025-11-17T06:26:39.878Z"
+  },
+  "Ngoài soạn, gửi, nhận và lưu trữ, email còn cho phép thực hiện thao tác cơ bản nào?": {
+    "questionId": 1763360800981,
+    "questionText": "Ngoài soạn, gửi, nhận và lưu trữ, email còn cho phép thực hiện thao tác cơ bản nào?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Đính kèm file tài liệu, hình ảnh",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Đặt lịch hẹn tự động",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Chia sẻ vị trí hiện tại",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Gọi điện video",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "1. Đính kèm file tài liệu, hình ảnh"
+    },
+    "updatedAt": "2025-11-17T06:26:44.052Z"
   }
 }
