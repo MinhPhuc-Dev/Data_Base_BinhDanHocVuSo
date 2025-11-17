@@ -9548,5 +9548,35 @@
       "displayOrder": 2
     },
     "updatedAt": "2025-11-17T06:46:27.922Z"
+  },
+  "Công cụ chia sẻ dữ liệu nào được mô tả là \"Chuyên nghiệp, trang trọng\" và hỗ trợ \"Lưu trữ lâu dài, dễ tìm kiếm\"?": {
+    "questionId": 1763362367445,
+    "questionText": "Công cụ chia sẻ dữ liệu nào được mô tả là \"Chuyên nghiệp, trang trọng\" và hỗ trợ \"Lưu trữ lâu dài, dễ tìm kiếm\"?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Email (Gmail, Outlook)",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Mạng xã hội (Facebook, TikTok)",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Dịch vụ lưu trữ đám mây (Google Drive)",
+        "DisplayOrder": 3
+      },
+      {
+        "OptionID": 4,
+        "OptionText": "Ứng dụng nhắn tin (Zalo, Messenger)",
+        "DisplayOrder": 4
+      }
+    ],
+    "answer": {
+      "optionText": "3. Dịch vụ lưu trữ đám mây (Google Drive)"
+    },
+    "updatedAt": "2025-11-17T06:52:50.639Z"
   }
 }
