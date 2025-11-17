@@ -9521,5 +9521,32 @@
       "optionText": "2. Ứng dụng VNeID"
     },
     "updatedAt": "2025-11-17T06:44:16.903Z"
+  },
+  "Khi sử dụng mạng xã hội, tổ chức, cá nhân nên sử dụng thông tin thật nào?": {
+    "questionId": 1763361987302,
+    "questionText": "Khi sử dụng mạng xã hội, tổ chức, cá nhân nên sử dụng thông tin thật nào?",
+    "options": [
+      {
+        "OptionID": 1,
+        "OptionText": "Tên viết tắt và địa chỉ email",
+        "DisplayOrder": 1
+      },
+      {
+        "OptionID": 2,
+        "OptionText": "Họ, tên thật cá nhân, tên hiệu thật của tổ chức, cơ quan",
+        "DisplayOrder": 2
+      },
+      {
+        "OptionID": 3,
+        "OptionText": "Tài khoản ẩn danh",
+        "DisplayOrder": 3
+      }
+    ],
+    "answer": {
+      "optionText": "Họ, tên thật cá nhân, tên hiệu thật của tổ chức, cơ quan",
+      "optionId": 2,
+      "displayOrder": 2
+    },
+    "updatedAt": "2025-11-17T06:46:27.922Z"
   }
 }
